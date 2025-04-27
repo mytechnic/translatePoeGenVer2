@@ -1,0 +1,159 @@
+[ {
+  "id" : "accessory",
+  "label" : "장신구",
+  "entries" : {
+    "name" : [ null, "아켈리의 초원" ],
+    "text" : [ null, "아켈리의 초원 루비 반지" ],
+    "type" : [ "파란 진주 목걸이" ],
+    "options" : [ null ]
+  }
+}, {
+  "id" : "armour",
+  "label" : "방어구",
+  "entries" : {
+    "name" : [ null, "아버라스의 발굽" ],
+    "text" : [ null, "아버라스의 발굽 염소가죽 장화" ],
+    "type" : [ "황금 외투" ],
+    "options" : [ null ]
+  }
+}, {
+  "id" : "card",
+  "label" : "카드",
+  "entries" : {
+    "type" : [ "버려진 재산" ],
+    "options" : [ null ]
+  }
+}, {
+  "id" : "currency",
+  "label" : "화폐",
+  "entries" : {
+    "name" : [ null, "흡수의 골동품" ],
+    "text" : [ null, "흡수의 골동품 태고의 조각" ],
+    "type" : [ "십자군의 엑잘티드 오브" ],
+    "options" : [ null ]
+  }
+}, {
+  "id" : "flask",
+  "label" : "플라스크",
+  "entries" : {
+    "name" : [ null, "앗지리의 약속" ],
+    "text" : [ null, "앗지리의 약속 자수정 플라스크" ],
+    "type" : [ "소형 하이브리드 플라스크" ],
+    "options" : [ null ]
+  }
+}, {
+  "id" : "gem",
+  "label" : "젬",
+  "entries" : {
+    "disc" : [ null, "alt_y" ],
+    "text" : [ null, "원거리 병기의 무기 기동" ],
+    "type" : [ "면죄" ],
+    "options" : [ null ]
+  }
+}, {
+  "id" : "jewel",
+  "label" : "주얼",
+  "entries" : {
+    "name" : [ null, "아마나무의 응시" ],
+    "text" : [ null, "아마나무의 응시 무시무시한 눈 주얼" ],
+    "type" : [ "최면 거는 눈 주얼" ],
+    "options" : [ null ]
+  }
+}, {
+  "id" : "map",
+  "label" : "지도",
+  "entries" : {
+    "name" : [ null, "액턴의 악몽" ],
+    "disc" : [ null, "warfortheatlas" ],
+    "text" : [ null, "칼데라 지도 (아틀라스의 세계)" ],
+    "type" : [ "앗조아틀의 연대기" ],
+    "options" : [ null ]
+  }
+}, {
+  "id" : "weapon",
+  "label" : "무기",
+  "entries" : {
+    "name" : [ null, "아버라스의 뿔" ],
+    "text" : [ null, "아버라스의 뿔 염소의 뿔" ],
+    "type" : [ "못박은 너클" ],
+    "options" : [ null ]
+  }
+}, {
+  "id" : "leaguestone",
+  "label" : "리그스톤",
+  "entries" : {
+    "type" : [ "매복 리그스톤" ],
+    "options" : [ null ]
+  }
+}, {
+  "id" : "monster",
+  "label" : "아이템화된 몬스터",
+  "entries" : {
+    "type" : [ "거대한 백색 야수" ],
+    "options" : [ null ]
+  }
+}, {
+  "id" : "heistequipment",
+  "label" : "강탈 장비",
+  "entries" : {
+    "type" : [ "장어가죽 밑창" ],
+    "options" : [ null ]
+  }
+}, {
+  "id" : "heistmission",
+  "label" : "강탈 임무",
+  "entries" : {
+    "name" : [ null, "계약: 파괴 불가능한 존재 파괴하기" ],
+    "text" : [ null, "계약: 파괴 불가능한 존재 파괴하기 예방 차원의 계약" ],
+    "type" : [ "도면: 벙커" ],
+    "options" : [ null ]
+  }
+}, {
+  "id" : "logbook",
+  "label" : "탐험 일지",
+  "entries" : {
+    "type" : [ "탐험 일지" ],
+    "options" : [ null ]
+  }
+}, {
+  "id" : "sanctum",
+  "label" : "성역 연구",
+  "entries" : {
+    "name" : [ null, "이노센스의 피" ],
+    "text" : [ null, "이노센스의 피 향로 유물" ],
+    "type" : [ "향로 유물" ],
+    "options" : [ null ]
+  }
+}, {
+  "id" : "memoryline",
+  "label" : "아틀라스 기억",
+  "entries" : {
+    "type" : [ "알바의 기억" ],
+    "options" : [ null ]
+  }
+}, {
+  "id" : "tincture",
+  "label" : "팅크",
+  "entries" : {
+    "name" : [ null, "탐욕스러운 까마중" ],
+    "text" : [ null, "탐욕스러운 까마중 포자꽃 팅크" ],
+    "type" : [ "분광 팅크" ],
+    "options" : [ null ]
+  }
+}, {
+  "id" : "corpse",
+  "label" : "아이템화된 시신",
+  "entries" : {
+    "type" : [ "완전한 해군 장교" ],
+    "options" : [ null ]
+  }
+}, {
+  "id" : "idol",
+  "label" : "우상",
+  "entries" : {
+    "name" : [ null, "Arbitrary Tenets" ],
+    "text" : [ null, "Arbitrary Tenets Minor Idol" ],
+    "type" : [ "Minor Idol" ],
+    "options" : [ null ]
+  }
+} ]

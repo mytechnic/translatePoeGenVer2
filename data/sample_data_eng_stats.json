@@ -1,0 +1,109 @@
+[ {
+  "id" : "pseudo",
+  "label" : "Pseudo",
+  "entries" : {
+    "id" : [ "pseudo.pseudo_total_cold_resistance" ],
+    "text" : [ "+#% total to Cold Resistance" ],
+    "type" : [ "pseudo" ],
+    "options" : [ null, [ "Lesser" ] ]
+  }
+}, {
+  "id" : "explicit",
+  "label" : "Explicit",
+  "entries" : {
+    "id" : [ "explicit.stat_3299347043" ],
+    "text" : [ "+# to maximum Life" ],
+    "type" : [ "explicit" ],
+    "options" : [ null, [ "Swift Killer" ], [ "Small" ], [ "Minion Instability" ], [ "Rhoa" ], [ "Einhar" ] ]
+  }
+}, {
+  "id" : "implicit",
+  "label" : "Implicit",
+  "entries" : {
+    "id" : [ "implicit.stat_2777224821" ],
+    "text" : [ "#% increased Maps found in your Maps" ],
+    "type" : [ "implicit" ],
+    "options" : [ null, [ "The Shaper" ], [ "The Enslaver" ] ]
+  }
+}, {
+  "id" : "fractured",
+  "label" : "Fractured",
+  "entries" : {
+    "id" : [ "fractured.stat_3299347043" ],
+    "text" : [ "+# to maximum Life" ],
+    "type" : [ "fractured" ],
+    "options" : [ null, [ "Chilling" ] ]
+  }
+}, {
+  "id" : "enchant",
+  "label" : "Enchant",
+  "entries" : {
+    "id" : [ "enchant.stat_3086156145" ],
+    "text" : [ "Adds # Passive Skills" ],
+    "type" : [ "enchant" ],
+    "options" : [ null, [ "Axe Attacks deal 12% increased Damage with Hits and Ailments\nSword Attacks deal 12% increased Damage with Hits and Ailments" ], [ "Indiscriminate Revenge" ], [ "Magic" ], [ "Einhar" ], [ "Uul-Netol" ] ]
+  }
+}, {
+  "id" : "scourge",
+  "label" : "Scourge",
+  "entries" : {
+    "id" : [ "scourge.stat_1671376347" ],
+    "text" : [ "+#% to Lightning Resistance" ],
+    "type" : [ "scourge" ],
+    "options" : [ null ]
+  }
+}, {
+  "id" : "crafted",
+  "label" : "Crafted",
+  "entries" : {
+    "id" : [ "crafted.stat_3299347043" ],
+    "text" : [ "+# to maximum Life" ],
+    "type" : [ "crafted" ],
+    "options" : [ null ]
+  }
+}, {
+  "id" : "crucible",
+  "label" : "Crucible",
+  "entries" : {
+    "id" : [ "crucible.mod_58320" ],
+    "text" : [ "Adds 2 to 7 Physical Damage\n6% reduced Attack Speed (Tier 1)" ],
+    "type" : [ "crucible" ],
+    "options" : [ null ]
+  }
+}, {
+  "id" : "veiled",
+  "label" : "Veiled",
+  "entries" : {
+    "id" : [ "veiled.mod_63099" ],
+    "text" : [ "of the Veil" ],
+    "type" : [ "veiled" ],
+    "options" : [ null ]
+  }
+}, {
+  "id" : "delve",
+  "label" : "Delve",
+  "entries" : {
+    "id" : [ "delve.delve_better_sell_price" ],
+    "text" : [ "Item is overvalued by vendors" ],
+    "type" : [ "delve" ],
+    "options" : [ null ]
+  }
+}, {
+  "id" : "ultimatum",
+  "label" : "Ultimatum",
+  "entries" : {
+    "id" : [ "ultimatum.umod_40225" ],
+    "text" : [ "Choking Miasma" ],
+    "type" : [ "ultimatum" ],
+    "options" : [ null ]
+  }
+}, {
+  "id" : "sanctum",
+  "label" : "Sanctum",
+  "entries" : {
+    "id" : [ "sanctum.stat_85125881" ],
+    "text" : [ "The Herald of the Scourge drops the Balance of Terror" ],
+    "type" : [ "sanctum" ],
+    "options" : [ null ]
+  }
+} ]

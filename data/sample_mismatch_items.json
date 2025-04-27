@@ -1,0 +1,29 @@
+[ {
+  "id" : "armour",
+  "label" : "Armour",
+  "reason" : "entries 매칭 실패",
+  "entries" : {
+    "engEntry" : {
+      "name" : [ null, "Abberath's Hooves" ],
+      "text" : [ null, "Abberath's Hooves Goathide Boots" ],
+      "type" : [ "Golden Mantle" ]
+    },
+    "korEntry" : {
+      "name" : [ null, "아버라스의 발굽" ],
+      "text" : [ null, "아버라스의 발굽 염소가죽 장화" ],
+      "type" : [ "황금 외투" ]
+    }
+  }
+}, {
+  "id" : "monster",
+  "label" : "Itemised Monsters",
+  "reason" : "entries 매칭 실패",
+  "entries" : {
+    "engEntry" : {
+      "name" : [ "The Great White Beast" ]
+    },
+    "korEntry" : {
+      "name" : [ "거대한 백색 야수" ]
+    }
+  }
+} ]

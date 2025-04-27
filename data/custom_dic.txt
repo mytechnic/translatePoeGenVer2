@@ -1,0 +1,921 @@
+IMPORT CODE FOR PATH OF BUILDING|POB 코드
+Death penalty awarded to slayer|플레이어 처치 시 사망 페널티 보상
+Modifiable only with Chaos Orbs|카오스 오브로만 속성 부여 가능
+Harsh death experience penalty|사망 경험치 페널티 증가
+Item no longer available|아이템 사용 불가
+Northern Mariana Islands|북마리아나 제도
+Turks and Caicos Islands|터크스 케이커스 제도
+Merged from transaction|거래에서 병합 완료
+Merged into transaction|거래로 병합 완료
+One-Handed Melee Weapon|한손 근접 무기
+Two-Handed Melee Weapon|양손 근접 무기
+Failed to send messages|메시지 발송 실패
+Montenegro, Republic of|몬테네그로 공화국
+St. Pierre and Miquelon|생피에르 미클롱
+Captured Beast Filters|포획한 야수 필터
+Escape Routes Revealed|드러낸 탈출 경로
+Trap Disarmament Level|덫 해제 레벨
+Any Expedition Logbook|모든 탐험 일지
+British Virgin Islands|영국령 버진 제도
+Crucible Passive Trees|시련 패시브 트리
+Effective Health Pool|유효 생명력(EHP)
+Reward Rooms Revealed|드러낸 보물 창고
+Any Celestial Variant|천공의 변화형
+SKILL DPS ESTIMATION|스킬 DPS 평가
+Payment Transactions|거래 결제
+Chaos Orb Equivalent|카오스 오브 등가물
+Brazilian Portuguese|브라질 포르투갈어
+Awakened Support Gem|각성한 보조 젬
+Counter-Thaum. Level|대-마석학 레벨
+Any Voidborn Variant|모든 공허의 시초 변화형
+Pandemonium Sentinel|대혼란 파수꾼
+Eater of Worlds Item|세계 포식자 아이템
+Alternatives Artwork|대체 작품
+Georgia, Republic of|조지아 공화국
+Netherlands Antilles|네덜란드령 안틸 제도
+Syrian Arab Republic|시리아
+United Arab Emirates|아랍에미리트
+Base One-Handed Mace|기본 한손 철퇴
+Chaos or Divine Orbs|카오스 오브 또는 신성한 오브
+Transaction History|거래 내역
+Any Heist Equipment|모든 강탈 장비
+Total Escape Routes|전체 탈출 경로
+Searing Exarch Item|작열의 총주교 아이템
+British West Indies|영국령 서인도 제도
+Congo (Brazzaville)|콩고(브라자빌)
+Sao Tome & Principe|상투메 프린시페
+Serbia, Republic of|세르비아 공화국
+Trinidad And Tobago|트리니다드 토바고
+Any One-Handed Mace|모든 한손 철퇴
+Any Necropolis Pack|네크로폴리스 팩 (종류 무관)
+Automation Support|자동화
+Accept transaction|거래 수락
+Reject transaction|거래 거부
+Cancel transaction|거래 취소
+Hostile by default|기본 적대
+Change Member Type|지위 변경
+Trophy Description|트로피 설명
+Attacks per Second|초당 공격 횟수
+Shards & Splinters|조각 및 파편
+Crusader Influence|십자군 영향
+Redeemer Influence|대속자 영향
+Maven's Invitation|메이븐의 초대
+Total Reward Rooms|전체 보물 창고
+Superior (Default)|상급 (기본)
+Mirrored Rare Item|복제된 희귀 아이템
+Bosnia-Herzegovina|보스니아 헤르체고비나
+Dominican Republic|도미니카 공화국
+Blight-ravaged Map|역병에 유린당한 지도
+Celestial Amethyst|천공의 자수정
+Endurance charges|인내 충전
+Lightning Max Hit|번개 최대 허용치
+Instance invasion|인스턴스 침략
+Microtransactions|포인트 아이템
+Add points amount|추가 포인트
+Sub points amount|삭제 포인트
+Percentage Amount|백분율
+Signature Seasons|대표 시즌
+One-Handed Weapon|한손 무기
+Damage per Second|초당 피해
+War for the Atlas|아틀라스 격전
+Warlord Influence|전쟁군주 영향
+Any Heist Mission|모든 강탈 임무
+Lockpicking Level|자물쇠 따기 레벨
+Brute Force Level|완력 레벨
+Engineering Level|공학 레벨
+Rainbow (Default)|무지개 (기본)
+Ultimatum Filters|결전 필터
+Protect the Altar|제단 지키기
+Enemies Empowered|강화된 적
+Antigua & Barduba|안티과 & 바르두바
+Brunei Darussalam|브루나이 다루살람
+Christmas Islands|크리스마스 섬
+Equatorial Guinea|적도 기니
+Create an account|계정 생성
+Celestial Emerald|천공의 에메랄드
+Celestial Aureate|천공의 금빛
+Physical Max Hit|물리 최대 허용치
+Hide Delve Depth|광산 깊이 숨기기
+League has ended|리그 종료
+Exclude incoming|수신 제외
+Show All Players|모든 플레이어 표시
+Flag Compromised|표시 노출
+Internal Pending|내부 보류
+Item Subcategory|아이템 하위 유형
+One-Handed Sword|한손검
+Plummeting Ursae|곤두박질 곰
+Arachnoscorpions|거미전갈
+Gem Experience %|젬 경험치 %
+(at max Quality)|(최대 퀄리티)
+Unavailable Stat|사용할 수 없는 능력치
+Fragments & Sets|조각 및 세트
+Delve Resonators|탐광 공명기
+Divination Cards|점술 카드
+Invalid Currency|유효하지 않은 화폐
+Up to 3 Days Ago|3일 전까지
+Up to a Week Ago|1주일 전까지
+Whisper Language|귓속말 언어
+Synthesised Item|결합된 아이템
+Can Fulfil Trade|거래 처리 가능
+Character Search|캐릭터 검색
+Shaper Influence|쉐이퍼 영향
+Hunter Influence|사냥꾼 영향
+Perception Level|통찰력 레벨
+Demolition Level|파괴 공작 레벨
+Gem Quality Type|젬 퀄리티 유형
+Online In League|리그 온라인
+Sentinel Filters|파수꾼 필터
+Stalker Sentinel|추적자 파수꾼
+Falkland Islands|포클랜드 제도
+French Polynesia|프랑스령 폴리네시아
+Marshall Islands|마셜 제도
+Papua New Guinea|파푸아뉴기니
+Buy for a friend|친구에게 선물하기
+Celestial Quartz|천공의 석영
+Transfigured Gem|변성 젬
+Payment Pending|보류된 결제
+Lifetime Points|누적 포인트
+Standard Points|스탠다드 포인트
+Hardcore Points|하드코어 포인트
+Add Stat Filter|능력치 필터 추가
+Item Properties|아이템 속성
+Events Schedule|이벤트 일정
+One-Handed Mace|한손 철퇴
+Two-Handed Mace|양손 철퇴
+Divination Card|점술 카드
+Atlas of Worlds|아틀라스의 세계
+Carrion Insects|부패하는 벌레
+No Listed Price|표시 가격 없음
+Unique Fragment|고유 조각
+Active Settings|활성 설정
+Banner Settings|배너 설정
+Elder Influence|엘더 영향
+Glennach Cairns|글렌나크 돌무덤
+Heist Blueprint|강탈 도면
+Deception Level|기만 레벨
+Price with Note|참고 가격
+Character Class|캐릭터 직업
+Burma (Myanmar)|버마(미얀마)
+Pitcairn Island|핏케언 제도
+Solomon Islands|솔로몬 제도
+St. Christopher|세인트키츠
+Base Percentile|기본 백분위수
+Sanctum Filters|성역 필터
+Maximum Resolve|최대 투지
+Celestial Pearl|천공의 진주
+Pantheon Major|판테온 주요신
+Pantheon Minor|판테온 보조신
+Evasion Rating|회피 등급
+Frenzy charges|격분 충전
+CLUSTER JEWELS|스킬 군 주얼
+Character Name|캐릭터 이름
+Pale Court Set|창백한 궁정 세트
+One-Handed Axe|한손 도끼
+Two-Handed Axe|양손 도끼
+Captured Beast|포획한 야수
+Weapon Filters|무기 필터
+Armour Filters|방어구 필터
+Socket Filters|홈 필터
+Empty Prefixes|빈 접두어
+Empty Suffixes|빈 접미어
+Carrion Queens|부패하는 여왕
+Ape Chieftains|유인원 부족장
+Add Stat Group|능력치 그룹 추가
+at max Quality|최대 퀄리티
+Any Non-Unique|모든 비고유
+Seller Filters|판매자 필터
+Fractured Item|분열된 아이템
+Haewark Hamlet|헤이워크 촌락
+Heist Contract|강탈 계약
+Wings Revealed|드러낸 부속 건물
+Moderate Value|보통 가치
+Eldritch/Maven|섬뜩한/메이븐
+Challenge Type|도전 유형
+Max Durability|최대 내구도
+Talisman Level|부적 레벨
+American Samoa|미국령 사모아
+Canary Islands|카나리아 섬
+Cayman Islands|케이맨 제도
+Czech Republic|체코 공화국
+Norfolk Island|노퍽 섬
+United Kingdom|영국
+Virgin Islands|버진 제도
+Western Sahara|서사하라
+Foil Variation|반짝이 버전 변화형
+Direct Whisper|귓속말
+Celestial Ruby|천공의 루비
+Power charges|권능 충전
+Chaos Max Hit|카오스 최대 허용치
+Points Amount|기부 포인트
+Failed to ban|차단 실패
+Survivor Pack|생존자 팩
+Champion Pack|용사 팩
+Talisman Tier|부적 등급
+Unique (Foil)|고유 (반짝이 버전)
+Elemental DPS|원소 DPS
+Miscellaneous|기타
+Monster Level|몬스터 레벨
+The Awakening|각성
+Sand Spitters|모래 전갈
+Trade Filters|거래 필터
+Fragment Sets|조각 세트
+Delve Fossils|탐광 화석
+Item Exchange|아이템 교환
+Item Category|아이템 유형
+Any Accessory|모든 액세서리
+Delve Sockets|탐광 홈
+Veiled Prefix|장막 접두어
+Veiled Suffix|장막 접미어
+Unclean Merge|완벽하지 않은 병합
+Cluster Jewel|스킬 군 주얼
+Heist Filters|강탈 필터
+Agility Level|민첩함 레벨
+Reward Unique|고유 아이템 보상
+Apex Sentinel|거점 파수꾼
+Scourge Level|스컬지 레벨
+Bouvet Island|부베섬
+Faroe Islands|페로 제도
+French Guiana|프랑스령 기아나
+Great Britain|그레이트브리튼
+Guinea-Bissua|기니-비사우
+Liechtenstein|리히텐슈타인
+New Caledonia|뉴칼레도니아
+United States|미국
+Small Notches|소형 표시
+Large Pattern|대형 무늬
+Already Owned|이미 보유
+Original Cost|기존 비용
+Path of Exile|패스 오브 엑자일
+Kirac's Vault|키락의 금고실
+Crucible Item|시련 아이템
+Sanctum Relic|성역 유물
+ABYSS JEWELS|심연 주얼
+Fire Max Hit|화염 최대 허용치
+Cold Max Hit|냉기 최대 허용치
+Damage Types|공격 유형
+Flag not set|표시 설정 안 됨
+Warrior Pack|전사 팩
+Honey Potted|하니팟 적용
+Role Manager|역할 관리자
+Channel name|채널 이름
+Un-Flag Hash|해시 표시 해제
+Nuke Account|계정 강제 삭제
+Send Whisper|귓속말 보내기
+Special Cost|특별 비용
+Item special|아이템 스페셜
+Unidentified|미확인
+No Price Set|가격 미설정
+Stat Filters|능력치 필터
+Type Filters|유형 필터
+Physical DPS|물리 DPS
+Requirements|요구사항
+Map Packsize|지도 팩 크기
+Blighted Map|역병 걸린 지도
+Beast Family|야수 과
+Goat Shamans|염소 주술사
+Shield Crabs|방패게
+Karui Hounds|카루이 사냥개
+Spider Crabs|거미게
+Unmodifiable|변경 불가
+Buyout Price|즉시 구입 가격
+Asking Price|제시 가격
+Items I Want|원하는 아이템
+Items I Have|보유한 아이템
+Weighted Sum|가중 합계
+what you get|얻는 것
+what you pay|주는 것
+Depth (Solo)|광산 깊이 (솔로)
+Any Currency|모든 화폐
+Image/Source|이미지/소스
+Out Of Stock|품절
+Map Fragment|지도 조각
+Valdo's Rest|발도의 휴식처
+Lira Arthain|리라 아르타인
+Heist Brooch|강탈 브로치
+Heist Target|강탈 대상
+Any Sentinel|모든 파수꾼
+Cocos Island|코코스 섬
+Cook Islands|쿡 제도
+Newfoundland|뉴펀들랜드
+Saudi Arabia|사우디아라비아
+Sierra Leone|시에라리온
+South Africa|남아프리카 공화국
+Turkmenistan|투르크메니스탄
+Vatican City|바티칸 시국
+Scourge Tier|스컬지 등급
+Add to notes|노트에 추가
+Any Tincture|팅크
+POE ACCOUNT|POE 계정
+Resistances|저항
+BASE JEWELS|기본 주얼
+Silver Coin|실버 코인
+Body Armour|갑옷
+Abyss Jewel|심연 주얼
+Leaguestone|리그스톤
+Item Rarity|아이템 희귀도
+Mod Filters|속성 부여 필터
+Map Filters|지도 필터
+Beast Level|야수 레벨
+Beast Genus|야수 속
+Beast Group|야수 그룹
+Gargantuans|가르강튀아
+Sea Witches|바다 마녀
+Cephalopods|두족류
+Crustaceans|갑각류
+The Caverns|암굴
+Shaper Item|쉐이퍼 아이템
+Exact Price|정가
+Shaped Maps|쉐이퍼 지도
+Live Search|라이브 검색
+Stock Count|재고 개수
+Support Gem|보조 젬
+Rune Dagger|룬 단검
+Guild Stash|길드 보관함
+Lex Proxima|렉스 프록시마
+Base Dagger|기본 단검
+Heist Cloak|강탈 망토
+Total Wings|전체 부속 건물
+Reward Type|보상 유형
+Empowerment|강화
+Afghanistan|아프가니스탄
+El Salvador|엘살바도르
+Isle of Man|맨 섬
+Ivory Coast|코트디부아르
+Netherlands|네덜란드
+New Zealand|뉴질랜드
+North Korea|북한
+Philippines|필리핀
+Puerto Rico|푸에르토리코
+Saint Lucia|세인트루시아
+South Korea|대한민국
+Switzerland|스위스
+Wales, U.K.|웨일즈, 영국
+Breachstone|균열석
+Memory Line|기억선
+Inspiration|영감
+Corpse Type|시신 유형
+Attributes|능력치
+Experience|경험치
+Ineligible|부적격
+Ascendancy|전직
+Characters|캐릭터
+Calculator|계산기
+Set Amount|수량 설정
+Start Date|시작일
+Stack Size|스택 크기
+Item Stats|아이템 능력치
+Shaper Set|쉐이퍼 세트
+Item Level|아이템 레벨
+Map Series|지도 시리즈
+Shaped Map|쉐이퍼 지도
+Unnaturals|대형 포유류
+Amphibians|양서류
+Elder Item|엘더 아이템
+Durability|내구도
+Identified|식별됨
+Categories|유형
+Elder Maps|엘더 지도
+Any Weapon|모든 무기
+Any Dagger|임의의 단검
+Any Armour|모든 방어구
+Start Time|시작 시간
+Account ID|계정 ID
+Watchstone|감시자의 돌
+Base Jewel|기본 주얼
+Map Region|지도 지역
+Tirn's End|티른의 끝자락
+Lex Ejoris|렉스 에요리스
+New Vastir|뉴 바스티르
+Base Staff|기본 지팡이
+Heist Gear|강탈 장비
+Heist Tool|강탈 도구
+Area Level|지역 레벨
+Phantasmal|몽환적인
+High Value|높은 가치
+Antarctica|남극대륙
+Azerbaijan|아제르바이잔
+Bangladesh|방글라데시
+Cape Verde|카보베르데
+Costa Rica|코스타리카
+East Timor|동티모르
+Gaza Strip|가자 지구
+Guadeloupe|과들루프
+Kazakhstan|카자흐스탄
+Kyrgyzstan|키르기스스탄
+Luxembourg|룩셈부르크
+Madagascar|마다가스카르
+Martinique|마르티니크
+Mauritania|모리타니아
+Micronesia|미크로네시아
+Montserrat|몬트세랫
+Mozambique|모잠비크
+San Marino|산마리노
+Seychelles|세이셸
+St. Helena|세인트헬레나
+Tajikistan|타지키스탄
+Uzbekistan|우즈베키스탄
+Yugoslavia|유고슬라비아
+Buy Points|포인트 구입
+Stash type|보관함 유형
+Epic Games|에픽 게임즈
+Discussion|논의
+Free Track|무료 트랙
+Foreseeing|예견
+Any Corpse|시신
+KEYSTONES|키스톤
+MASTERIES|특성
+CHARACTER|캐릭터
+DEFENSIVE|방어
+Equipment|장비
+Lightning|번개
+Cancelled|취소 완료
+Wednesday|수요일
+All Types|모든 유형
+Signature|서명
+Give pack|팩 지급
+Flag Hash|해시 표시
+minute(s)|분
+second(s)|초
+DISMISSED|취소
+Corrupted|타락
+Merciless|무자비
+E. Shield|E. 보호막
+Elder Map|엘더 지도
+Chimerals|키메랄
+Devourers|포식자
+Cockerels|수탉
+Parasites|기생충
+Scorpions|전갈
+Octopuses|문어
+Gem Frogs|마석 개구리
+Arachnids|거미류
+The Wilds|야생
+The Sands|사막
+Gem Level|젬 레벨
+Enchanted|인챈트된
+Sale Type|판매 형식
+Splinters|파편
+Fragments|조각
+Any Staff|임의의 지팡이
+Item Tags|아이템 태그
+Skill Gem|스킬 젬
+Any Jewel|모든 주얼
+Resonator|공명기
+Synthesis|결합
+Longitude|경도
+Dashboard|대시보드
+Incubator|인큐베이터
+Inventory|소지품
+Anomalous|기묘한
+Divergent|상이한
+Priceless|환산 불가능한 가치
+Argentina|아르헨티나
+Australia|오스트레일리아
+Gibraltar|지브롤터
+Greenland|그린란드
+Guatemala|과테말라
+Hong Kong|홍콩
+Indonesia|인도네시아
+Kampuchea|캄푸치아
+Lithuania|리투아니아
+Macedonia|마케도니아
+Mauritius|모리셔스
+Nicaragua|니카라과
+Singapore|싱가포르
+Sri Lanka|스리랑카
+Swaziland|스와질란드
+Venezuela|베네수엘라
+West Bank|웨스트 뱅크
+Allocated|할당 완료
+Translate|번역
+Sale Cost|판매 비용
+Gold Coin|금화
+Any Charm|부적
+Construct|구조물
+Awakened|각성한
+Physical|물리
+Finishes|종료
+Finished|종료됨
+Hardcore|하드코어
+Rejected|거부 완료
+Complete|완료
+Ruthless|무자비
+Requires|요구 사항
+Thursday|목요일
+Saturday|토요일
+Incoming|수신
+Timezone|시간대
+Verified|인증 완료
+Orphaned|버려짐
+Duration|지속시간
+Add Note|노트 추가
+Add role|역할 추가
+Num keys|숫자 키
+Generate|생성
+Quantity|수량
+Start at|시작
+Upcoming|예정
+End Date|종료일
+Standard|스탠다드
+Transfer|전송
+New Note|신규 노트
+Map Tier|지도 등급
+Hellions|헬리온
+Goliaths|골리앗
+Watchers|감시자
+Vultures|시체매
+Pitbulls|투견
+Lurchers|러처
+Primates|영장류
+Reptiles|파충류
+The Deep|심해
+just now|방금
+Settings|설정
+is worth|가치 여부
+Mirrored|복제된
+Any Time|언제든
+Betrayal|배신
+modified|수정됨
+Disabled|비활성화
+Latitude|위도
+Warstaff|전쟁지팡이
+Amethyst|자수정
+Precious|귀중한 가치
+Anguilla|앙귈라
+Barbados|바베이도스
+Botswana|보츠와나
+Bulgaria|불가리아
+Cambodia|캄보디아
+Cameroon|카메룬
+Colombia|콜롬비아
+Djibouti|지부티
+Dominica|도미니카
+Ethiopia|에티오피아
+Guernsey|건지
+Honduras|온두라스
+Kiribati|키리바시
+Malaysia|말레이시아
+Maldives|몰디브
+Mongolia|몽골
+Pakistan|파키스탄
+Paraguay|파라과이
+Portugal|포르투갈
+Scotland|스코틀랜드
+Slovakia|슬로바키아
+Slovenia|슬로베니아
+Suriname|수리남
+Tanzania|탄자니아
+Thailand|태국
+Zimbabwe|잠바브웨
+Discount|할인
+Priority|우선순위
+Platform|플랫폼
+Eldritch|섬뜩한
+Humanoid|인간형
+Vaal Gem|바알 젬
+Bandits|밴딧
+CHARGES|충전
+Account|계정
+Started|시작됨
+Retired|은퇴
+Offline|오프라인
+Private|비공개
+minutes|분
+seconds|초
+Tuesday|화요일
+Whisper|귓속말
+Message|메시지
+Created|생성 완료
+Officer|임원
+Applied|적용됨
+Removed|제거됨
+Members|회원
+Details|세부 정보
+Deleted|삭제됨
+Uncurse|저주 해제
+Country|국가
+hour(s)|시간
+Average|평균
+Expires|만료
+Overall|전체
+Sceptre|셉터
+Sockets|홈
+Map IIQ|지도 IIQ
+Map IIR|지도 IIR
+Goatmen|염소인간
+Spiders|거미
+Retches|레치
+Leapers|리퍼
+Felines|고양이과
+Canines|개과
+Insects|곤충과
+Unknown|알 수 없음
+Selling|판매 중
+monster|몬스터
+English|영어
+Russian|러시아어
+Spanish|스페인어
+Any Gem|모든 젬
+Scarabs|갑충석
+Forever|기한 없음
+Enabled|활성화
+Preview|미리보기
+Subject|주제
+Content|내용
+Showing|결과 표시
+Pending|보류 중
+Pay Now|지금 지불
+Promote|승급
+Current|현재
+Trinket|장신구
+Verdant|에메랄드
+Aureate|금빛
+General|일반
+Survive|살아남기
+Albania|알바니아
+Algeria|알제리
+Andorra|안도라
+Armenia|아르메니아
+Austria|오스트리아
+Bahamas|바하마
+Bahrain|바레인
+Belarus|벨로루시
+Belgium|벨기에
+Bermuda|버뮤다
+Bolivia|볼리비아
+Burkina|부르키나
+Burundi|부룬디
+Comoros|코모로
+Croatia|크로아티아
+Curacoa|퀴라소
+Denmark|덴마크
+Ecuador|에콰도르
+England|잉글랜드
+Eritrea|에리트레아
+Estonia|에스토니아
+Finland|핀란드
+Germany|독일
+Grenada|그레나다
+Hungary|헝가리
+Iceland|아이슬란드
+Ireland|아일랜드
+Jamaica|자메이카
+Lebanon|레바논
+Lesotho|레소토
+Liberia|라이베리아
+Mayotte|마요트
+Moldova|몰도바
+Morocco|모로코
+Myanmar|미얀마
+Namibia|나미비아
+Nigeria|나이지리아
+Reunion|레위니옹
+Romania|루마니아
+Senegal|세네갈
+Somalia|소말리아
+Tokelau|토켈라우
+Tunisia|튀니지
+Ukraine|우크라이나
+Uruguay|우루과이
+Vanuatu|바누아투
+Vietnam|베트남
+Default|기본
+Confirm|확인
+Sign in|로그인
+Console|콘솔
+Claimed|획득 완료
+Resolve|투지
+LEAGUE|리그
+Skills|스킬
+Ladder|래더
+Points|포인트
+Starts|시작
+Online|온라인
+Accept|수락
+Reject|거부
+minute|분
+second|초
+Monday|월요일
+Friday|금요일
+Sunday|일요일
+Change|변경
+Orphan|버리기
+Cursed|저주 받음
+Amount|수량
+Manual|수동
+Remove|제거
+Damage|피해
+Links|연결부
+MIN|최소
+MAX|최대
+Contract Objective Value|계약 목표의 가치
+Map Completion Reward|지도 완성 보상
+Ward|수호
+Aureus|아우레우스
+Required Item|필요한 아이템
+Stored Experience|저장된 경험치
+Alternate Art|대체 아트
+Seller Account|판매자 계정
+Collapse Listings by Account|계정 기준으로 목록 접기
+Listed|등록 완료
+Ruby|루비
+Cobalt|코발트
+Sunset|노을빛
+Bow|활
+Claw|클로
+Coffins|관
+Allflame Embers|올플레임 잉걸불
+Tattoos|문신
+Omens|징조
+Artifacts|유물
+Oils|성유
+EQUIPMENT & GEMS|장비 & 젬
+Unique Weapons|유니크 무기
+Unique Armours|유니크 방어구
+Unique Accessories|유니크 액세서리
+Unique Flasks|유니크 플라스크
+Unique Jewels|유니크 주얼
+Unique Relics|유니크 유물
+Skill Gems|스킬젬
+ATLAS|아틀라스
+Blight-ravaged Maps|역병에 유린당한 지도
+Scourged Maps|스컬지 지도
+Invitations|초대장
+Memories|기억
+CRAFTING|제작
+Base Types|기본 유형
+Fossils|화석
+Resonators|공명기
+Vials|시약
+Stash|창고
+Trade|거래
+Snapshots|스냅샷
+Strategies|전략
+Invest|투자
+Quality|퀄리티
+Armour|방어도
+Energy Shield|에너지 보호막
+Item Level|아이템 레벨
+Lasts #초|#초 지속
+Currently has # Charge|현재 충전량 #
+Requirements Level|요구 사항 레벨
+Limited to|중복 사용 제한
+Radius|반경
+Abyss|심연
+Services|서비스
+Tree Preview트리 미리보기
+Speed|속도
+Hit Chance|명중 확률
+Crit Chance|치명타 확률
+Crit Multi|치명타 배율
+Bandit|밴딧
+Pantheon|판테온
+Soul of the Brine King|염수왕의 영혼
+Soul of Shakari|샤카리의 영혼
+Base|기본
+Sold Listings|판매된 목록
+Exact Price Listings|정확한 가격 목록
+Order Type|거래 유형
+WTB (Search for Sellers)|판매자
+WTS (Search for Buyers)|구매자
+Item Types|아이템 유형
+elixir|비약
+incense|인장
+boss materials|보스 소환 재료
+summon sets|소환 세트
+gem|젬
+Unique Items|고유 아이템
+season softcore|시즌 소프트 코어
+season hardcore|시즌 하드 코어
+eternal softcore|영원의 영역 소프트 코어
+eternal hardcore|영원의 영역 하드 코어
+Rarities|희귀도
+legendary|전설
+rare|희귀
+unique|고유
+Equipment Type|장비 유형
+amulet|목걸이
+boots|장화
+chestarmor|가슴 방어구
+gloves|장갑
+helm|투구
+pants|바지
+axe|한손 도끼
+crossbow|쇠뇌
+dagger|단검
+focus|중심점
+mace|한손 철퇴
+polearm|미늘창
+scythe|한손 낫
+shield|방패
+staff|지팡이
+sword|한손 도검
+totem|토템
+twohandedaxe|양손 도끼
+twohandedmace|양손 철퇴
+twohandedscythe|양손
+twohandedsword|양손 낫
+wand|마법봉
+Class ResTricTions|클래스 제한
+barbarian|야만용사
+druid|드루이드
+rogue|도적
+sorcerer|원소술사
+non-class specific|클래스 유형 아님
+Sacred / Ancestral|신성 / 선조
+sacred|신성
+ancestral|선조
+Price|가격
+Item Power|아이템 위력
+Level Required|요구 레벨
+Lesser|하급
+Greater|상급
+Grand|우수한
+Exceptional|특출난
+Exquisite|정교한
+Perfect|완벽한
+Open Room|열려 있는 방
+Closed Room|닫혀 있는 방
+Fire|화염
+Cold|냉기
+Maximum Life|최대 생명력
+Spirit|정신력
+Chaos|카오스
+Unnatural Resilience|초자연적인 회복력
+Polymathy|박식
+Reduced Attribute Requirements|능력치 요구사항 감소
+Sturdy Metal|튼튼한 금속
+Stone Skin|돌 가죽
+Colossal Capacity|엄청난 역량
+Hulking Form|육중한 형체
+Crushing Impacts|타쇄하는 충격
+Ancestral Empowerment|선대의 강화
+Stun Buildup|기절 누적
+Surprising Strength|놀라운 힘
+Smith's Masterwork|대장장이의 걸작
+Heat of the Forge|대장간의 열기
+Coal Stoker|석탄 때기
+Forged in Flame|불길 벼림
+Against the Anvil|모루와의 싸음
+Living Weapon|살아있는 무기
+Smith's Masterwork|대장장이의 걸작
+Dedication to Kitava|키타바에 대한 헌신
+Internal Layer|내부층
+Heavy Bracing|묵직한 버팀대
+Leather Bindings|가죽 군장
+Molten Symbol|녹아내린 상징
+Flowing Metal|흐르는 금속
+Heatproofing|내열성
+Support Straps|고정 끈
+Kitavan Engraving|키타바의 각인
+Tantalum Alloy|탄탄륨 합금
+Lead Lining|납 안감
+Padded Plates|패드를 덧댄 판금
+execute|처형
+raging cry|격노하는 함성
+brink|목전
+Perfect Strike|완벽한 타격
+Martial Tempo|무도의 속도
+Hammer of the Gods|신들의 망치
+Supercharged Slam|초과 충전 강타
+Giant's Blood|거인의 피
+Mysterious Lineage|수수께끼의 혈통
+Orbs of Augmentation|확장의 오브
+Orbs of Transmutation|진화의 오브
+Regal Orbs|제왕의 오브
+Exalted Orbs|엑잘티드 오브
+Orbs of Alchemy|연금술의 오브
+Orbs of Chance|기회의 오브
+Orbs of Annulment|소멸의 오브
+Artificer's Orbs|숙련공의 오브
+Chaos Orbs|카오스 오브
+Fracturing Orbs|분열의 오브
+Lesser Jeweller's Orb|하위 쥬얼러 오브
+Greater Jeweller's Orb|상위 쥬얼러 오브
+Perfect Jeweller's Orb|완벽한 주얼러 오브
+Armourer's Scrap|방어구 장인의 고철
+Blacksmith's Whetstone|대장장이의 숫돌
+Arcanist's Etcher|신비학자의 식각기
+Glassblower's Bauble|유리 직공의 방울
+Gemcutter's Prism|세공사의 프리즘
+Iron Runes|철룬
+Body Runes|육신 룬
+Scattershot|난사
+Molten Blast|녹아내린 폭발
+Mace Strike|철퇴 타격
+Parrying Motion|흘려보내기 동작
+Upheaval|격변
+Aftershock|여진
+Heft|중량
+Heavy Swing|묵직한 휘두르기
+Impact Shockwave|충돌 충격파
+Overpower|압도
+Magnified Effect|강해진 효과
+Earthquakes|지진
+Fire Infusion|화염 주입
+Premeditation|모의
+Scavenged Plating|주운 판금
+Dodge Roll|회피 구르기
+Cannibalism|식인
+Reach|내뻗기
+Overwhelming Presence|압도적인 존재감

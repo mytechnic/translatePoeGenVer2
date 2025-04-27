@@ -1,0 +1,12 @@
+[ {
+  "id" : "explicit",
+  "label" : "Explicit",
+  "reason" : "ID 매칭 실패",
+  "entries" : {
+    "engEntry" : {
+      "text" : [ "Your Maps have #% chance to grant an additional Kirac Mission on Completion" ],
+      "type" : [ "explicit" ]
+    },
+    "korEntry" : { }
+  }
+} ]

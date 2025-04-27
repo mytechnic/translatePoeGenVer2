@@ -1,0 +1,183 @@
+{
+  "result" : [ {
+    "id" : "Currency",
+    "label" : "화폐",
+    "entries" : [ {
+      "id" : "alt",
+      "text" : "변화의 오브",
+      "image" : "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lSZXJvbGxNYWdpYyIsInNjYWxlIjoxfV0/6308fc8ca2/CurrencyRerollMagic.png"
+    }, {
+      "id" : "sep",
+      "text" : ""
+    } ]
+  }, {
+    "id" : "Fragments",
+    "label" : "조각 및 갑충석",
+    "entries" : [ {
+      "id" : "dusk",
+      "text" : "황혼의 희생",
+      "image" : "/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9WYWFsMDQiLCJzY2FsZSI6MX1d/3be8311430/Vaal04.png"
+    }, {
+      "id" : "sacrifice-set",
+      "text" : "희생 세트",
+      "pseudo" : true,
+      "image" : "/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9WYWFsQ29tcGxldGUiLCJzY2FsZSI6MX1d/63035d86d7/VaalComplete.png"
+    }, {
+      "id" : "sep",
+      "text" : ""
+    } ]
+  }, {
+    "id" : "Runes",
+    "label" : "칼구르 룬",
+    "entries" : [ {
+      "id" : "sun-rune",
+      "text" : "태양 룬",
+      "image" : "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2V0dGxlcnMvVmlsbGFnZVJ1bmUyIiwic2NhbGUiOjF9XQ/c0bfc39082/VillageRune2.png"
+    } ]
+  }, {
+    "id" : "Ancestor",
+    "label" : "문신 및 징조",
+    "entries" : [ {
+      "id" : "tattoo-of-the-ngamahu-firewalker",
+      "text" : "나마후 화염보행자의 문신",
+      "image" : "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vblN0clRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/5cf69ce758/CommonStrTatttooEquipment.png"
+    }, {
+      "id" : "sep",
+      "text" : ""
+    } ]
+  }, {
+    "id" : "Sanctum",
+    "label" : "성역 책과 유물",
+    "entries" : [ {
+      "id" : "forbidden-tome-level-68",
+      "text" : "금지된 책 (68레벨)"
+    } ]
+  }, {
+    "id" : "MemoryLine",
+    "label" : "아틀라스 기억",
+    "entries" : [ {
+      "id" : "alvas-memory-of-cascading-fortunes",
+      "text" : "알바의 기억 - 쏟아지는 보물",
+      "description" : "지역 내 금고 추가 등장\n발견되는 금고에 순서가 있음\n순서가 있는 금고는 순서상 앞에 있는 금고를 잠금 해제해야 열림"
+    } ]
+  }, {
+    "id" : "ScoutingReport",
+    "label" : "정찰 보고서",
+    "entries" : [ {
+      "id" : "singular-scouting-report",
+      "text" : "비범한 정찰 보고서"
+    } ]
+  }, {
+    "id" : "Heist",
+    "label" : "강탈 계약 및 도면",
+    "entries" : [ {
+      "id" : "sep",
+      "text" : "낮은 등급 계약"
+    } ]
+  }, {
+    "id" : "Expedition",
+    "label" : "탐험 화폐",
+    "entries" : [ {
+      "id" : "astragali",
+      "text" : "복사뼈",
+      "image" : "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXhwZWRpdGlvbi9HYW1ibGVyUmVmcmVzaEN1cnJlbmN5Iiwic2NhbGUiOjF9XQ/ff5640db4c/GamblerRefreshCurrency.png"
+    } ]
+  }, {
+    "id" : "DeliriumOrbs",
+    "label" : "환영의 오브",
+    "entries" : [ {
+      "id" : "fine-delirium-orb",
+      "text" : "양질의 환영의 오브",
+      "image" : "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGVsaXJpdW0vRGVsaXJpdW1PcmJDdXJyZW5jeSIsInNjYWxlIjoxfV0/a0ccb93233/DeliriumOrbCurrency.png"
+    } ]
+  }, {
+    "id" : "Catalysts",
+    "label" : "기폭제",
+    "entries" : [ {
+      "id" : "turbulent-catalyst",
+      "text" : "격동의 기폭제",
+      "image" : "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ2F0YWx5c3RzL1R1cmJ1bGVudENhdGFseXN0Iiwic2NhbGUiOjF9XQ/1f49d03e58/TurbulentCatalyst.png"
+    } ]
+  }, {
+    "id" : "Oils",
+    "label" : "성유 & 추출기",
+    "entries" : [ {
+      "id" : "clear-oil",
+      "text" : "투명한 성유",
+      "image" : "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvT2lscy9DbGVhck9pbCIsInNjYWxlIjoxfV0/0a7f30cc3b/ClearOil.png"
+    } ]
+  }, {
+    "id" : "Incubators",
+    "label" : "인큐베이터",
+    "entries" : [ {
+      "id" : "whispering-incubator",
+      "text" : "속삭이는 인큐베이터",
+      "image" : "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSW5jdWJhdGlvbi9JbmN1YmF0aW9uRXNzZW5jZSIsInNjYWxlIjoxfV0/839bf6cef9/IncubationEssence.png"
+    } ]
+  }, {
+    "id" : "Delve",
+    "label" : "화석 및 공명기",
+    "entries" : [ {
+      "id" : "scorched-fossil",
+      "text" : "그을린 화석",
+      "image" : "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGVsdmUvQW1iZXJGaXJlRmx5Iiwic2NhbGUiOjF9XQ/0954934026/AmberFireFly.png"
+    }, {
+      "id" : "sep",
+      "text" : ""
+    } ]
+  }, {
+    "id" : "Essences",
+    "label" : "에센스",
+    "entries" : [ {
+      "id" : "whispering-essence-of-hatred",
+      "text" : "속삭이는 증오의 에센스",
+      "image" : "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9IYXRyZWQxIiwic2NhbGUiOjF9XQ/b22aed8024/Hatred1.png"
+    } ]
+  }, {
+    "id" : "Beasts",
+    "label" : "야수",
+    "entries" : [ {
+      "id" : "beast",
+      "text" : "노란 야수"
+    } ]
+  }, {
+    "id" : "Cards",
+    "label" : "카드",
+    "entries" : [ {
+      "id" : "a-chilling-wind",
+      "text" : "싸늘한 바람"
+    } ]
+  }, {
+    "id" : "Maps",
+    "label" : "지도",
+    "entries" : [ {
+      "id" : "sep",
+      "text" : "지도(1등급)"
+    } ]
+  }, {
+    "id" : "MapsBlighted",
+    "label" : "역병 걸린 지도",
+    "entries" : [ {
+      "id" : "blighted-map-tier-1",
+      "text" : "역병 걸린 지도 (등급 1)"
+    } ]
+  }, {
+    "id" : "MapsUnique",
+    "label" : "고유 지도",
+    "entries" : [ {
+      "id" : "actons-nightmare-tier-3",
+      "text" : "액턴의 악몽 (등급 3)"
+    } ]
+  }, {
+    "id" : "Legacy",
+    "label" : "레거시 아이템",
+    "entries" : [ {
+      "id" : "imperial-delirium-orb",
+      "text" : "제국 환영의 오브"
+    } ]
+  }, {
+    "id" : "Misc",
+    "label" : null,
+    "entries" : [ ]
+  } ]
+}

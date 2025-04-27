@@ -1,0 +1,259 @@
+{
+  "result" : [ {
+    "id" : "pseudo",
+    "label" : "Pseudo",
+    "entries" : [ {
+      "id" : "pseudo.pseudo_total_cold_resistance",
+      "text" : "+#% total to Cold Resistance",
+      "type" : "pseudo"
+    }, {
+      "id" : "pseudo.pseudo_searing_implicit_tier",
+      "text" : "Searing Exarch Implicit Modifier (#)",
+      "type" : "pseudo",
+      "option" : {
+        "options" : [ {
+          "id" : 1,
+          "text" : "Lesser"
+        } ]
+      }
+    }, {
+      "id" : "pseudo.pseudo_temple_apex",
+      "text" : "Has Room: Apex of Atzoatl",
+      "type" : "pseudo",
+      "option" : {
+        "options" : [ {
+          "id" : 1,
+          "text" : "Open Room"
+        } ]
+      }
+    } ]
+  }, {
+    "id" : "explicit",
+    "label" : "Explicit",
+    "entries" : [ {
+      "id" : "explicit.stat_3299347043",
+      "text" : "+# to maximum Life",
+      "type" : "explicit"
+    }, {
+      "id" : "explicit.stat_2460506030",
+      "text" : "Allocates # if you have matching modifier on Forbidden Flame",
+      "type" : "explicit",
+      "option" : {
+        "options" : [ {
+          "id" : 32947,
+          "text" : "Swift Killer"
+        } ]
+      }
+    }, {
+      "id" : "explicit.stat_3642528642",
+      "text" : "Only affects Passives in # Ring",
+      "type" : "explicit",
+      "option" : {
+        "options" : [ {
+          "id" : 1,
+          "text" : "Small"
+        } ]
+      }
+    }, {
+      "id" : "explicit.stat_2422708892",
+      "text" : "Passives in Radius of # can be Allocated\nwithout being connected to your tree",
+      "type" : "explicit",
+      "option" : {
+        "options" : [ {
+          "id" : 18663,
+          "text" : "Minion Instability"
+        } ]
+      }
+    }, {
+      "id" : "explicit.stat_3872739249",
+      "text" : "Grants Summon Harbinger Skill",
+      "type" : "explicit",
+      "option" : {
+        "options" : [ {
+          "id" : 1,
+          "text" : "Harbinger of the Arcane"
+        } ]
+      }
+    }, {
+      "id" : "explicit.stat_2878779644",
+      "text" : "Grants Level 20 Summon Bestial # Skill",
+      "type" : "explicit",
+      "option" : {
+        "options" : [ {
+          "id" : 1,
+          "text" : "Rhoa"
+        } ]
+      }
+    }, {
+      "id" : "explicit.stat_3187151138",
+      "text" : "Your Maps contain # (Master)",
+      "type" : "explicit",
+      "option" : {
+        "options" : [ {
+          "id" : 2,
+          "text" : "Einhar"
+        } ]
+      }
+    } ]
+  }, {
+    "id" : "implicit",
+    "label" : "Implicit",
+    "entries" : [ {
+      "id" : "implicit.stat_2777224821",
+      "text" : "#% increased Maps found in your Maps",
+      "type" : "implicit"
+    }, {
+      "id" : "implicit.stat_1792283443",
+      "text" : "Area is influenced by #",
+      "type" : "implicit",
+      "option" : {
+        "options" : [ {
+          "id" : 1,
+          "text" : "The Shaper"
+        } ]
+      }
+    }, {
+      "id" : "implicit.stat_3624393862",
+      "text" : "Map is occupied by #",
+      "type" : "implicit",
+      "option" : {
+        "options" : [ {
+          "id" : 1,
+          "text" : "The Enslaver"
+        } ]
+      }
+    } ]
+  }, {
+    "id" : "fractured",
+    "label" : "Fractured",
+    "entries" : [ {
+      "id" : "fractured.stat_3299347043",
+      "text" : "+# to maximum Life",
+      "type" : "fractured"
+    }, {
+      "id" : "fractured.stat_1190121450",
+      "text" : "You have # Conflux for 3 seconds every 8 seconds",
+      "type" : "fractured",
+      "option" : {
+        "options" : [ {
+          "id" : 1,
+          "text" : "Chilling"
+        } ]
+      }
+    } ]
+  }, {
+    "id" : "enchant",
+    "label" : "Enchant",
+    "entries" : [ {
+      "id" : "enchant.stat_3086156145",
+      "text" : "Adds # Passive Skills",
+      "type" : "enchant"
+    }, {
+      "id" : "enchant.stat_3948993189",
+      "text" : "Added Small Passive Skills grant: #",
+      "type" : "enchant",
+      "option" : {
+        "options" : [ {
+          "id" : 1,
+          "text" : "Axe Attacks deal 12% increased Damage with Hits and Ailments\nSword Attacks deal 12% increased Damage with Hits and Ailments"
+        } ]
+      }
+    }, {
+      "id" : "enchant.stat_2954116742",
+      "text" : "Allocates #",
+      "type" : "enchant",
+      "option" : {
+        "options" : [ {
+          "id" : 4918,
+          "text" : "Indiscriminate Revenge"
+        } ]
+      }
+    }, {
+      "id" : "enchant.stat_3522828354",
+      "text" : "Strongboxes in Area are at least #",
+      "type" : "enchant",
+      "option" : {
+        "options" : [ {
+          "id" : 1,
+          "text" : "Magic"
+        } ]
+      }
+    }, {
+      "id" : "enchant.stat_3187151138",
+      "text" : "Your Maps contain # (Master)",
+      "type" : "enchant",
+      "option" : {
+        "options" : [ {
+          "id" : 2,
+          "text" : "Einhar"
+        } ]
+      }
+    }, {
+      "id" : "enchant.stat_1542416476",
+      "text" : "Breaches in Areas belong to #",
+      "type" : "enchant",
+      "option" : {
+        "options" : [ {
+          "id" : 1,
+          "text" : "Uul-Netol"
+        } ]
+      }
+    } ]
+  }, {
+    "id" : "scourge",
+    "label" : "Scourge",
+    "entries" : [ {
+      "id" : "scourge.stat_1671376347",
+      "text" : "+#% to Lightning Resistance",
+      "type" : "scourge"
+    } ]
+  }, {
+    "id" : "crafted",
+    "label" : "Crafted",
+    "entries" : [ {
+      "id" : "crafted.stat_3299347043",
+      "text" : "+# to maximum Life",
+      "type" : "crafted"
+    } ]
+  }, {
+    "id" : "crucible",
+    "label" : "Crucible",
+    "entries" : [ {
+      "id" : "crucible.mod_58320",
+      "text" : "Adds 2 to 7 Physical Damage\n6% reduced Attack Speed (Tier 1)",
+      "type" : "crucible"
+    } ]
+  }, {
+    "id" : "veiled",
+    "label" : "Veiled",
+    "entries" : [ {
+      "id" : "veiled.mod_63099",
+      "text" : "of the Veil",
+      "type" : "veiled"
+    } ]
+  }, {
+    "id" : "delve",
+    "label" : "Delve",
+    "entries" : [ {
+      "id" : "delve.delve_better_sell_price",
+      "text" : "Item is overvalued by vendors",
+      "type" : "delve"
+    } ]
+  }, {
+    "id" : "ultimatum",
+    "label" : "Ultimatum",
+    "entries" : [ {
+      "id" : "ultimatum.umod_40225",
+      "text" : "Choking Miasma",
+      "type" : "ultimatum"
+    } ]
+  }, {
+    "id" : "sanctum",
+    "label" : "Sanctum",
+    "entries" : [ {
+      "id" : "sanctum.stat_85125881",
+      "text" : "The Herald of the Scourge drops the Balance of Terror",
+      "type" : "sanctum"
+    } ]
+  } ]
+}

@@ -1,0 +1,206 @@
+{
+  "result" : [ {
+    "id" : "accessory",
+    "label" : "Accessories",
+    "entries" : [ {
+      "type" : "Blue Pearl Amulet"
+    }, {
+      "type" : "Ruby Ring",
+      "text" : "Ahkeli's Meadow Ruby Ring",
+      "name" : "Ahkeli's Meadow",
+      "flags" : {
+        "unique" : true
+      }
+    } ]
+  }, {
+    "id" : "armour",
+    "label" : "Armour",
+    "entries" : [ {
+      "type" : "Golden Mantle"
+    }, {
+      "type" : "Goathide Boots",
+      "text" : "Abberath's Hooves Goathide Boots",
+      "name" : "Abberath's Hooves",
+      "flags" : {
+        "unique" : true
+      }
+    } ]
+  }, {
+    "id" : "card",
+    "label" : "Cards",
+    "entries" : [ {
+      "type" : "Abandoned Wealth"
+    } ]
+  }, {
+    "id" : "currency",
+    "label" : "Currency",
+    "entries" : [ {
+      "type" : "Crusader's Exalted Orb"
+    }, {
+      "type" : "Primordial Fragment",
+      "text" : "Curio of Absorption Primordial Fragment",
+      "name" : "Curio of Absorption",
+      "flags" : {
+        "unique" : true
+      }
+    } ]
+  }, {
+    "id" : "flask",
+    "label" : "Flasks",
+    "entries" : [ {
+      "type" : "Small Hybrid Flask"
+    }, {
+      "type" : "Amethyst Flask",
+      "text" : "Atziri's Promise Amethyst Flask",
+      "name" : "Atziri's Promise",
+      "flags" : {
+        "unique" : true
+      }
+    } ]
+  }, {
+    "id" : "gem",
+    "label" : "Gems",
+    "entries" : [ {
+      "type" : "Absolution"
+    }, {
+      "type" : "Animate Weapon",
+      "text" : "Animate Weapon of Ranged Arms",
+      "disc" : "alt_y"
+    } ]
+  }, {
+    "id" : "jewel",
+    "label" : "Jewels",
+    "entries" : [ {
+      "type" : "Hypnotic Eye Jewel"
+    }, {
+      "type" : "Ghastly Eye Jewel",
+      "text" : "Amanamu's Gaze Ghastly Eye Jewel",
+      "name" : "Amanamu's Gaze",
+      "flags" : {
+        "unique" : true
+      }
+    } ]
+  }, {
+    "id" : "map",
+    "label" : "Maps",
+    "entries" : [ {
+      "type" : "Chronicle of Atzoatl"
+    }, {
+      "type" : "Abomination Map",
+      "disc" : "warfortheatlas"
+    }, {
+      "type" : "Caldera Map",
+      "text" : "Caldera Map (Atlas of Worlds)",
+      "disc" : "atlasofworlds"
+    }, {
+      "type" : "Overgrown Shrine Map",
+      "text" : "Acton's Nightmare Overgrown Shrine Map",
+      "name" : "Acton's Nightmare",
+      "disc" : "warfortheatlas",
+      "flags" : {
+        "unique" : true
+      }
+    } ]
+  }, {
+    "id" : "weapon",
+    "label" : "Weapons",
+    "entries" : [ {
+      "type" : "Nailed Fist"
+    }, {
+      "type" : "Goat's Horn",
+      "text" : "Abberath's Horn Goat's Horn",
+      "name" : "Abberath's Horn",
+      "flags" : {
+        "unique" : true
+      }
+    } ]
+  }, {
+    "id" : "leaguestone",
+    "label" : "Leaguestones",
+    "entries" : [ {
+      "type" : "Ambush Leaguestone"
+    } ]
+  }, {
+    "id" : "monster",
+    "label" : "Itemised Monsters",
+    "entries" : [ {
+      "type" : "The Great White Beast"
+    } ]
+  }, {
+    "id" : "heistequipment",
+    "label" : "Heist Equipment",
+    "entries" : [ {
+      "type" : "Eelskin Sole"
+    } ]
+  }, {
+    "id" : "heistmission",
+    "label" : "Heist Mission",
+    "entries" : [ {
+      "type" : "Blueprint: Bunker"
+    }, {
+      "type" : "Preventative Contract",
+      "text" : "Contract: Breaking the Unbreakable Preventative Contract",
+      "name" : "Contract: Breaking the Unbreakable",
+      "flags" : {
+        "unique" : true
+      }
+    } ]
+  }, {
+    "id" : "logbook",
+    "label" : "Expedition Logbooks",
+    "entries" : [ {
+      "type" : "Expedition Logbook"
+    } ]
+  }, {
+    "id" : "sanctum",
+    "label" : "Sanctum Research",
+    "entries" : [ {
+      "type" : "Censer Relic"
+    }, {
+      "type" : "Censer Relic",
+      "text" : "The Blood of Innocence Censer Relic",
+      "name" : "The Blood of Innocence",
+      "flags" : {
+        "unique" : true
+      }
+    } ]
+  }, {
+    "id" : "memoryline",
+    "label" : "Atlas Memories",
+    "entries" : [ {
+      "type" : "Alva's Memory"
+    } ]
+  }, {
+    "id" : "tincture",
+    "label" : "Tincture",
+    "entries" : [ {
+      "type" : "Prismatic Tincture"
+    }, {
+      "type" : "Sporebloom Tincture",
+      "text" : "Grasping Nightshade Sporebloom Tincture",
+      "name" : "Grasping Nightshade",
+      "flags" : {
+        "unique" : true
+      }
+    } ]
+  }, {
+    "id" : "corpse",
+    "label" : "Itemised Corpse",
+    "entries" : [ {
+      "type" : "Perfect Naval Officer"
+    } ]
+  }, {
+    "id" : "idol",
+    "label" : "Idol",
+    "entries" : [ {
+      "type" : "Minor Idol"
+    }, {
+      "type" : "Minor Idol",
+      "text" : "Arbitrary Tenets Minor Idol",
+      "name" : "Arbitrary Tenets",
+      "flags" : {
+        "unique" : true
+      }
+    } ]
+  } ]
+}

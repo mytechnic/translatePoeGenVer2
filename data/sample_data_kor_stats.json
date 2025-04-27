@@ -1,0 +1,109 @@
+[ {
+  "id" : "pseudo",
+  "label" : "유사",
+  "entries" : {
+    "id" : [ "pseudo.pseudo_total_cold_resistance" ],
+    "text" : [ "냉기 저항 총 +#%" ],
+    "type" : [ "pseudo" ],
+    "options" : [ null, [ "하급" ] ]
+  }
+}, {
+  "id" : "explicit",
+  "label" : "비고정",
+  "entries" : {
+    "id" : [ "explicit.stat_3299347043" ],
+    "text" : [ "생명력 최대치 +#" ],
+    "type" : [ "explicit" ],
+    "options" : [ null, [ "재빠른 살인자" ], [ "작은 규모" ], [ "소환수 불안정" ], [ "로아" ], [ "아인하르" ] ]
+  }
+}, {
+  "id" : "implicit",
+  "label" : "고정",
+  "entries" : {
+    "id" : [ "implicit.stat_2777224821" ],
+    "text" : [ "지도 내 지도 출현율 #% 증가" ],
+    "type" : [ "implicit" ],
+    "options" : [ null, [ "쉐이퍼" ], [ "조종자" ] ]
+  }
+}, {
+  "id" : "fractured",
+  "label" : "분열된",
+  "entries" : {
+    "id" : [ "fractured.stat_3299347043" ],
+    "text" : [ "생명력 최대치 +#" ],
+    "type" : [ "fractured" ],
+    "options" : [ null, [ "냉각" ] ]
+  }
+}, {
+  "id" : "enchant",
+  "label" : "인챈트",
+  "entries" : {
+    "id" : [ "enchant.stat_3086156145" ],
+    "text" : [ "패시브 스킬 #개 추가" ],
+    "type" : [ "enchant" ],
+    "options" : [ null, [ "도끼 공격으로 주는 적중 및 상태 이상 피해 12% 증가\n검 공격으로 주는 적중 및 상태 이상 피해 12% 증가" ], [ "무차별적인 복수" ], [ "마법" ], [ "아인하르" ], [ "울네톨" ] ]
+  }
+}, {
+  "id" : "scourge",
+  "label" : "스컬지",
+  "entries" : {
+    "id" : [ "scourge.stat_1671376347" ],
+    "text" : [ "번개 저항 +#%" ],
+    "type" : [ "scourge" ],
+    "options" : [ null ]
+  }
+}, {
+  "id" : "crafted",
+  "label" : "제작된",
+  "entries" : {
+    "id" : [ "crafted.stat_3299347043" ],
+    "text" : [ "생명력 최대치 +#" ],
+    "type" : [ "crafted" ],
+    "options" : [ null ]
+  }
+}, {
+  "id" : "crucible",
+  "label" : "시련",
+  "entries" : {
+    "id" : [ "crucible.mod_58320" ],
+    "text" : [ "물리 피해 2~7 추가\n공격 속도 6% 감소 (1등급)" ],
+    "type" : [ "crucible" ],
+    "options" : [ null ]
+  }
+}, {
+  "id" : "veiled",
+  "label" : "장막",
+  "entries" : {
+    "id" : [ "veiled.mod_63099" ],
+    "text" : [ "- 장막" ],
+    "type" : [ "veiled" ],
+    "options" : [ null ]
+  }
+}, {
+  "id" : "delve",
+  "label" : "탐광",
+  "entries" : {
+    "id" : [ "delve.delve_better_sell_price" ],
+    "text" : [ "상인에게 판매할 때 얻는 화폐 증가" ],
+    "type" : [ "delve" ],
+    "options" : [ null ]
+  }
+}, {
+  "id" : "ultimatum",
+  "label" : "결전",
+  "entries" : {
+    "id" : [ "ultimatum.umod_40225" ],
+    "text" : [ "숨막히는 독기" ],
+    "type" : [ "ultimatum" ],
+    "options" : [ null ]
+  }
+}, {
+  "id" : "sanctum",
+  "label" : "성역",
+  "entries" : {
+    "id" : [ "sanctum.stat_85125881" ],
+    "text" : [ "스컬지의 전령이 공포의 균형을 떨어뜨림" ],
+    "type" : [ "sanctum" ],
+    "options" : [ null ]
+  }
+} ]

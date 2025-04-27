@@ -1,0 +1,183 @@
+{
+  "result" : [ {
+    "id" : "Currency",
+    "label" : "Currency",
+    "entries" : [ {
+      "id" : "alt",
+      "text" : "Orb of Alteration",
+      "image" : "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lSZXJvbGxNYWdpYyIsInNjYWxlIjoxfV0/6308fc8ca2/CurrencyRerollMagic.png"
+    }, {
+      "id" : "sep",
+      "text" : ""
+    } ]
+  }, {
+    "id" : "Fragments",
+    "label" : "Fragments & Scarabs",
+    "entries" : [ {
+      "id" : "dusk",
+      "text" : "Sacrifice at Dusk",
+      "image" : "/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9WYWFsMDQiLCJzY2FsZSI6MX1d/3be8311430/Vaal04.png"
+    }, {
+      "id" : "sacrifice-set",
+      "text" : "Sacrifice Set",
+      "pseudo" : true,
+      "image" : "/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9WYWFsQ29tcGxldGUiLCJzY2FsZSI6MX1d/63035d86d7/VaalComplete.png"
+    }, {
+      "id" : "sep",
+      "text" : ""
+    } ]
+  }, {
+    "id" : "Runes",
+    "label" : "Kalguuran Runes",
+    "entries" : [ {
+      "id" : "sun-rune",
+      "text" : "Sun Rune",
+      "image" : "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2V0dGxlcnMvVmlsbGFnZVJ1bmUyIiwic2NhbGUiOjF9XQ/c0bfc39082/VillageRune2.png"
+    } ]
+  }, {
+    "id" : "Ancestor",
+    "label" : "Tattoos & Omens",
+    "entries" : [ {
+      "id" : "tattoo-of-the-ngamahu-firewalker",
+      "text" : "Tattoo of the Ngamahu Firewalker",
+      "image" : "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vblN0clRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/5cf69ce758/CommonStrTatttooEquipment.png"
+    }, {
+      "id" : "sep",
+      "text" : ""
+    } ]
+  }, {
+    "id" : "Sanctum",
+    "label" : "Sanctum Tomes & Relics",
+    "entries" : [ {
+      "id" : "forbidden-tome-level-68",
+      "text" : "Forbidden Tome (Level 68)"
+    } ]
+  }, {
+    "id" : "MemoryLine",
+    "label" : "Atlas Memories",
+    "entries" : [ {
+      "id" : "alvas-memory-of-cascading-fortunes",
+      "text" : "Alva's Memory of Cascading Fortunes",
+      "description" : "Areas contain additional Strongboxes\nStrongboxes are found in Sequences\nStrongboxes in a Sequence open when the previous Strongbox in the Sequence has unlocked"
+    } ]
+  }, {
+    "id" : "ScoutingReport",
+    "label" : "Scouting Reports",
+    "entries" : [ {
+      "id" : "singular-scouting-report",
+      "text" : "Singular Scouting Report"
+    } ]
+  }, {
+    "id" : "Heist",
+    "label" : "Heist Contracts & Blueprints",
+    "entries" : [ {
+      "id" : "sep",
+      "text" : "Low-Tier Contracts"
+    } ]
+  }, {
+    "id" : "Expedition",
+    "label" : "Expedition Currency",
+    "entries" : [ {
+      "id" : "astragali",
+      "text" : "Astragali",
+      "image" : "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXhwZWRpdGlvbi9HYW1ibGVyUmVmcmVzaEN1cnJlbmN5Iiwic2NhbGUiOjF9XQ/ff5640db4c/GamblerRefreshCurrency.png"
+    } ]
+  }, {
+    "id" : "DeliriumOrbs",
+    "label" : "Delirium Orbs",
+    "entries" : [ {
+      "id" : "fine-delirium-orb",
+      "text" : "Fine Delirium Orb",
+      "image" : "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGVsaXJpdW0vRGVsaXJpdW1PcmJDdXJyZW5jeSIsInNjYWxlIjoxfV0/a0ccb93233/DeliriumOrbCurrency.png"
+    } ]
+  }, {
+    "id" : "Catalysts",
+    "label" : "Catalysts",
+    "entries" : [ {
+      "id" : "turbulent-catalyst",
+      "text" : "Turbulent Catalyst",
+      "image" : "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ2F0YWx5c3RzL1R1cmJ1bGVudENhdGFseXN0Iiwic2NhbGUiOjF9XQ/1f49d03e58/TurbulentCatalyst.png"
+    } ]
+  }, {
+    "id" : "Oils",
+    "label" : "Oils & Extractor",
+    "entries" : [ {
+      "id" : "clear-oil",
+      "text" : "Clear Oil",
+      "image" : "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvT2lscy9DbGVhck9pbCIsInNjYWxlIjoxfV0/0a7f30cc3b/ClearOil.png"
+    } ]
+  }, {
+    "id" : "Incubators",
+    "label" : "Incubators",
+    "entries" : [ {
+      "id" : "whispering-incubator",
+      "text" : "Whispering Incubator",
+      "image" : "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSW5jdWJhdGlvbi9JbmN1YmF0aW9uRXNzZW5jZSIsInNjYWxlIjoxfV0/839bf6cef9/IncubationEssence.png"
+    } ]
+  }, {
+    "id" : "Delve",
+    "label" : "Fossils & Resonators",
+    "entries" : [ {
+      "id" : "scorched-fossil",
+      "text" : "Scorched Fossil",
+      "image" : "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGVsdmUvQW1iZXJGaXJlRmx5Iiwic2NhbGUiOjF9XQ/0954934026/AmberFireFly.png"
+    }, {
+      "id" : "sep",
+      "text" : ""
+    } ]
+  }, {
+    "id" : "Essences",
+    "label" : "Essences",
+    "entries" : [ {
+      "id" : "whispering-essence-of-hatred",
+      "text" : "Whispering Essence of Hatred",
+      "image" : "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9IYXRyZWQxIiwic2NhbGUiOjF9XQ/b22aed8024/Hatred1.png"
+    } ]
+  }, {
+    "id" : "Beasts",
+    "label" : "Beasts",
+    "entries" : [ {
+      "id" : "beast",
+      "text" : "Yellow Beast"
+    } ]
+  }, {
+    "id" : "Cards",
+    "label" : "Cards",
+    "entries" : [ {
+      "id" : "a-chilling-wind",
+      "text" : "A Chilling Wind"
+    } ]
+  }, {
+    "id" : "Maps",
+    "label" : "Maps",
+    "entries" : [ {
+      "id" : "sep",
+      "text" : "Maps (Tier 1)"
+    } ]
+  }, {
+    "id" : "MapsBlighted",
+    "label" : "Blighted Maps",
+    "entries" : [ {
+      "id" : "blighted-map-tier-1",
+      "text" : "Blighted Map (Tier 1)"
+    } ]
+  }, {
+    "id" : "MapsUnique",
+    "label" : "Unique Maps",
+    "entries" : [ {
+      "id" : "actons-nightmare-tier-3",
+      "text" : "Acton's Nightmare (Tier 3)"
+    } ]
+  }, {
+    "id" : "Legacy",
+    "label" : "Legacy Items",
+    "entries" : [ {
+      "id" : "imperial-delirium-orb",
+      "text" : "Imperial Delirium Orb"
+    } ]
+  }, {
+    "id" : "Misc",
+    "label" : null,
+    "entries" : [ ]
+  } ]
+}

@@ -1,0 +1,166 @@
+[ {
+  "id" : "Currency",
+  "label" : "화폐",
+  "entries" : {
+    "id" : [ "alt" ],
+    "text" : [ "변화의 오브" ],
+    "options" : [ null ]
+  }
+}, {
+  "id" : "Fragments",
+  "label" : "조각 및 갑충석",
+  "entries" : {
+    "id" : [ "dusk" ],
+    "text" : [ "황혼의 희생" ],
+    "options" : [ null ]
+  }
+}, {
+  "id" : "Runes",
+  "label" : "칼구르 룬",
+  "entries" : {
+    "id" : [ "sun-rune" ],
+    "text" : [ "태양 룬" ],
+    "options" : [ null ]
+  }
+}, {
+  "id" : "Ancestor",
+  "label" : "문신 및 징조",
+  "entries" : {
+    "id" : [ "tattoo-of-the-ngamahu-firewalker" ],
+    "text" : [ "나마후 화염보행자의 문신" ],
+    "options" : [ null ]
+  }
+}, {
+  "id" : "Sanctum",
+  "label" : "성역 책과 유물",
+  "entries" : {
+    "id" : [ "forbidden-tome-level-68" ],
+    "text" : [ "금지된 책 (68레벨)" ],
+    "options" : [ null ]
+  }
+}, {
+  "id" : "MemoryLine",
+  "label" : "아틀라스 기억",
+  "entries" : {
+    "description" : [ "지역 내 금고 추가 등장\n발견되는 금고에 순서가 있음\n순서가 있는 금고는 순서상 앞에 있는 금고를 잠금 해제해야 열림" ],
+    "id" : [ "alvas-memory-of-cascading-fortunes" ],
+    "text" : [ "알바의 기억 - 쏟아지는 보물" ],
+    "options" : [ null ]
+  }
+}, {
+  "id" : "ScoutingReport",
+  "label" : "정찰 보고서",
+  "entries" : {
+    "id" : [ "singular-scouting-report" ],
+    "text" : [ "비범한 정찰 보고서" ],
+    "options" : [ null ]
+  }
+}, {
+  "id" : "Heist",
+  "label" : "강탈 계약 및 도면",
+  "entries" : {
+    "id" : [ "sep" ],
+    "text" : [ "낮은 등급 계약" ],
+    "options" : [ null ]
+  }
+}, {
+  "id" : "Expedition",
+  "label" : "탐험 화폐",
+  "entries" : {
+    "id" : [ "astragali" ],
+    "text" : [ "복사뼈" ],
+    "options" : [ null ]
+  }
+}, {
+  "id" : "DeliriumOrbs",
+  "label" : "환영의 오브",
+  "entries" : {
+    "id" : [ "fine-delirium-orb" ],
+    "text" : [ "양질의 환영의 오브" ],
+    "options" : [ null ]
+  }
+}, {
+  "id" : "Catalysts",
+  "label" : "기폭제",
+  "entries" : {
+    "id" : [ "turbulent-catalyst" ],
+    "text" : [ "격동의 기폭제" ],
+    "options" : [ null ]
+  }
+}, {
+  "id" : "Oils",
+  "label" : "성유 & 추출기",
+  "entries" : {
+    "id" : [ "clear-oil" ],
+    "text" : [ "투명한 성유" ],
+    "options" : [ null ]
+  }
+}, {
+  "id" : "Incubators",
+  "label" : "인큐베이터",
+  "entries" : {
+    "id" : [ "whispering-incubator" ],
+    "text" : [ "속삭이는 인큐베이터" ],
+    "options" : [ null ]
+  }
+}, {
+  "id" : "Essences",
+  "label" : "에센스",
+  "entries" : {
+    "id" : [ "whispering-essence-of-hatred" ],
+    "text" : [ "속삭이는 증오의 에센스" ],
+    "options" : [ null ]
+  }
+}, {
+  "id" : "Beasts",
+  "label" : "야수",
+  "entries" : {
+    "id" : [ "beast" ],
+    "text" : [ "노란 야수" ],
+    "options" : [ null ]
+  }
+}, {
+  "id" : "Cards",
+  "label" : "카드",
+  "entries" : {
+    "id" : [ "a-chilling-wind" ],
+    "text" : [ "싸늘한 바람" ],
+    "options" : [ null ]
+  }
+}, {
+  "id" : "Maps",
+  "label" : "지도",
+  "entries" : {
+    "id" : [ "sep" ],
+    "text" : [ "지도(1등급)" ],
+    "options" : [ null ]
+  }
+}, {
+  "id" : "MapsBlighted",
+  "label" : "역병 걸린 지도",
+  "entries" : {
+    "id" : [ "blighted-map-tier-1" ],
+    "text" : [ "역병 걸린 지도 (등급 1)" ],
+    "options" : [ null ]
+  }
+}, {
+  "id" : "MapsUnique",
+  "label" : "고유 지도",
+  "entries" : {
+    "id" : [ "actons-nightmare-tier-3" ],
+    "text" : [ "액턴의 악몽 (등급 3)" ],
+    "options" : [ null ]
+  }
+}, {
+  "id" : "Legacy",
+  "label" : "레거시 아이템",
+  "entries" : {
+    "id" : [ "imperial-delirium-orb" ],
+    "text" : [ "제국 환영의 오브" ],
+    "options" : [ null ]
+  }
+}, {
+  "id" : "Misc",
+  "label" : null,
+  "entries" : { }
+} ]

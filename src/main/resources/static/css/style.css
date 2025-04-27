@@ -1,0 +1,33 @@
+.title-row {
+    display: flex;
+    font-weight: bold;
+    margin-bottom: 8px;
+}
+
+.data-row {
+    display: flex;
+    align-items: center;
+    margin-bottom: 5px;
+    padding: 3px;
+}
+
+.field-name {
+    width: 80px;
+}
+
+.input-eng, .input-kor {
+    flex: 1;
+    padding: 4px;
+}
+
+.bg-name {
+    background-color: #f0f8ff;
+}
+
+.bg-text {
+    background-color: #e6ffe6;
+}
+
+.bg-type {
+    background-color: #fff0f5;
+}

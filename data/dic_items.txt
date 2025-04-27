@@ -1,0 +1,5408 @@
+ahkeli's meadow|아켈리의 초원
+ahkeli's mountain|아켈리의 산
+ahkeli's valley|아켈리의 계곡
+anathema|극한의 혐오
+andvarius|앤드바리우스
+angler's plait|낚시꾼의 고리
+araku tiki|아라쿠 티키
+arn's anguish|안의 비통
+ikiaho's promise|이키아호의 약속
+ascent from flesh|육체로부터의 해방
+ashes of the stars|별의 재
+astral projector|우주의 영사기
+astramentis|별의 보석
+atziri's foible|앗지리의 결점
+aul's uprising|아울의 반란
+auxium|오시움
+badge of the brotherhood|형제단의 증표
+bated breath|약해진 숨결
+bear's girdle|곰의 허리띠
+belt of the deceiver|기만자의 허리띠
+berek's grip|베렉의 손아귀
+berek's pass|베렉의 길
+berek's respite|베렉의 유예
+bisco's collar|비스코의 목걸이
+bisco's leash|비스코의 가죽끈
+blackflame|검은화염
+blackheart|검은 심장
+blightwell|황폐한 샘
+bloodboil|끓는 피
+bloodgrip|피의 지배
+blood of corruption|타락의 피
+bloodsoaked medallion|피투성이 메달리온
+bound fate|속박된 운명
+brinerot mark|부패한 염수단 징표
+call of the brotherhood|형제의 부름
+call of the void|공허의 부름
+carnage heart|학살 심장
+ceinture of benevolence|관대함의 띠
+chain of endurance|인내의 사슬
+chains of emancipation|해방의 사슬
+choir of the storm|태풍의 합창
+circle of ambition|야심의 고리
+circle of anguish|비통의 고리
+circle of fear|두려움의 고리
+circle of guilt|유죄의 고리
+circle of nostalgia|그리움의 고리
+circle of regret|후회의 고리
+coward's chains|겁쟁이의 사슬
+coward's legacy|겁쟁이의 유물
+crystallised omniscience|결정화된 전지력
+cyclopean coil|키클로프의 고리
+daresso's salute|다레소의 경례
+darkness enthroned|어둠에 대한 경외
+death rush|죽음의 재촉
+defiance of destiny|운명의 저항
+demigod's bounty|반신의 하사품
+demigod's eye|반신의 눈
+demigod's presence|반신의 존재
+doedre's damning|도이드리의 파멸
+doedre's tongue|도이드리의 혀
+doryani's invitation|도리아니의 초대
+dream fragments|꿈의 조각
+dyadian dawn|쌍둥이의 여명
+emberwake|잉걸불 지피기
+essence worm|에센스 웜
+eternal damnation|영원한 지옥
+extractor mentis|정신 추출기
+eye of chayula|차율라의 눈
+eye of innocence|결백의 눈
+eyes of the greatwolf|위대한 늑대의 눈
+faminebind|기근의 속박
+fated end|예견된 최후
+feastbind|연회의 속박
+fury valve|광분의 밸브
+gifts from above|하늘에서 내려준 선물
+gloomfang|그롬팡
+gluttony|폭식
+grattus signet|그라투스 인장
+graven's secret|그레이븐의 비밀
+headhunter|헤드헌터
+heartbound loop|마음에 묶인 고리
+hinekora's sight|히네코라의 통찰력
+honoured alliance|명예로운 동맹
+hyperboreus|북방 주민
+hyrri's truth|하이리의 진리
+icefang orbit|얼음송곳니의 위력
+immortal flesh|불멸의 육체
+impresence|무존재
+ixchel's temptation|익스첼의 유혹
+kalandra's touch|칼란드라의 손길
+kaom's binding|카옴의 속박
+kaom's sign|카옴의 표식
+kaom's way|카옴의 길
+karui charge|카루이의 돌진
+karui ward|카루이의 수호
+kikazaru|키카자루
+leadership's price|통솔력의 가치
+leash of oblation|봉헌의 가죽끈
+le heup of all|만인의 르 흐프
+lori's lantern|로리의 등불
+mageblood|마법사의 피
+malachai's artifice|말라카이의 책략
+maligaro's cruelty|말리가로의 잔혹성
+maligaro's restraint|말리가로의 속박
+mark of submission|복종의 징표
+mark of the elder|엘더의 징표
+mark of the shaper|쉐이퍼의 징표
+marylene's fallacy|마릴린의 오산
+meginord's girdle|메기노드의 허리띠
+ming's heart|밍의 심장
+mokou's embrace|모코우의 포옹
+mother's embrace|어머니의 포옹
+mutewind seal|고요한 바람단 봉인
+natural hierarchy|순수의 지배
+nevalius inheritance|네발리우스의 유산
+ngamahu's sign|나마후의 표식
+ngamahu tiki|나마후 티키
+night's hold|밤의 연장
+nimis|니미스
+olesya's delight|올레샤의 기쁨
+original sin|원죄
+perandus blazon|페란두스 문장
+perandus signet|페란두스 인장
+perquil's toe|퍼퀼의 발가락
+perseverance|인내
+polaric devastation|극성의 유린
+praxis|관습
+precursor's emblem|선도자의 상징
+presence of chayula|차율라의 존재
+prismweave|빛의 매듭
+profane proxy|부정한 대리자
+putembo's meadow|푸템보의 초원
+putembo's mountain|푸템보의 산
+putembo's valley|푸템보의 계곡
+pyre|장작
+pyroshock clasp|화염격 걸쇠
+rashkaldor's patience|라시칼도어의 인내
+redblade band|적검단 가락지
+replica atziri's foible|앗지리의 결점 모조품
+replica badge of the brotherhood|형제단의 증표 모조품
+replica bated breath|약해진 숨결 모조품
+replica doedre's damning|도이드리의 파멸 모조품
+replica dragonfang's flight|용송곳니의 비상 모조품
+replica emberwake|잉걸불 지피기 모조품
+replica headhunter|헤드헌터 모조품
+replica hinekora's sight|히네코라의 통찰력 모조품
+replica hyrri's truth|하이리의 진리 모조품
+replica karui ward|카루이의 수호 모조품
+replica malachai's artifice|말라카이의 책략 모조품
+replica prismweave|빛의 매듭 모조품
+replica siegebreaker|공성분쇄기 모조품
+replica soul tether|영혼 올가미 모조품
+replica tasalio's sign|타살리오의 표식 모조품
+replica voideye|공허의 눈 모조품
+replica winterheart|겨울심장 모조품
+retaliation charm|보복 부적
+rigwald's crest|리그월드의 문양
+rigwald's curse|리그월드의 저주
+romira's banquet|로미라의 연회
+rotblood promise|부식혈의 약속
+ryslatha's coil|리슬라사의 감개
+sacrificial heart|희생의 심장
+shaper's seed|쉐이퍼의 씨앗
+shavronne's revelation|샤브론의 계시
+sibyl's lament|시빌의 한탄
+sidhebreath|요정의 숨결
+siegebreaker|공성분쇄기
+snakepit|뱀 구덩이
+solstice vigil|동짓날 밤
+soulbound|속박된 영혼
+soul tether|영혼 올가미
+soulthirst|목마른 영혼
+star of wraeclast|레이클라스트의 별
+stone of lazhwar|라즈워의 보석
+stormfire|태풍불길
+storm secret|태풍의 비밀
+stranglegasp|교살의 손아귀
+string of servitude|노예의 끈
+sunblast|태양의 파동
+survivor's guilt|생존자의 죄책감
+tainted pact|더럽혀진 맹약
+talisman of the victor|승리자의 부적
+tasalio's sign|타살리오의 표식
+tavukai|타부카이
+tawhanuku's timing|타하누쿠의 때맞춤
+tear of purity|정화의 눈물
+the anvil|모루
+the ascetic|고행자
+the aylardex|에일러덱스
+the burden of truth|버거운 진실
+the druggery|약품
+the effigon|에피곤
+the ephemeral bond|덧없는 유대
+the eternal struggle|영원한 투쟁
+the felbog fang|펠보그 송곳니
+the flow untethered|얽매이지 않은 흐름
+the halcyon|평온
+the hateful accuser|증오에 찬 고발인
+the highwayman|노상강도
+the hungry loop|허기진 고리
+the ignomon|이그노몬
+the jinxed juju|징크스 액막이
+the magnate|거물
+the nomad|유목민
+the pandemonius|대혼란
+the pariah|부랑자
+the primordial chain|태고의 사슬
+the queller of minds|정신 억압자
+the retch|레치
+the selfish shepherd|이기적인 목자
+the tactician|전술가
+the taming|조련
+the tides of time|시간의 파도
+the torrent's reclamation|격류의 교화
+the untouched soul|손길이 닿지 않은 영혼
+the utmost|극도
+the warden's brand|간수의 낙인
+thief's torment|도둑의 고통
+timeclasp|시간의 속박
+timetwist|시간 왜곡
+triumvirate authority|삼두 정치의 권위
+umbilicus immortalis|불멸의 탯줄
+ungil's harmony|웅힐의 조화
+uul-netol's vow|울네톨의 맹세
+uzaza's meadow|우자자의 초원
+uzaza's mountain|우자자의 산
+uzaza's valley|우자자의 계곡
+valako's sign|발라코의 표식
+valyrium|발리륨
+venopuncture|혈관 관통
+ventor's gamble|벤토의 도박
+victario's acuity|빅타리오의 예리함
+vivinsect|생체 해부
+voice of the storm|태풍의 목소리
+voideye|공허의 눈
+voidheart|공허의 심장
+voll's devotion|볼의 헌신
+warped timepiece|뒤틀린 시계
+warrior's legacy|전사의 유산
+willowgift|버드나무 선물
+winterheart|겨울심장
+winterweave|겨울 매듭
+wurm's molt|웜의 허물
+xoph's blood|조프의 피
+xoph's heart|조프의 심장
+ynda's stand|인다의 항전
+yoke of suffering|고통의 멍에
+zerphi's heart|제르피의 심장
+ahkeli's meadow ruby ring|아켈리의 초원 루비 반지
+ahkeli's mountain ruby ring|아켈리의 산 루비 반지
+ahkeli's valley ruby ring|아켈리의 계곡 루비 반지
+anathema moonstone ring|극한의 혐오 월장석 반지
+andvarius gold ring|앤드바리우스 황금 반지
+angler's plait unset ring|낚시꾼의 고리 무보석 반지
+araku tiki coral amulet|아라쿠 티키 산호 목걸이
+arn's anguish cloth belt|안의 비통 헝겊 허리띠
+ikiaho's promise coral amulet|이키아호의 약속 산호 목걸이
+ascent from flesh chain belt|육체로부터의 해방 사슬 허리띠
+ashes of the stars onyx amulet|별의 재 오닉스 목걸이
+astral projector topaz ring|우주의 영사기 토파즈 반지
+astramentis onyx amulet|별의 보석 오닉스 목걸이
+atziri's foible paua amulet|앗지리의 결점 파우아 목걸이
+aul's uprising onyx amulet|아울의 반란 오닉스 목걸이
+auxium crystal belt|오시움 수정 허리띠
+auxium chain belt|오시움 사슬 허리띠
+badge of the brotherhood turquoise amulet|형제단의 증표 터키석 목걸이
+bated breath chain belt|약해진 숨결 사슬 허리띠
+bear's girdle leather belt|곰의 허리띠 가죽 허리띠
+belt of the deceiver heavy belt|기만자의 허리띠 무거운 허리띠
+berek's grip two-stone ring|베렉의 손아귀 쌍보석 반지
+berek's pass two-stone ring|베렉의 길 쌍보석 반지
+berek's respite two-stone ring|베렉의 유예 쌍보석 반지
+bisco's collar gold amulet|비스코의 목걸이 황금 목걸이
+bisco's leash heavy belt|비스코의 가죽끈 무거운 허리띠
+blackflame amethyst ring|검은화염 자수정 반지
+blackheart iron ring|검은 심장 철제 반지
+blightwell clutching talisman|황폐한 샘 움켜잡는 부적
+bloodboil coral ring|끓는 피 산호 반지
+bloodgrip marble amulet|피의 지배 대리석 목걸이
+bloodgrip coral amulet|피의 지배 산호 목걸이
+blood of corruption amber amulet|타락의 피 호박 목걸이
+bloodsoaked medallion amber amulet|피투성이 메달리온 호박 목걸이
+bound fate cloth belt|속박된 운명 헝겊 허리띠
+brinerot mark unset ring|부패한 염수단 징표 무보석 반지
+call of the brotherhood two-stone ring|형제의 부름 쌍보석 반지
+call of the void sapphire ring|공허의 부름 사파이어 반지
+carnage heart onyx amulet|학살 심장 오닉스 목걸이
+ceinture of benevolence cloth belt|관대함의 띠 헝겊 허리띠
+chain of endurance chain belt|인내의 사슬 사슬 허리띠
+chains of emancipation chain belt|해방의 사슬 사슬 허리띠
+choir of the storm lapis amulet|태풍의 합창 청금석 목걸이
+circle of ambition prismatic ring|야심의 고리 분광 반지
+circle of anguish ruby ring|비통의 고리 루비 반지
+circle of fear sapphire ring|두려움의 고리 사파이어 반지
+circle of guilt iron ring|유죄의 고리 철제 반지
+circle of nostalgia amethyst ring|그리움의 고리 자수정 반지
+circle of regret topaz ring|후회의 고리 토파즈 반지
+coward's chains chain belt|겁쟁이의 사슬 사슬 허리띠
+coward's legacy chain belt|겁쟁이의 유물 사슬 허리띠
+crystallised omniscience onyx amulet|결정화된 전지력 오닉스 목걸이
+cyclopean coil leather belt|키클로프의 고리 가죽 허리띠
+daresso's salute citrine amulet|다레소의 경례 황수정 목걸이
+darkness enthroned stygian vise|어둠에 대한 경외 명계의 조임쇠
+death rush amethyst ring|죽음의 재촉 자수정 반지
+defiance of destiny paua amulet|운명의 저항 파우아 목걸이
+demigod's bounty golden obi|반신의 하사품 황금 오비
+demigod's eye golden hoop|반신의 눈 황금 고리
+demigod's presence gold amulet|반신의 존재 황금 목걸이
+doedre's damning paua ring|도이드리의 파멸 파우아 반지
+doedre's tongue lapis amulet|도이드리의 혀 청금석 목걸이
+doryani's invitation heavy belt|도리아니의 초대 무거운 허리띠
+dream fragments sapphire ring|꿈의 조각 사파이어 반지
+dyadian dawn heavy belt|쌍둥이의 여명 무거운 허리띠
+emberwake ruby ring|잉걸불 지피기 루비 반지
+essence worm unset ring|에센스 웜 무보석 반지
+eternal damnation agate amulet|영원한 지옥 마노 목걸이
+extractor mentis agate amulet|정신 추출기 마노 목걸이
+eye of chayula onyx amulet|차율라의 눈 오닉스 목걸이
+eye of innocence citrine amulet|결백의 눈 황수정 목걸이
+eyes of the greatwolf greatwolf talisman|위대한 늑대의 눈 위대한 늑대 부적
+faminebind rustic sash|기근의 속박 소박한 띠
+fated end paua ring|예견된 최후 파우아 반지
+feastbind rustic sash|연회의 속박 소박한 띠
+fury valve turquoise amulet|광분의 밸브 터키석 목걸이
+gifts from above diamond ring|하늘에서 내려준 선물 다이아몬드 반지
+gloomfang blue pearl amulet|그롬팡 파란 진주 목걸이
+gluttony leather belt|폭식 가죽 허리띠
+grattus signet diamond ring|그라투스 인장 다이아몬드 반지
+graven's secret cloth belt|그레이븐의 비밀 헝겊 허리띠
+headhunter leather belt|헤드헌터 가죽 허리띠
+heartbound loop moonstone ring|마음에 묶인 고리 월장석 반지
+hinekora's sight onyx amulet|히네코라의 통찰력 오닉스 목걸이
+honoured alliance coral ring|명예로운 동맹 산호 반지
+hyperboreus leather belt|북방 주민 가죽 허리띠
+hyrri's truth jade amulet|하이리의 진리 비취 목걸이
+icefang orbit iron ring|얼음송곳니의 위력 철제 반지
+immortal flesh leather belt|불멸의 육체 가죽 허리띠
+impresence onyx amulet|무존재 오닉스 목걸이
+ixchel's temptation gold ring|익스첼의 유혹 황금 반지
+kalandra's touch ring|칼란드라의 손길 반지
+kaom's binding heavy belt|카옴의 속박 무거운 허리띠
+kaom's sign coral ring|카옴의 표식 산호 반지
+kaom's way coral ring|카옴의 길 산호 반지
+karui charge jade amulet|카루이의 돌진 비취 목걸이
+karui ward jade amulet|카루이의 수호 비취 목걸이
+kikazaru topaz ring|키카자루 토파즈 반지
+leadership's price onyx amulet|통솔력의 가치 오닉스 목걸이
+leash of oblation leather belt|봉헌의 가죽끈 가죽 허리띠
+le heup of all iron ring|만인의 르 흐프 철제 반지
+lori's lantern prismatic ring|로리의 등불 분광 반지
+mageblood heavy belt|마법사의 피 무거운 허리띠
+malachai's artifice unset ring|말라카이의 책략 무보석 반지
+maligaro's cruelty turquoise amulet|말리가로의 잔혹성 터키석 목걸이
+maligaro's restraint chain belt|말리가로의 속박 사슬 허리띠
+mark of submission unset ring|복종의 징표 무보석 반지
+mark of the elder steel ring|엘더의 징표 강철 반지
+mark of the shaper opal ring|쉐이퍼의 징표 오팔 반지
+marylene's fallacy lapis amulet|마릴린의 오산 청금석 목걸이
+meginord's girdle heavy belt|메기노드의 허리띠 무거운 허리띠
+ming's heart amethyst ring|밍의 심장 자수정 반지
+mokou's embrace ruby ring|모코우의 포옹 루비 반지
+mother's embrace heavy belt|어머니의 포옹 무거운 허리띠
+mutewind seal unset ring|고요한 바람단 봉인 무보석 반지
+natural hierarchy rotfeather talisman|순수의 지배 썩은 깃털 부적
+nevalius inheritance cloth belt|네발리우스의 유산 헝겊 허리띠
+ngamahu's sign ruby ring|나마후의 표식 루비 반지
+ngamahu tiki coral amulet|나마후 티키 산호 목걸이
+night's hold black maw talisman|밤의 연장 검은 턱 부적
+nimis topaz ring|니미스 토파즈 반지
+olesya's delight cloth belt|올레샤의 기쁨 헝겊 허리띠
+original sin amethyst ring|원죄 자수정 반지
+perandus blazon cloth belt|페란두스 문장 헝겊 허리띠
+perandus signet paua ring|페란두스 인장 파우아 반지
+perquil's toe gold amulet|퍼퀼의 발가락 황금 목걸이
+perseverance vanguard belt|인내 선봉대 허리띠
+polaric devastation opal ring|극성의 유린 오팔 반지
+praxis paua ring|관습 파우아 반지
+precursor's emblem sapphire ring|선도자의 상징 사파이어 반지
+precursor's emblem topaz ring|선도자의 상징 토파즈 반지
+precursor's emblem ruby ring|선도자의 상징 루비 반지
+precursor's emblem two-stone ring|선도자의 상징 쌍보석 반지
+precursor's emblem prismatic ring|선도자의 상징 분광 반지
+presence of chayula onyx amulet|차율라의 존재 오닉스 목걸이
+prismweave rustic sash|빛의 매듭 소박한 띠
+profane proxy unset ring|부정한 대리자 무보석 반지
+putembo's meadow topaz ring|푸템보의 초원 토파즈 반지
+putembo's mountain topaz ring|푸템보의 산 토파즈 반지
+putembo's valley topaz ring|푸템보의 계곡 토파즈 반지
+pyre sapphire ring|장작 사파이어 반지
+pyroshock clasp leather belt|화염격 걸쇠 가죽 허리띠
+rashkaldor's patience jade amulet|라시칼도어의 인내 비취 목걸이
+redblade band unset ring|적검단 가락지 무보석 반지
+replica atziri's foible paua amulet|앗지리의 결점 모조품 파우아 목걸이
+replica badge of the brotherhood turquoise amulet|형제단의 증표 모조품 터키석 목걸이
+replica bated breath chain belt|약해진 숨결 모조품 사슬 허리띠
+replica doedre's damning paua ring|도이드리의 파멸 모조품 파우아 반지
+replica dragonfang's flight onyx amulet|용송곳니의 비상 모조품 오닉스 목걸이
+replica emberwake ruby ring|잉걸불 지피기 모조품 루비 반지
+replica headhunter leather belt|헤드헌터 모조품 가죽 허리띠
+replica hinekora's sight onyx amulet|히네코라의 통찰력 모조품 오닉스 목걸이
+replica hyrri's truth jade amulet|하이리의 진리 모조품 비취 목걸이
+replica karui ward jade amulet|카루이의 수호 모조품 비취 목걸이
+replica malachai's artifice unset ring|말라카이의 책략 모조품 무보석 반지
+replica prismweave rustic sash|빛의 매듭 모조품 소박한 띠
+replica siegebreaker heavy belt|공성분쇄기 모조품 무거운 허리띠
+replica soul tether cloth belt|영혼 올가미 모조품 헝겊 허리띠
+replica tasalio's sign sapphire ring|타살리오의 표식 모조품 사파이어 반지
+replica voideye unset ring|공허의 눈 모조품 무보석 반지
+replica winterheart gold amulet|겨울심장 모조품 황금 목걸이
+retaliation charm citrine amulet|보복 부적 황수정 목걸이
+rigwald's crest two-stone ring|리그월드의 문양 쌍보석 반지
+rigwald's curse wereclaw talisman|리그월드의 저주 변신자발톱 부적
+romira's banquet diamond ring|로미라의 연회 다이아몬드 반지
+rotblood promise unset ring|부식혈의 약속 무보석 반지
+ryslatha's coil studded belt|리슬라사의 감개 징 박힌 허리띠
+sacrificial heart paua amulet|희생의 심장 파우아 목걸이
+shaper's seed agate amulet|쉐이퍼의 씨앗 마노 목걸이
+shavronne's revelation moonstone ring|샤브론의 계시 월장석 반지
+sibyl's lament coral ring|시빌의 한탄 산호 반지
+sidhebreath paua amulet|요정의 숨결 파우아 목걸이
+siegebreaker heavy belt|공성분쇄기 무거운 허리띠
+snakepit sapphire ring|뱀 구덩이 사파이어 반지
+solstice vigil onyx amulet|동짓날 밤 오닉스 목걸이
+soulbound paua ring|속박된 영혼 파우아 반지
+soul tether cloth belt|영혼 올가미 헝겊 허리띠
+soulthirst cloth belt|목마른 영혼 헝겊 허리띠
+star of wraeclast ruby amulet|레이클라스트의 별 루비 목걸이
+stone of lazhwar lapis amulet|라즈워의 보석 청금석 목걸이
+stormfire opal ring|태풍불길 오팔 반지
+storm secret topaz ring|태풍의 비밀 토파즈 반지
+stranglegasp onyx amulet|교살의 손아귀 오닉스 목걸이
+string of servitude heavy belt|노예의 끈 무거운 허리띠
+sunblast cloth belt|태양의 파동 헝겊 허리띠
+survivor's guilt heavy belt|생존자의 죄책감 무거운 허리띠
+tainted pact coral amulet|더럽혀진 맹약 산호 목걸이
+talisman of the victor jet amulet|승리자의 부적 흑옥 목걸이
+tasalio's sign sapphire ring|타살리오의 표식 사파이어 반지
+tavukai coral amulet|타부카이 산호 목걸이
+tawhanuku's timing moonstone ring|타하누쿠의 때맞춤 월장석 반지
+tear of purity lapis amulet|정화의 눈물 청금석 목걸이
+the anvil amber amulet|모루 호박 목걸이
+the ascetic gold amulet|고행자 황금 목걸이
+the aylardex agate amulet|에일러덱스 마노 목걸이
+the burden of truth crystal belt|버거운 진실 수정 허리띠
+the druggery cloth belt|약품 헝겊 허리띠
+the effigon gold amulet|에피곤 황금 목걸이
+the ephemeral bond lapis amulet|덧없는 유대 청금석 목걸이
+the eternal struggle onyx amulet|영원한 투쟁 오닉스 목걸이
+the felbog fang citrine amulet|펠보그 송곳니 황수정 목걸이
+the flow untethered cloth belt|얽매이지 않은 흐름 헝겊 허리띠
+the halcyon jade amulet|평온 비취 목걸이
+the hateful accuser nameless ring|증오에 찬 고발인 이름 없는 반지
+the highwayman gold ring|노상강도 황금 반지
+the hungry loop unset ring|허기진 고리 무보석 반지
+the ignomon gold amulet|이그노몬 황금 목걸이
+the jinxed juju citrine amulet|징크스 액막이 황수정 목걸이
+the magnate studded belt|거물 징 박힌 허리띠
+the nomad studded belt|유목민 징 박힌 허리띠
+the pandemonius jade amulet|대혼란 비취 목걸이
+the pariah unset ring|부랑자 무보석 반지
+the primordial chain coral amulet|태고의 사슬 산호 목걸이
+the queller of minds nameless ring|정신 억압자 이름 없는 반지
+the retch rustic sash|레치 소박한 띠
+the selfish shepherd nameless ring|이기적인 목자 이름 없는 반지
+the tactician studded belt|전술가 징 박힌 허리띠
+the taming prismatic ring|조련 분광 반지
+the tides of time vanguard belt|시간의 파도 선봉대 허리띠
+the torrent's reclamation cloth belt|격류의 교화 헝겊 허리띠
+the untouched soul gold amulet|손길이 닿지 않은 영혼 황금 목걸이
+the utmost gold amulet|극도 황금 목걸이
+the warden's brand iron ring|간수의 낙인 철제 반지
+thief's torment prismatic ring|도둑의 고통 분광 반지
+timeclasp moonstone ring|시간의 속박 월장석 반지
+timetwist moonstone ring|시간 왜곡 월장석 반지
+triumvirate authority unset ring|삼두 정치의 권위 무보석 반지
+umbilicus immortalis leather belt|불멸의 탯줄 가죽 허리띠
+ungil's harmony turquoise amulet|웅힐의 조화 터키석 목걸이
+uul-netol's vow unset amulet|울네톨의 맹세 무보석 목걸이
+uzaza's meadow sapphire ring|우자자의 초원 사파이어 반지
+uzaza's mountain sapphire ring|우자자의 산 사파이어 반지
+uzaza's valley sapphire ring|우자자의 계곡 사파이어 반지
+valako's sign topaz ring|발라코의 표식 토파즈 반지
+valyrium moonstone ring|발리륨 월장석 반지
+venopuncture iron ring|혈관 관통 철제 반지
+ventor's gamble gold ring|벤토의 도박 황금 반지
+victario's acuity turquoise amulet|빅타리오의 예리함 터키석 목걸이
+vivinsect unset ring|생체 해부 무보석 반지
+voice of the storm lapis amulet|태풍의 목소리 청금석 목걸이
+voideye unset ring|공허의 눈 무보석 반지
+voidheart iron ring|공허의 심장 철제 반지
+voll's devotion agate amulet|볼의 헌신 마노 목걸이
+warped timepiece turquoise amulet|뒤틀린 시계 터키석 목걸이
+warrior's legacy ruby ring|전사의 유산 루비 반지
+willowgift jade amulet|버드나무 선물 비취 목걸이
+winterheart gold amulet|겨울심장 황금 목걸이
+winterweave coral ring|겨울 매듭 산호 반지
+wurm's molt leather belt|웜의 허물 가죽 허리띠
+xoph's blood amber amulet|조프의 피 호박 목걸이
+xoph's heart amber amulet|조프의 심장 호박 목걸이
+ynda's stand studded belt|인다의 항전 징 박힌 허리띠
+yoke of suffering onyx amulet|고통의 멍에 오닉스 목걸이
+zerphi's heart paua amulet|제르피의 심장 파우아 목걸이
+blue pearl amulet|파란 진주 목걸이
+marble amulet|대리석 목걸이
+seaglass amulet|바다유리 목걸이
+jet amulet|흑옥 목걸이
+paua amulet|파우아 목걸이
+citrine amulet|황수정 목걸이
+ruby amulet|루비 목걸이
+unset amulet|무보석 목걸이
+coral amulet|산호 목걸이
+amber amulet|호박 목걸이
+jade amulet|비취 목걸이
+lapis amulet|청금석 목걸이
+gold amulet|황금 목걸이
+onyx amulet|오닉스 목걸이
+turquoise amulet|터키석 목걸이
+agate amulet|마노 목걸이
+astrolabe amulet|관측기 목걸이
+simplex amulet|평범한 목걸이
+focused amulet|집중된 목걸이
+black maw talisman|검은 턱 부적
+mandible talisman|아래턱 부적
+chrysalis talisman|번데기 부적
+writhing talisman|꿈틀거리는 부적
+bonespire talisman|뼈 첨탑 부적
+ashscale talisman|재비늘 부적
+lone antler talisman|외가지뿔 부적
+deep one talisman|심해의 존재 부적
+breakrib talisman|골절늑골 부적
+deadhand talisman|죽은 손 부적
+undying flesh talisman|산 송장 살점 부적
+rot head talisman|썩은 머리 부적
+hexclaw talisman|사술발톱 부적
+primal skull talisman|원시 해골 부적
+wereclaw talisman|변신자발톱 부적
+splitnewt talisman|분할도롱뇽 부적
+clutching talisman|움켜잡는 부적
+avian twins talisman|쌍둥이 새 부적
+fangjaw talisman|송곳니턱 부적
+horned talisman|뿔 달린 부적
+spinefuse talisman|척추융합 부적
+three rat talisman|세 마리 쥐 부적
+monkey twins talisman|쌍둥이 원숭이 부적
+longtooth talisman|긴 이빨 부적
+rotfeather talisman|썩은 깃털 부적
+monkey paw talisman|원숭이 발 부적
+three hands talisman|세 개의 손 부적
+greatwolf talisman|위대한 늑대 부적
+rustic sash|소박한 띠
+chain belt|사슬 허리띠
+leather belt|가죽 허리띠
+heavy belt|무거운 허리띠
+cloth belt|헝겊 허리띠
+studded belt|징 박힌 허리띠
+stygian vise|명계의 조임쇠
+vanguard belt|선봉대 허리띠
+crystal belt|수정 허리띠
+golden obi|황금 오비
+micro-distillery belt|섬세한 주조자 허리띠
+mechalarm belt|기계 경보 허리띠
+mechanical belt|기계식 허리띠
+breach ring|균열 반지
+ring|반지
+iron ring|철제 반지
+amethyst ring|자수정 반지
+diamond ring|다이아몬드 반지
+two-stone ring|쌍보석 반지
+unset ring|무보석 반지
+bone ring|뼈 반지
+coral ring|산호 반지
+paua ring|파우아 반지
+gold ring|황금 반지
+topaz ring|토파즈 반지
+sapphire ring|사파이어 반지
+ruby ring|루비 반지
+prismatic ring|분광 반지
+moonstone ring|월장석 반지
+steel ring|강철 반지
+opal ring|오팔 반지
+vermillion ring|주색 반지
+cerulean ring|진청색 반지
+iolite ring|근청석 반지
+golden hoop|황금 고리
+cogwork ring|톱니장치 반지
+geodesic ring|정동석 반지
+composite ring|합성 반지
+manifold ring|다면의 반지
+ratcheting ring|미늘톱니 반지
+helical ring|나선형 반지
+dusk ring|황혼 반지
+penumbra ring|음영 반지
+gloam ring|석양 반지
+tenebrous ring|어둑한 반지
+shadowed ring|그늘진 반지
+nameless ring|이름 없는 반지
+thief's trinket|도둑 장신구
+abandoned wealth|버려진 재산
+acclimatisation|순응
+a chilling wind|싸늘한 바람
+a dab of ink|약간의 잉크
+a dusty memory|먼지 쌓인 기억
+a familiar call|귀에 익은 외침
+a fate worse than death|죽음보다 더한 운명
+akil's prophecy|아킬의 예언
+alivia's grace|알리비아의 은총
+alluring bounty|유혹의 하사품
+alone in the darkness|어둠 속에서 홀로
+altered perception|변질된 감각
+ambitious obsession|야심찬 집착
+a modest request|소박한 부탁
+a mother's parting gift|어머니의 이별 선물
+anarchy's price|혼란의 가치
+a note in the wind|바람 속의 기록
+arrogance of the vaal|바알의 오만
+a sea of blue|푸른색의 바다
+assassin's favour|암살자의 호의
+assassin's gift|암살자의 선물
+a stone perfected|완벽해진 돌
+astral protection|우주의 보호
+atziri's arsenal|앗지리의 병기창
+audacity|대담성
+auspicious ambitions|상서로운 야망
+avian pursuit|새의 추적
+azure rage|담청색 격노
+azyran's reward|아지란의 보상
+baited expectations|현혹된 기대
+beauty through death|죽음을 지나온 아름다움
+bijoux|보석
+birth of the three|세 여신의 탄생
+blessing of god|신의 축복
+blind venture|무모한 모험
+boon of justice|정의의 은혜
+boon of the first ones|최초의 존재들의 은혜
+boundless realms|무한한 영역
+bowyer's dream|활장이의 꿈
+broken promises|깨진 약속
+broken truce|깨진 휴전
+brotherhood in exile|유배의 형제
+brother's gift|형제의 선물
+brother's stash|형제의 보관함
+brush, paint and palette|붓, 물감과 팔레트
+buried treasure|파묻힌 보물
+burning blood|불타는 피
+call to the first ones|최초의 존재들에게 외치다
+cameria's cut|카메리아의 상처
+cartographer's delight|지도제작자의 기쁨
+chaotic disposition|혼돈의 결정
+chasing risk|위험을 좇아서
+checkmate|체크메이트
+choking guilt|숨막히는 죄책감
+costly curio|값비싼 예술품
+council of cats|고양이 의회
+coveted possession|갈망하던 소유
+cursed words|저주의 말
+dark dreams|암흑의 꿈
+darker half|어두운 이면
+dark temptation|어둠의 유혹
+deadly joy|치명적인 기쁨
+death|죽음
+deathly designs|치명적인 설계
+dementophobia|실성 공포증
+demigod's wager|반신의 내기
+desecrated virtue|훼손된 미덕
+desperate crusade|필사적인 성전
+destined to crumble|무너질 운명
+dialla's subjugation|디알라의 예속
+disdain|경멸
+divine beauty|신성한 아름다움
+divine justice|신성한 정의
+doedre's madness|도이드리의 광기
+doryani's epiphany|도리아니의 통찰
+draped in dreams|드리운 꿈
+duality|이중성
+dying anguish|죽음의 비통함
+dying light|죽어가는 빛
+earth drinker|대지 흡수자
+echoes of love|사랑의 메아리
+eldritch perfection|섬뜩한 완벽
+emperor of purity|정화의 황제
+emperor's luck|황제의 행운
+endless night|끝없는 밤
+etched in blood|아로새겨진 피
+eternal bonds|영원한 유대
+ever-changing|변화무쌍
+fateful meeting|운명적인 만남
+father's love|아버지의 사랑
+fire of unknown origin|근원을 알 수 없는 화염
+forbidden power|금지된 힘
+friendship|우정
+from bone to ashes|뼈에서 재로
+further invention|추가 발명
+gemcutter's mercy|세공사의 자비
+gemcutter's promise|세공사의 약속
+gift of asenath|아세나스의 선물
+gift of the gemling queen|마석 여왕의 선물
+glimmer of hope|희망의 빛
+grave knowledge|무덤의 지식
+guardian's challenge|수호자의 시련
+harmony of souls|영혼의 조화
+haunting shadows|출몰하는 그림자
+her mask|그녀의 가면
+heterochromia|이색증
+home|고향
+hope|희망
+house of mirrors|거울의 집
+hubris|오만
+humility|겸손
+hunter's resolve|사냥꾼의 결의
+hunter's reward|사냥꾼의 보상
+immortal resolve|불멸의 결의
+imperfect memories|불완전한 기억
+imperial legacy|제국의 유산
+i see brothers|형제가 보인다
+jack in the box|깜짝 상자
+judging voices|판단하는 목소리
+justified ambition|정당한 야망
+keeper's corruption|보관자의 타락
+lachrymal necrosis|눈물샘의 괴사
+lantador's lost love|란타도어의 죽은 연인
+last hope|최후의 희망
+left to fate|운명에 맡기다
+lethean temptation|레테의 유혹
+light and truth|빛과 진실
+lingering remnants|지속되는 유물
+lonely warrior|외로운 전사
+lost worlds|잃어버린 세계
+love through ice|얼음을 가르는 사랑
+loyalty|충성심
+lucky connections|행운의 연결
+lucky deck|행운의 카드 묶음
+luminous trove|빛나는 발견물
+lysah's respite|라이사의 휴식
+magnum opus|필생의 걸작
+man with bear|사람과 곰
+matryoshka|마트료시카
+mawr blaidd|모어 블레이드
+merciless armament|무자비한 병기
+might is right|힘이 정의다
+misery in darkness|어둠 속 비참함
+mitts|미트
+monochrome|단색화
+more is never enough|끝없는 욕심
+nook's crown|누크의 왕관
+no traces|흔적 없음
+parasitic passengers|기생충 밥벌레
+peaceful moments|평화로운 순간들
+perfection|완벽
+poisoned faith|독을 품은 믿음
+prejudice|편견
+pride before the fall|몰락 직전의 긍지
+pride of the first ones|최초의 존재들의 자부심
+prometheus' armoury|프로메테우스의 무기고
+prosperity|번영
+rain of chaos|카오스의 비
+rain tempter|비 유혹자
+rats|쥐
+rebirth|부활
+rebirth and renewal|부활과 새로운 시작
+reckless ambition|무모한 야망
+remembrance|추모
+sambodhi's vow|삼보디의 맹세
+sambodhi's wisdom|삼보디의 지혜
+scholar of the seas|바다의 학자
+seven years bad luck|7년 간의 불운
+shard of fate|운명의 파편
+silence and frost|침묵과 서리
+society's remorse|사회의 회한
+something dark|어두운 것
+soul quenched|갈증을 푼 영혼
+squandered prosperity|허비된 번영
+struck by lightning|번개에 맞다
+succor of the sinless|결백한 자의 원조
+temperance|자제
+terrible secret of space|우주의 끔찍한 비밀
+the academic|학구열
+the admirer|숭배자
+the adventuring spirit|모험 정신
+the aesthete|탐미주의자
+the apothecary|약제사
+the archmage's right hand|대마법사의 심복
+the arena champion|투기장의 용사
+the army of blood|피의 군대
+the artist|예술가
+the aspirant|지망자
+the astromancer|점성술사
+the avenger|복수자
+the awakened|깨어난 자
+the bargain|협상
+the battle born|타고난 전투원
+the bear woman|웅녀
+the beast|짐승
+the betrayal|배신
+the bitter blossom|쓰라린 만개
+the blazing fire|맹렬한 화염
+the blessing of moosh|무쉬의 축복
+the body|몸통
+the bones|뼈
+the brawny battle mage|건장한 전투 마법사
+the breach|균열
+the brittle emperor|말라붙은 황제
+the cache|은닉처
+the cacophony|불협화음
+the calling|소명
+the card sharp|카드 사기꾼
+the carrion crow|까마귀
+the cartographer|지도제작자
+the cataclysm|대재앙
+the catalyst|기폭제
+the catch|월척
+the celestial justicar|천공의 심판관
+the celestial stone|천공의 돌
+the chains that bind|속박의 사슬
+the cheater|사기꾼
+the chosen|선택받은 자
+the coming storm|다가오는 태풍
+the conduit|도관
+the craving|갈망
+the cursed king|저주받은 왕
+the damned|저주받은 자
+the dapper prodigy|말쑥한 영재
+the darkest dream|암울한 꿈
+the dark mage|어둠 마법사
+the deal|거래
+the deceiver|기만자
+the deep ones|심해의 존재
+the demon|악마
+the demoness|여악마
+the destination|목적지
+the doctor|의사
+the doppelganger|분신
+the dragon|용
+the dragon's heart|용의 심장
+the dreamer|몽상가
+the dreamland|꿈의 세계
+the drunken aristocrat|만취한 귀족
+the dungeon master|던전의 주인
+the easy stroll|편안한 산책
+the eldritch decay|섬뜩한 부패
+the emptiness|허무
+the encroaching darkness|잠식해오는 어둠
+the endless darkness|끝없는 어둠
+the endurance|인내
+the enforcer|집행자
+the enlightened|계몽된 자
+the enthusiasts|열광자들
+the escape|탈주
+the eternal war|영원한 전쟁
+the ethereal|천상에 속한 자
+the explorer|탐험가
+the eye of terror|공포의 눈
+the eye of the dragon|용의 눈
+the fathomless depths|깊이 모를 심연
+the feast|연회
+the fiend|마귀
+the finishing touch|화룡점정
+the fishmonger|생선 장수
+the fletcher|화살 제조자
+the flora's gift|식물의 선물
+the fool|어리석은 자
+the forgotten treasure|잊혀진 보물
+the formless sea|무형의 바다
+the forsaken|버림받은 자
+the fortunate|행운아
+the forward gaze|전면 응시
+the fox|여우
+the fox in the brambles|가시나무에 얽힌 여우
+the gambler|도박꾼
+the garish power|화려한 힘
+the gemcutter|세공사
+the gentleman|신사
+the gladiator|검투사
+the golden era|황금시대
+the greatest intentions|위대한 뜻
+the gulf|만
+the hale heart|건강한 심장
+the harvester|수확자
+the hermit|은둔자
+the heroic shot|영웅적인 시도
+the hive of knowledge|지식의 산실
+the hoarder|비축가
+the hook|갈고리
+the hunger|굶주림
+the immortal|불멸자
+the incantation|주문
+the innocent|결백한 자
+the inoculated|접종자
+the insane cat|실성한 고양이
+the insatiable|만족을 모르는 자
+the inventor|발명가
+the rusted bard|녹슨 음유시인
+the jester|어릿광대
+the jeweller's boon|보석 상인의 은혜
+the journalist|집필가
+the journey|여행
+the king's blade|왕의 검
+the king's heart|왕의 심장
+the landing|상륙
+the last one standing|최후의 승자
+the last supper|최후의 만찬
+the leviathan|레비아탄
+the lich|리치
+the life thief|생명력 도둑
+the lion|사자
+the long con|기나긴 속임수
+the long watch|오랜 감시
+the lord in black|어둠 속의 군주
+the lord of celebration|축제의 군주
+the lover|연인
+the lunaris priestess|루나리스 여사제
+the mad king|미치광이 왕
+the magma crab|마그마 게
+the master|대가
+the master artisan|장인
+the mayor|시장
+the mercenary|용병
+the messenger|전달자
+the metalsmith's gift|금속 세공사의 선물
+the mind's eyes|마음의 눈
+the mountain|산
+the nurse|간호사
+the oath|서약
+the obscured|가려진 자
+the offering|공물
+the offspring|자손
+the old man|노인
+the one that got away|도망친 자
+the one with all|만인과 함께하는 자
+the opulent|호화로움
+the pack leader|무리의 우두머리
+the pact|계약
+the patient|환자
+the penitent|참회자
+the poet|시인
+the polymath|박식가
+the porcupine|호저
+the price of devotion|헌신의 대가
+the price of loyalty|충성의 대가
+the price of prescience|선지의 대가
+the price of protection|보호의 대가
+the primordial|태고
+the prince of darkness|어둠의 대공
+the professor|교수
+the progeny of lunaris|루나리스의 자손
+the puzzle|수수께끼
+the queen|여왕
+the rabbit's foot|토끼 발
+the rabid rhoa|광포한 로아
+the realm|영역
+the return of the rat|쥐의 귀환
+the risk|위험
+the rite of elements|원소의 의식
+the road to power|힘에 이르는 길
+the ruthless ceinture|무정한 허리띠
+the sacrifice|희생
+the saint's treasure|성자의 보물
+the samurai's eye|사무라이의 눈
+the scarred meadow|상처 입은 초원
+the scavenger|시체 청소부
+the scholar|학자
+the scout|정찰병
+the seeker|탐색자
+the sephirot|세피로트
+the shepherd's sandals|양치기의 샌들
+the shieldbearer|방패 운반자
+the shortcut|지름길
+the side quest|부가 임무
+the sigil|부적
+the siren|사이렌
+the skeleton|해골
+the soul|영혼
+the spark and the flame|불꽃과 화염
+the spoiled prince|버릇 없이 자란 왕자
+the standoff|교착 상태
+the stormcaller|폭풍 소환사
+the strategist|전략가
+the summoner|소환자
+the sun|태양
+the surgeon|외과의사
+the surveyor|측량사
+the survivalist|생존주의자
+the sustenance|자양분
+the sword king's salute|검의 제왕의 경례
+the thaumaturgist|마석학자
+the throne|왕좌
+the tinkerer's table|땜장이의 작업대
+the tireless extractor|끈기 있는 추출자
+the tower|탑
+the traitor|배반자
+the transformation|변화
+the trial|시험
+the tumbleweed|회전초
+the twilight moon|황혼의 달
+the twins|쌍둥이
+the tyrant|폭군
+the undaunted|의연한 자
+the undisputed|모두가 인정하는 자
+the unexpected prize|뜻밖의 포상
+the union|결합
+the valkyrie|발키리
+the valley of steel boxes|강철 상자의 계곡
+the vast|광대함
+the visionary|공상가
+the void|공허
+the warden|간수
+the warlord|전쟁군주
+the watcher|감시자
+the web|거미줄
+the wedding gift|결혼 선물
+the white knight|백기사
+the whiteout|백시
+the wilted rose|시들은 장미
+the wind|바람
+the witch|마녀
+the wolf|늑대
+the wolf's legacy|늑대의 유산
+the wolf's shadow|늑대의 그림자
+the wolven king's bite|늑대왕의 이빨
+the wolverine|오소리
+the world eater|세계를 먹는 자
+the wrath|진노
+the wretched|불운아
+thirst for knowledge|불타는 지식욕
+three faces in the dark|어둠 속의 세 얼굴
+three voices|3개의 목소리
+thunderous skies|천둥 치는 하늘
+time-lost relic|오래된 유물
+toxic tidings|유독한 소식
+tranquillity|평온
+treasure hunter|보물 사냥꾼
+triskaidekaphobia|13 공포증
+turn the other cheek|다른 뺨을 내밀라
+unchained|해방
+underground forest|지하 숲
+unrequited love|짝사랑
+vanity|자만심
+vile power|사악한 힘
+vinia's token|비니아의 증표
+void of the elements|원소의 공허
+volatile power|불안한 권력
+wealth and power|부와 권력
+who asked|누가 물었느냐
+winter's embrace|겨울의 포옹
+curio of absorption|흡수의 골동품
+curio of consumption|소모의 골동품
+curio of decay|부패의 골동품
+curio of potential|잠재력의 골동품
+curiosity|호기심
+first piece of the arcane|비전의 첫 번째 조각
+first piece of brutality|잔인성의 첫 번째 조각
+first piece of directions|방향의 첫 번째 조각
+first piece of focus|집중의 첫 번째 조각
+first piece of storms|태풍의 첫 번째 조각
+first piece of time|시간의 첫 번째 조각
+fourth piece of focus|집중의 네 번째 조각
+cooperation|협력
+second piece of the arcane|비전의 두 번째 조각
+second piece of brutality|잔인성의 두 번째 조각
+second piece of directions|방향의 두 번째 조각
+second piece of focus|집중의 두 번째 조각
+second piece of storms|태풍의 두 번째 조각
+second piece of time|시간의 두 번째 조각
+third piece of the arcane|비전의 세 번째 조각
+third piece of brutality|잔인성의 세 번째 조각
+third piece of directions|방향의 세 번째 조각
+third piece of focus|집중의 세 번째 조각
+third piece of storms|태풍의 세 번째 조각
+beauty|아름다움
+ambition|야심
+curio of absorption primordial fragment|흡수의 골동품 태고의 조각
+curio of consumption primordial fragment|소모의 골동품 태고의 조각
+curio of decay primordial fragment|부패의 골동품 태고의 조각
+curio of potential primordial fragment|잠재력의 골동품 태고의 조각
+curiosity vaal aspect|호기심 바알 위상
+first piece of the arcane legion sword piece|비전의 첫 번째 조각 군단 검 조각
+first piece of brutality imperial staff piece|잔인성의 첫 번째 조각 제국 지팡이 조각
+first piece of directions blunt arrow quiver piece|방향의 첫 번째 조각 뭉툭한 화살통 조각
+first piece of focus archon kite shield piece|집중의 첫 번째 조각 집정관의 연모양 방패 조각
+first piece of storms callous mask piece|태풍의 첫 번째 조각 냉담한 가면 조각
+first piece of time cloth belt piece|시간의 첫 번째 조각 헝겊 허리띠 조각
+fourth piece of focus archon kite shield piece|집중의 네 번째 조각 집정관의 연모양 방패 조각
+cooperation vaal aspect|협력 바알 위상
+second piece of the arcane legion sword piece|비전의 두 번째 조각 군단 검 조각
+second piece of brutality imperial staff piece|잔인성의 두 번째 조각 제국 지팡이 조각
+second piece of directions blunt arrow quiver piece|방향의 두 번째 조각 뭉툭한 화살통 조각
+second piece of focus archon kite shield piece|집중의 두 번째 조각 집정관의 연모양 방패 조각
+second piece of storms callous mask piece|태풍의 두 번째 조각 냉담한 가면 조각
+second piece of time cloth belt piece|시간의 두 번째 조각 헝겊 허리띠 조각
+third piece of the arcane legion sword piece|비전의 세 번째 조각 군단 검 조각
+third piece of brutality imperial staff piece|잔인성의 세 번째 조각 제국 지팡이 조각
+third piece of directions blunt arrow quiver piece|방향의 세 번째 조각 뭉툭한 화살통 조각
+third piece of focus archon kite shield piece|집중의 세 번째 조각 집정관의 연모양 방패 조각
+third piece of storms callous mask piece|태풍의 세 번째 조각 냉담한 가면 조각
+beauty vaal aspect|아름다움 바알 위상
+ambition vaal aspect|야심 바알 위상
+crusader's exalted orb|십자군의 엑잘티드 오브
+hunter's exalted orb|사냥꾼의 엑잘티드 오브
+redeemer's exalted orb|대속자의 엑잘티드 오브
+warlord's exalted orb|전쟁군주의 엑잘티드 오브
+awakener's orb|각성자의 오브
+omen of fortune|행운의 징조
+omen of blanching|표백의 징조
+omen of death-dancing|죽음의 춤의 징조
+omen of adrenaline|아드레날린의 징조
+omen of death's door|죽음의 문턱의 징조
+omen of resurgence|재기의 징조
+omen of refreshment|원기 회복의 징조
+omen of return|귀환의 징조
+omen of bequeathal|대물림의 징조
+omen of revenge|복수의 징조
+omen of amelioration|개량의 징조
+omen of connections|연결의 징조
+omen of the jeweller|보석상의 징조
+omen of brilliance|광채의 징조
+omen of the soul devourer|영혼 포식자의 징조
+omen of acceleration|가속의 징조
+tattoo of the arohongui moonwarden|아로호누이 달의 간수의 문신
+tattoo of the arohongui scout|아로호누이 정찰병의 문신
+tattoo of the arohongui warrior|아로호누이 전사의 문신
+tattoo of the arohongui warmonger|아로호누이 전쟁광의 문신
+tattoo of the arohongui shaman|아로호누이 주술사의 문신
+loyalty tattoo of ikiaho|이키아호의 충성 문신
+tattoo of the arohongui makanga|아로호누이 마캉가의 문신
+tattoo of the hinekora warrior|히네코라 전사의 문신
+tattoo of the hinekora deathwarden|히네코라 죽음의 간수의 문신
+tattoo of the hinekora shaman|히네코라 주술사의 문신
+tattoo of the hinekora storyteller|히네코라 이야기꾼의 문신
+tattoo of the hinekora warmonger|히네코라 전쟁광의 문신
+loyalty tattoo of tawhanuku|타하누쿠의 충성 문신
+tattoo of the hinekora makanga|히네코라 마캉가의 문신
+tattoo of the kitava blood drinker|키타바 피 흡수자의 문신
+tattoo of the kitava rebel|키타바 반란자의 문신
+tattoo of the kitava warrior|키타바 전사의 문신
+tattoo of the kitava heart eater|키타바 심장 포식자의 문신
+tattoo of the kitava shaman|키타바 주술사의 문신
+loyalty tattoo of utula|우툴라의 충성 문신
+tattoo of the kitava makanga|키타바 마캉가의 문신
+tattoo of the ngamahu firewalker|나마후 화염보행자의 문신
+tattoo of the ngamahu shaman|나마후 주술사의 문신
+tattoo of the ngamahu warrior|나마후 전사의 문신
+tattoo of the ngamahu warmonger|나마후 전쟁광의 문신
+tattoo of the ngamahu woodcarver|나마후 목각사의 문신
+loyalty tattoo of kaom|카옴의 충성 문신
+tattoo of the ngamahu makanga|나마후 마캉가의 문신
+tattoo of the ramako scout|라마코 정찰병의 문신
+tattoo of the ramako archer|라마코 궁수의 문신
+tattoo of the ramako sniper|라마코 저격수의 문신
+tattoo of the ramako fleetfoot|라마코 쾌속병의 문신
+tattoo of the ramako shaman|라마코 주술사의 문신
+loyalty tattoo of ahuana|아후아나의 충성 문신
+tattoo of the ramako makanga|라마코 마캉가의 문신
+tattoo of the rongokurai warrior|롱고쿠라이 전사의 문신
+tattoo of the rongokurai brute|롱고쿠라이 돌격병의 문신
+tattoo of the rongokurai goliath|롱고쿠라이 골리앗의 문신
+tattoo of the rongokurai turtle|롱고쿠라이 거북이의 문신
+tattoo of the rongokurai guard|롱고쿠라이 수호병의 문신
+loyalty tattoo of kahuturoa|카후투로아의 충성 문신
+tattoo of the rongokurai makanga|롱고쿠라이 마캉가의 문신
+honoured tattoo of the hunter|사냥꾼의 명예로운 문신
+honoured tattoo of the barbarian|야만인의 명예로운 문신
+honoured tattoo of the berserker|광전사의 명예로운 문신
+honoured tattoo of the wise|현명한 자의 명예로운 문신
+honoured tattoo of the storm|폭풍의 명예로운 문신
+honoured tattoo of the flood|홍수의 명예로운 문신
+honoured tattoo of the warlord|전쟁군주의 명예로운 문신
+honoured tattoo of the mountain|산맥의 명예로운 문신
+honoured tattoo of the pa|파의 명예로운 문신
+honoured tattoo of the dove|비둘기의 명예로운 문신
+honoured tattoo of the sky|하늘의 명예로운 문신
+honoured tattoo of the tuatara|투아타라의 명예로운 문신
+honoured tattoo of the pillager|약탈꾼의 명예로운 문신
+honoured tattoo of the turtle|거북이의 명예로운 문신
+honoured tattoo of the oak|참나무의 명예로운 문신
+honoured tattoo of the hatungo|하툰고의 명예로운 문신
+honoured tattoo of the flock|무리의 명예로운 문신
+ancestral tattoo of bloodlines|혈맹의 선조 문신
+honoured tattoo of the makanga|마캉가의 명예로운 문신
+journey tattoo of the body|육신의 여정 문신
+journey tattoo of the mind|정신의 여정 문신
+journey tattoo of the soul|영혼의 여정 문신
+journey tattoo of makanui|마카누이의 여정 문신
+tattoo of the tasalio bladedancer|타살리오 검의 무희의 문신
+tattoo of the tasalio tideshifter|타살리오 파도변화술사의 문신
+tattoo of the tasalio shaman|타살리오 주술사의 문신
+tattoo of the tasalio warrior|타살리오 전사의 문신
+tattoo of the tasalio scout|타살리오 정찰병의 문신
+loyalty tattoo of rakiata|라키아타의 충성 문신
+tattoo of the tasalio makanga|타살리오 마캉가의 문신
+tattoo of the tawhoa naturalist|타호아 박물학자의 문신
+tattoo of the tawhoa scout|타호아 정찰병의 문신
+tattoo of the tawhoa warrior|타호아 전사의 문신
+tattoo of the tawhoa herbalist|타호아 약초상의 문신
+tattoo of the tawhoa shaman|타호아 주술사의 문신
+loyalty tattoo of maata|마아타의 충성 문신
+tattoo of the tawhoa makanga|타호아 마캉가의 문신
+tattoo of the tukohama shaman|투코하마 주술사의 문신
+tattoo of the tukohama warrior|투코하마 전사의 문신
+tattoo of the tukohama brawler|투코하마 싸움꾼의 문신
+tattoo of the tukohama warmonger|투코하마 전쟁광의 문신
+tattoo of the tukohama warcaller|투코하마 전쟁 소집자의 문신
+loyalty tattoo of akoya|아코야의 충성 문신
+tattoo of the tukohama makanga|투코하마 마캉가의 문신
+tattoo of the valako stormrider|발라코 태풍의 기수의 문신
+tattoo of the valako scout|발라코 정찰병의 문신
+tattoo of the valako warrior|발라코 전사의 문신
+tattoo of the valako shieldbearer|발라코 방패 운반자의 문신
+tattoo of the valako shaman|발라코 주술사의 문신
+loyalty tattoo of kiloava|킬로아바의 충성 문신
+tattoo of the valako makanga|발라코 마캉가의 문신
+simple rope net|단순한 밧줄 그물
+thaumaturgical net|마석학 그물
+necromancy net|강령술 그물
+reinforced rope net|강화 밧줄 그물
+strong rope net|강력한 밧줄 그물
+simple iron net|단순한 철 그물
+reinforced iron net|강화 철 그물
+strong iron net|강력한 철 그물
+simple steel net|단순한 강철 그물
+reinforced steel net|강화 강철 그물
+strong steel net|강력한 강철 그물
+awakened sextant|각성한 육분의
+elevated sextant|고양된 육분의
+facetor's lens|무아지경의 렌즈
+orb of augmentation|확장의 오브
+exalted orb|엑잘티드 오브
+exalted shard|엑잘티드 파편
+abyssal delirium orb|심연의 환영의 오브
+armoursmith's delirium orb|갑옷제작자의 환영의 오브
+blighted delirium orb|역병 걸린 환영의 오브
+obscured delirium orb|가려진 환영의 오브
+fine delirium orb|양질의 환영의 오브
+diviner's delirium orb|예언자의 환영의 오브
+whispering delirium orb|속삭이는 환영의 오브
+fossilised delirium orb|화석화된 환영의 오브
+fragmented delirium orb|조각난 환영의 오브
+thaumaturge's delirium orb|마석학자의 환영의 오브
+foreboding delirium orb|불길한 환영의 오브
+delirium orb|환영의 오브
+timeless delirium orb|무궁한 환영의 오브
+imperial delirium orb|제국 환영의 오브
+cartographer's delirium orb|지도제작자의 환영의 오브
+challenging delirium orb|도전하는 환영의 오브
+kalguuran delirium orb|칼구르 환영의 오브
+skittering delirium orb|달리는 환영의 오브
+primal delirium orb|원시 환영의 오브
+jeweller's delirium orb|쥬얼러 환영의 오브
+singular delirium orb|비범한 환영의 오브
+blacksmith's delirium orb|대장장이의 환영의 오브
+simulacrum splinter|복제된 영토 파편
+armourer's scrap|방어구 장인의 고철
+orb of unmaking|취소의 오브
+splinter of chayula|차율라의 파편
+splinter of tul|툴의 파편
+splinter of xoph|조프의 파편
+splinter of esh|에쉬의 파편
+splinter of uul-netol|울네톨의 파편
+blessing of chayula|차율라의 축복
+blessing of tul|툴의 축복
+blessing of xoph|조프의 축복
+blessing of esh|에쉬의 축복
+blessing of uul-netol|울네톨의 축복
+orb of conflict|갈등의 오브
+orb of scouring|정제의 오브
+vaal orb|바알 오브
+remnant of corruption|타락의 유물
+hollow fossil|공허의 화석
+serrated fossil|톱니 화석
+corroded fossil|부식된 화석
+aetheric fossil|에테르 화석
+aberrant fossil|특이한 화석
+frigid fossil|차디찬 화석
+glyphic fossil|상형 문자 화석
+dense fossil|조밀한 화석
+prismatic fossil|분광 화석
+deft fossil|날렵한 화석
+scorched fossil|그을린 화석
+faceted fossil|연마한 화석
+pristine fossil|온전한 화석
+metallic fossil|금속성 화석
+sanctified fossil|축성된 화석
+lucent fossil|빛나는 화석
+bound fossil|속박의 화석
+fractured fossil|분열된 화석
+jagged fossil|뾰족한 화석
+opulent fossil|호화로운 화석
+tangled fossil|얽혀든 화석
+gilded fossil|도금된 화석
+fundamental fossil|근본적인 화석
+shuddering fossil|전율의 화석
+bloodstained fossil|피얼룩 화석
+mirror of kalandra|칼란드라의 거울
+mirror shard|거울 파편
+eldritch exalted orb|섬뜩한 엑잘티드 오브
+lesser eldritch ember|하급 섬뜩한 불씨
+greater eldritch ember|상급 섬뜩한 불씨
+grand eldritch ember|우수한 섬뜩한 불씨
+exceptional eldritch ember|특출난 섬뜩한 불씨
+lesser eldritch ichor|하급 섬뜩한 영액
+greater eldritch ichor|상급 섬뜩한 영액
+grand eldritch ichor|우수한 섬뜩한 영액
+exceptional eldritch ichor|특출난 섬뜩한 영액
+eldritch orb of annulment|섬뜩한 소멸의 오브
+eldritch chaos orb|섬뜩한 카오스 오브
+enkindling orb|자극의 오브
+muttering essence of anger|불평하는 분노의 에센스
+weeping essence of anger|흐느끼는 분노의 에센스
+wailing essence of anger|울부짖는 분노의 에센스
+screaming essence of anger|절규하는 분노의 에센스
+shrieking essence of anger|악을 쓰는 분노의 에센스
+deafening essence of anger|귀를 찢는 분노의 에센스
+wailing essence of anguish|울부짖는 비통의 에센스
+screaming essence of anguish|절규하는 비통의 에센스
+shrieking essence of anguish|악을 쓰는 비통의 에센스
+deafening essence of anguish|귀를 찢는 비통의 에센스
+whispering essence of contempt|속삭이는 경멸의 에센스
+muttering essence of contempt|불평하는 경멸의 에센스
+weeping essence of contempt|흐느끼는 경멸의 에센스
+wailing essence of contempt|울부짖는 경멸의 에센스
+screaming essence of contempt|절규하는 경멸의 에센스
+shrieking essence of contempt|악을 쓰는 경멸의 에센스
+deafening essence of contempt|귀를 찢는 경멸의 에센스
+essence of delirium|섬망의 에센스
+weeping essence of doubt|흐느끼는 의심의 에센스
+wailing essence of doubt|울부짖는 의심의 에센스
+screaming essence of doubt|절규하는 의심의 에센스
+shrieking essence of doubt|악을 쓰는 의심의 에센스
+deafening essence of doubt|귀를 찢는 의심의 에센스
+screaming essence of dread|절규하는 불안의 에센스
+shrieking essence of dread|악을 쓰는 불안의 에센스
+deafening essence of dread|귀를 찢는 불안의 에센스
+screaming essence of envy|절규하는 선망의 에센스
+shrieking essence of envy|악을 쓰는 선망의 에센스
+deafening essence of envy|귀를 찢는 선망의 에센스
+muttering essence of fear|불평하는 두려움의 에센스
+weeping essence of fear|흐느끼는 두려움의 에센스
+wailing essence of fear|울부짖는 두려움의 에센스
+screaming essence of fear|절규하는 두려움의 에센스
+shrieking essence of fear|악을 쓰는 두려움의 에센스
+deafening essence of fear|귀를 찢는 두려움의 에센스
+whispering essence of greed|속삭이는 탐욕의 에센스
+muttering essence of greed|불평하는 탐욕의 에센스
+weeping essence of greed|흐느끼는 탐욕의 에센스
+wailing essence of greed|울부짖는 탐욕의 에센스
+screaming essence of greed|절규하는 탐욕의 에센스
+shrieking essence of greed|악을 쓰는 탐욕의 에센스
+deafening essence of greed|귀를 찢는 탐욕의 에센스
+whispering essence of hatred|속삭이는 증오의 에센스
+muttering essence of hatred|불평하는 증오의 에센스
+weeping essence of hatred|흐느끼는 증오의 에센스
+wailing essence of hatred|울부짖는 증오의 에센스
+screaming essence of hatred|절규하는 증오의 에센스
+shrieking essence of hatred|악을 쓰는 증오의 에센스
+deafening essence of hatred|귀를 찢는 증오의 에센스
+essence of horror|경악의 에센스
+essence of hysteria|발작의 에센스
+essence of insanity|광기의 에센스
+wailing essence of loathing|울부짖는 혐오의 에센스
+screaming essence of loathing|절규하는 혐오의 에센스
+shrieking essence of loathing|악을 쓰는 혐오의 에센스
+deafening essence of loathing|귀를 찢는 혐오의 에센스
+screaming essence of misery|절규하는 비참의 에센스
+shrieking essence of misery|악을 쓰는 비참의 에센스
+deafening essence of misery|귀를 찢는 비참의 에센스
+weeping essence of rage|흐느끼는 격노의 에센스
+wailing essence of rage|울부짖는 격노의 에센스
+screaming essence of rage|절규하는 격노의 에센스
+shrieking essence of rage|악을 쓰는 격노의 에센스
+deafening essence of rage|귀를 찢는 격노의 에센스
+screaming essence of scorn|절규하는 멸시의 에센스
+shrieking essence of scorn|악을 쓰는 멸시의 에센스
+deafening essence of scorn|귀를 찢는 멸시의 에센스
+muttering essence of sorrow|불평하는 슬픔의 에센스
+weeping essence of sorrow|흐느끼는 슬픔의 에센스
+wailing essence of sorrow|울부짖는 슬픔의 에센스
+screaming essence of sorrow|절규하는 슬픔의 에센스
+shrieking essence of sorrow|악을 쓰는 슬픔의 에센스
+deafening essence of sorrow|귀를 찢는 슬픔의 에센스
+wailing essence of spite|울부짖는 악의의 에센스
+screaming essence of spite|절규하는 악의의 에센스
+shrieking essence of spite|악을 쓰는 악의의 에센스
+deafening essence of spite|귀를 찢는 악의의 에센스
+weeping essence of suffering|흐느끼는 고통의 에센스
+wailing essence of suffering|울부짖는 고통의 에센스
+screaming essence of suffering|절규하는 고통의 에센스
+shrieking essence of suffering|악을 쓰는 고통의 에센스
+deafening essence of suffering|귀를 찢는 고통의 에센스
+muttering essence of torment|불평하는 고뇌의 에센스
+weeping essence of torment|흐느끼는 고뇌의 에센스
+wailing essence of torment|울부짖는 고뇌의 에센스
+screaming essence of torment|절규하는 고뇌의 에센스
+shrieking essence of torment|악을 쓰는 고뇌의 에센스
+deafening essence of torment|귀를 찢는 고뇌의 에센스
+whispering essence of woe|속삭이는 비애의 에센스
+muttering essence of woe|불평하는 비애의 에센스
+weeping essence of woe|흐느끼는 비애의 에센스
+wailing essence of woe|울부짖는 비애의 에센스
+screaming essence of woe|절규하는 비애의 에센스
+shrieking essence of woe|악을 쓰는 비애의 에센스
+deafening essence of woe|귀를 찢는 비애의 에센스
+weeping essence of wrath|흐느끼는 진노의 에센스
+wailing essence of wrath|울부짖는 진노의 에센스
+screaming essence of wrath|절규하는 진노의 에센스
+shrieking essence of wrath|악을 쓰는 진노의 에센스
+deafening essence of wrath|귀를 찢는 진노의 에센스
+wailing essence of zeal|울부짖는 열의의 에센스
+screaming essence of zeal|절규하는 열의의 에센스
+shrieking essence of zeal|악을 쓰는 열의의 에센스
+deafening essence of zeal|귀를 찢는 열의의 에센스
+oil extractor|성유 추출기
+glassblower's bauble|유리직공의 방울
+fracturing orb|분열의 오브
+fracturing shard|분열의 파편
+gemcutter's prism|세공사의 프리즘
+time-light scroll|시간과 빛의 주문서
+deregulation scroll|자율 주문서
+fragmentation scroll|파쇄 주문서
+specularity scroll|반영 주문서
+haemocombustion scroll|핏빛 연소 주문서
+electroshock scroll|전격 주문서
+tailoring orb|재단 오브
+tempering orb|단조 오브
+tainted exalted orb|더럽혀진 엑잘티드 오브
+tainted armourer's scrap|더럽혀진 방어구 장인의 고철
+tainted chaos orb|더럽혀진 카오스 오브
+tainted chromatic orb|더럽혀진 색채의 오브
+tainted orb of fusing|더럽혀진 연결의 오브
+tainted jeweller's orb|더럽혀진 쥬얼러 오브
+tainted divine teardrop|더럽혀진 신성한 눈물방울
+tainted mythic orb|더럽혀진 신화 오브
+tainted blacksmith's whetstone|더럽혀진 대장장이의 숫돌
+hinekora's lock|히네코라의 머리카락
+scroll of wisdom|감정 주문서
+scroll fragment|주문서 조각
+imprint|각인
+eternal orb|영원의 오브
+abyssal incubator|심연의 인큐베이터
+geomancer's incubator|대지술사의 인큐베이터
+celestial armoursmith's incubator|천공의 갑옷제작자의 인큐베이터
+feral incubator|야생의 인큐베이터
+blighted incubator|역병 걸린 인큐베이터
+obscured incubator|가려진 인큐베이터
+ornate incubator|화려한 인큐베이터
+fine incubator|양질의 인큐베이터
+maddening incubator|광기의 인큐베이터
+diviner's incubator|예언자의 인큐베이터
+infused incubator|주입된 인큐베이터
+whispering incubator|속삭이는 인큐베이터
+fossilised incubator|화석화된 인큐베이터
+fragmented incubator|조각난 인큐베이터
+gemcutter's incubator|세공사의 인큐베이터
+thaumaturge's incubator|마석학자의 인큐베이터
+mysterious incubator|수수께끼의 인큐베이터
+foreboding incubator|불길한 인큐베이터
+enchanted incubator|인챈트된 인큐베이터
+eldritch incubator|섬뜩한 인큐베이터
+cartographer's incubator|지도제작자의 인큐베이터
+challenging incubator|도전하는 인큐베이터
+kalguuran incubator|칼구르 인큐베이터
+skittering incubator|달리는 인큐베이터
+primal incubator|원시 인큐베이터
+celestial jeweller's incubator|천공의 보석상의 인큐베이터
+time-lost incubator|오래된 인큐베이터
+otherworldly incubator|이계의 인큐베이터
+singular incubator|비범한 인큐베이터
+celestial blacksmith's incubator|천공의 대장장이의 인큐베이터
+vial of sacrifice|희생의 시약
+vial of the ghost|유령의 시약
+vial of transcendence|초월의 시약
+vial of fate|운명의 시약
+vial of summoning|소환의 시약
+vial of the ritual|의식의 시약
+vial of consequence|결과의 시약
+vial of awakening|각성의 시약
+vial of dominance|지배의 시약
+instilling orb|주입의 오브
+bestiary orb|야수의 오브
+filled coffin|채워진 관
+charged compass|충전된 나침반
+empty coffin|빈 관
+abrasive catalyst|연마의 기폭제
+intrinsic catalyst|본질의 기폭제
+imbued catalyst|부여의 기폭제
+unstable catalyst|불안정한 기폭제
+tempering catalyst|완화의 기폭제
+turbulent catalyst|격동의 기폭제
+noxious catalyst|유독성 기폭제
+prismatic catalyst|분광의 기폭제
+fertile catalyst|풍요의 기폭제
+accelerating catalyst|가속의 기폭제
+tainted catalyst|더럽혀진 기폭제
+timeless eternal empire splinter|무궁한 영원한 제국 파편
+timeless karui splinter|무궁한 카루이 파편
+timeless maraketh splinter|무궁한 마라케스 파편
+timeless templar splinter|무궁한 템플러 파편
+timeless vaal splinter|무궁한 바알 파편
+cartographer's chisel|지도제작자의 끌
+maven's chisel of avarice|탐욕의 메이븐의 끌
+maven's chisel of divination|점술의 메이븐의 끌
+maven's chisel of proliferation|확산의 메이븐의 끌
+maven's chisel of procurement|조달의 메이븐의 끌
+maven's chisel of scarabs|갑충석의 메이븐의 끌
+divine orb|신성한 오브
+orb of regret|후회의 오브
+perandus coin|페란두스 코인
+portal scroll|포탈 주문서
+exotic coinage|특이한 주화
+scrap metal|고철
+astragali|복사뼈
+burial medallion|매장용 메달리온
+orb of annulment|소멸의 오브
+annulment shard|소멸의 파편
+sacred orb|성스러운 오브
+blessed orb|축복의 오브
+orb of alteration|변화의 오브
+alteration shard|변화의 파편
+orb of horizons|지평의 오브
+horizon shard|지평의 파편
+chaos orb|카오스 오브
+chaos shard|카오스 파편
+veiled orb|장막의 오브
+chromatic orb|색채의 오브
+orb of fusing|연결의 오브
+jeweller's orb|쥬얼러 오브
+ancient orb|고대의 오브
+ancient shard|고대의 파편
+unshaping orb|강등의 오브
+albino rhoa feather|흰 로아 깃털
+ritual splinter|의식의 파편
+ritual vessel|의식의 그릇
+master cartographer's seal|대가 지도제작자의 봉인
+apprentice cartographer's seal|수습 지도제작자의 봉인
+journeyman cartographer's seal|숙련 지도제작자의 봉인
+uncarved gemstone|젬 원석
+veiled scarab|장막 갑충석
+engineer's orb|기술자의 오브
+infused engineer's orb|주입된 기술자의 오브
+engineer's shard|기술자의 파편
+orb of dominance|지배의 오브
+regal orb|제왕의 오브
+regal shard|제왕의 파편
+harbinger's orb|선구자의 오브
+harbinger's shard|선구자의 파편
+orb of chance|기회의 오브
+orb of transmutation|진화의 오브
+transmutation shard|진화의 파편
+orb of alchemy|연금술의 오브
+orb of binding|속박의 오브
+binding shard|속박의 파편
+alchemy shard|연금술의 파편
+valdo's puzzle box|발도의 퍼즐 상자
+blacksmith's whetstone|대장장이의 숫돌
+gold|골드
+primal crystallised lifeforce|원시 생기 결정
+sacred crystallised lifeforce|신성한 생기 결정
+vivid crystallised lifeforce|혈기 생기 결정
+wild crystallised lifeforce|야생 생기 결정
+sun rune|태양 룬
+power rune|권능 룬
+bound rune|속박 룬
+life rune|생명 룬
+war rune|전쟁 룬
+river rune|강 룬
+bounty rune|하사품 룬
+journey rune|여정 룬
+mountain rune|산 룬
+time rune|시간 룬
+clear oil|투명한 성유
+opalescent oil|오팔빛 성유
+silver oil|은빛 성유
+golden oil|금빛 성유
+sepia oil|적갈빛 성유
+amber oil|호박빛 성유
+verdant oil|신록빛 성유
+teal oil|청록빛 성유
+azure oil|담청빛 성유
+indigo oil|남색 성유
+violet oil|보랏빛 성유
+crimson oil|진홍빛 성유
+black oil|검은빛 성유
+tainted oil|더럽혀진 성유
+reflective oil|투영 성유
+prismatic oil|분광 성유
+reflecting mist|투영하는 안개
+blighted scouting report|역병 걸린 정찰 보고서
+otherworldly scouting report|신기한 정찰 보고서
+vaal scouting report|바알 정찰 보고서
+delirious scouting report|환영의 정찰 보고서
+explorer's scouting report|탐험가의 정찰 보고서
+influenced scouting report|영향을 받은 정찰 보고서
+operative's scouting report|첩보원의 정찰 보고서
+comprehensive scouting report|상세한 정찰 보고서
+singular scouting report|비범한 정찰 보고서
+armour recombinator|방어구 재조합기
+jewellery recombinator|장신구 재조합기
+weapon recombinator|무기 재조합기
+primitive chaotic resonator|초기형 혼돈 공명기
+potent chaotic resonator|강화형 혼돈 공명기
+powerful chaotic resonator|강력 혼돈 공명기
+prime chaotic resonator|최종형 혼돈 공명기
+primitive alchemical resonator|초기형 연금술 공명기
+potent alchemical resonator|강화형 연금술 공명기
+powerful alchemical resonator|강력 연금술 공명기
+prime alchemical resonator|최종형 연금술 공명기
+stacked deck|카드 묶음
+lesser broken circle artifact|하급 끊어진 원 유물
+greater broken circle artifact|상급 끊어진 원 유물
+grand broken circle artifact|우수한 끊어진 원 유물
+exceptional broken circle artifact|특출난 끊어진 원 유물
+lesser black scythe artifact|하급 검은 낫 유물
+greater black scythe artifact|상급 검은 낫 유물
+grand black scythe artifact|우수한 검은 낫 유물
+exceptional black scythe artifact|특출난 검은 낫 유물
+lesser order artifact|하급 성배단 유물
+greater order artifact|상급 성배단 유물
+grand order artifact|우수한 성배단 유물
+exceptional order artifact|특출난 성배단 유물
+lesser sun artifact|하급 태양 유물
+greater sun artifact|상급 태양 유물
+grand sun artifact|우수한 태양 유물
+exceptional sun artifact|특출난 태양 유물
+rogue's marker|도둑의 증표
+urn of farud|파루드의 단지
+ogham candelabra|오검 가지 촛대
+tusked hominid skull|엄니 있는 인간형 해골
+celestial stone|천공의 돌
+urn of the original ashes|최초의 잿더미 단지
+heart coil|심장 감개
+enigmatic assembly a4|수수께끼 조립물 A4
+enigmatic assembly b2|수수께끼 조립물 B2
+enigmatic assembly c5|수수께끼 조립물 C5
+enigmatic assembly d1|수수께끼 조립물 D1
+mirror of teklatipitzi|테클라티피치의 거울
+box of tripyxis|트라이픽시스의 상자
+bust of emperor caspiro|카스피로 황제의 흉상
+golden hetzapal idol|황금 헤차팔 우상
+flask of welakath|웰라카스의 플라스크
+forbidden lamp|금단의 등화
+the goddess of water|물의 여신
+the golden ibis|황금 이비스
+impossible crystal|불가사의한 수정
+living ice|살아있는 얼음
+seal of lunaris|루나리스의 인장
+golden matatl idol|황금 마타틀 우상
+incense of keth|케스의 향
+the sea pearl heirloom|천연 진주 가보
+seal of solaris|솔라리스의 인장
+golden napuatzi idol|황금 나푸앗지 우상
+essence burner|정수 화로
+ancient seal|고대의 봉인
+blood of innocence|이노센스의 피
+dekhara's resolve|데카라의 결의
+orbala's fifth adventure|오발라의 다섯 번째 모험
+staff of the first sin eater|최초의 죄악을 먹는 자의 지팡이
+sword of the inverse relic|뒤집힌 유물의 검
+crest of ezomyr|에조미어의 문양
+golden slave idol|황금 노예 우상
+golden xoplotli idol|황금 솝로틀리 우상
+ceremonial goblet|의식용 잔
+crested golden idol|문장 황금 우상
+golden ceremonial mask|황금 의식용 가면
+golden prayer idol|황금 기도 우상
+golden grotesque|황금 괴기물
+golden sacrificial glyph|황금 희생 상형 문자
+ez myrae tome|에즈 미레이의 책
+hand of arimor|아리모르의 손
+abberathine horns|아버라스의 뿔
+admiral proclar's pipe|프로클라 제독의 담뱃대
+alchemical chalice|연금술 성배
+crescent splinter|초승달 파편
+primordial fragment|태고의 조각
+cloth belt piece|헝겊 허리띠 조각
+callous mask piece|냉담한 가면 조각
+vaal aspect|바알 위상
+blunt arrow quiver piece|뭉툭한 화살통 조각
+archon kite shield piece|집정관의 연모양 방패 조각
+imperial staff piece|제국 지팡이 조각
+legion sword piece|군단 검 조각
+atziri's promise|앗지리의 약속
+blood of the karui|카루이의 피
+bottled faith|병에 담긴 믿음
+cinderswallow urn|잿더미 단지
+coralito's signature|코랄리토의 서명
+coruscating elixir|빛나는 묘약
+divination distillate|예언의 정수
+doedre's elixir|도이드리의 묘약
+dying sun|죽어가는 해
+elixir of the unbroken circle|끊어진 원의 영액
+forbidden taste|금단의 맛
+kiara's determination|키아라의 결의
+lavianga's spirit|라비앙가의 혼백
+lion's roar|사자의 포효
+olroth's resolve|올로스의 결의
+oriath's end|오리아스의 종말
+progenesis|전창조
+replica lavianga's spirit|라비앙가의 혼백 모조품
+replica rumi's concoction|루미의 혼합물 모조품
+replica sorrow of the divine|신의 슬픔 모조품
+replica witchfire brew|불타는 마녀의 술 모조품
+rotgut|썩은 내장
+rumi's concoction|루미의 혼합물
+sin's rebirth|씬의 부활
+soul catcher|영혼 포획자
+soul ripper|영혼 거열기
+starlight chalice|별빛 성배
+taste of hate|증오의 맛
+the overflowing chalice|넘치는 성배
+the sorrow of the divine|신의 슬픔
+the wise oak|지혜의 참나무
+the writhing jar|꿈틀거리는 단지
+vessel of vinktar|빙타의 그릇
+vorana's preparation|보라나의 준비
+witchfire brew|불타는 마녀의 술
+zerphi's last breath|제르피의 마지막 숨결
+atziri's promise amethyst flask|앗지리의 약속 자수정 플라스크
+blood of the karui sanctified life flask|카루이의 피 축성된 생명력 플라스크
+bottled faith sulphur flask|병에 담긴 믿음 유황 플라스크
+cinderswallow urn silver flask|잿더미 단지 은 플라스크
+coralito's signature diamond flask|코랄리토의 서명 다이아몬드 플라스크
+coruscating elixir ruby flask|빛나는 묘약 루비 플라스크
+divination distillate large hybrid flask|예언의 정수 대형 하이브리드 플라스크
+doedre's elixir greater mana flask|도이드리의 묘약 대용량 마나 플라스크
+dying sun ruby flask|죽어가는 해 루비 플라스크
+elixir of the unbroken circle iron flask|끊어진 원의 영액 철 플라스크
+forbidden taste quartz flask|금단의 맛 석영 플라스크
+kiara's determination silver flask|키아라의 결의 은 플라스크
+lavianga's spirit sanctified mana flask|라비앙가의 혼백 축성된 마나 플라스크
+lion's roar granite flask|사자의 포효 화강암 플라스크
+olroth's resolve iron flask|올로스의 결의 철 플라스크
+oriath's end bismuth flask|오리아스의 종말 비스무트 플라스크
+progenesis amethyst flask|전창조 자수정 플라스크
+replica lavianga's spirit sanctified mana flask|라비앙가의 혼백 모조품 축성된 마나 플라스크
+replica rumi's concoction granite flask|루미의 혼합물 모조품 화강암 플라스크
+replica sorrow of the divine sulphur flask|신의 슬픔 모조품 유황 플라스크
+replica witchfire brew stibnite flask|불타는 마녀의 술 모조품 휘안석 플라스크
+rotgut quicksilver flask|썩은 내장 수은 플라스크
+rumi's concoction granite flask|루미의 혼합물 화강암 플라스크
+sin's rebirth stibnite flask|씬의 부활 휘안석 플라스크
+soul catcher quartz flask|영혼 포획자 석영 플라스크
+soul ripper quartz flask|영혼 거열기 석영 플라스크
+starlight chalice iron flask|별빛 성배 철 플라스크
+taste of hate sapphire flask|증오의 맛 사파이어 플라스크
+the overflowing chalice sulphur flask|넘치는 성배 유황 플라스크
+the sorrow of the divine sulphur flask|신의 슬픔 유황 플라스크
+the wise oak bismuth flask|지혜의 참나무 비스무트 플라스크
+the writhing jar hallowed hybrid flask|꿈틀거리는 단지 거룩한 하이브리드 플라스크
+vessel of vinktar topaz flask|빙타의 그릇 토파즈 플라스크
+vorana's preparation iron flask|보라나의 준비 철 플라스크
+witchfire brew stibnite flask|불타는 마녀의 술 휘안석 플라스크
+zerphi's last breath grand mana flask|제르피의 마지막 숨결 거대 마나 플라스크
+small hybrid flask|소형 하이브리드 플라스크
+medium hybrid flask|중형 하이브리드 플라스크
+large hybrid flask|대형 하이브리드 플라스크
+colossal hybrid flask|초대형 하이브리드 플라스크
+sacred hybrid flask|성스러운 하이브리드 플라스크
+hallowed hybrid flask|거룩한 하이브리드 플라스크
+small life flask|소형 생명력 플라스크
+sanctified life flask|축성된 생명력 플라스크
+divine life flask|신성한 생명력 플라스크
+eternal life flask|영원의 생명력 플라스크
+medium life flask|중형 생명력 플라스크
+large life flask|대형 생명력 플라스크
+greater life flask|대용량 생명력 플라스크
+grand life flask|거대 생명력 플라스크
+giant life flask|초거대 생명력 플라스크
+colossal life flask|초대형 생명력 플라스크
+sacred life flask|성스러운 생명력 플라스크
+hallowed life flask|거룩한 생명력 플라스크
+small mana flask|소형 마나 플라스크
+sanctified mana flask|축성된 마나 플라스크
+divine mana flask|신성한 마나 플라스크
+eternal mana flask|영원의 마나 플라스크
+medium mana flask|중형 마나 플라스크
+large mana flask|대형 마나 플라스크
+greater mana flask|대용량 마나 플라스크
+grand mana flask|거대 마나 플라스크
+giant mana flask|초거대 마나 플라스크
+colossal mana flask|초대형 마나 플라스크
+sacred mana flask|성스러운 마나 플라스크
+hallowed mana flask|거룩한 마나 플라스크
+diamond flask|다이아몬드 플라스크
+basalt flask|현무암 플라스크
+aquamarine flask|아쿠아마린 플라스크
+stibnite flask|휘안석 플라스크
+sulphur flask|유황 플라스크
+silver flask|은 플라스크
+bismuth flask|비스무트 플라스크
+gold flask|황금 플라스크
+corundum flask|강옥 플라스크
+iron flask|철 플라스크
+ruby flask|루비 플라스크
+sapphire flask|사파이어 플라스크
+topaz flask|토파즈 플라스크
+granite flask|화강암 플라스크
+quicksilver flask|수은 플라스크
+amethyst flask|자수정 플라스크
+quartz flask|석영 플라스크
+jade flask|비취 플라스크
+animate weapon of ranged arms|원거리 병기의 무기 기동
+arc of oscillating|뇌동의 연쇄 번개
+armageddon brand of recall|소환의 종말의 낙인
+artillery ballista of focus fire|집중 사격의 포대 쇠뇌
+ball lightning of static|정전기의 구형 번개
+blade blast of dagger detonation|단검 폭파의 칼날 폭격
+bladefall of impaling|꿰뚫기의 칼날비
+blade trap of laceration|열상의 칼날 덫
+blight of atrophy|위축의 황폐
+blink arrow of prismatic clones|분광 분신의 점멸 화살
+boneshatter of carnage|살육의 뼈 박살
+contagion of transference|전이의 전염
+cremation of the volcano|화산의 시체 소각
+crackling lance of disintegration|분해의 치직대는 창
+detonate dead of chain reaction|연쇄 반응의 시체 폭발
+divine ire of disintegration|분해의 신성한 진노
+double strike of momentum|기세의 이중 타격
+earthshatter of prominence|출중의 지면 분쇄
+essence drain of wickedness|사악함의 정수 흡수
+ethereal knives of the massacre|도륙의 천상의 단도
+eye of winter of transience|덧없음의 겨울의 눈
+firestorm of pelting|퍼부음의 화염 폭풍
+flameblast of contraction|수축의 화염파
+flame dash of return|귀환의 화염 질주
+icicle mine of sabotage|방해 공작의 고드름 지뢰
+frost bomb of forthcoming|임박의 서리 폭탄
+hexblast of havoc|혼란의 사술폭발
+ice nova of deep freeze|결빙의 얼음 폭발
+incinerate of venting|환기의 소각
+lacerate of haemorrhage|실혈의 피부 찢기
+lightning tendrils of escalation|격화의 덩굴 번개
+lightning spire trap of overloading|과부하의 번개 첨탑 덫
+mirror arrow of prismatic clones|분광 분신의 거울 화살
+penance brand of conduction|전도의 속죄의 낙인
+perforate of bloodshed|유혈의 천공
+rain of arrows of saturation|포화의 화살비
+raise zombie of falling|추락의 좀비 소환
+galvanic arrow of surging|쇄도의 충격 화살
+explosive trap of magnitude|규모의 폭발 덫
+soulrend of the spiral|나선의 영혼 분리
+spark of unpredictability|예측 불허의 전기불꽃
+storm rain of the fence|울타리의 폭풍우
+summon carrion golem of scavenging|청소부의 부패 골렘 소환
+summon chaos golem of the maelström|마엘스트롬의 카오스 골렘 소환
+summon flame golem of the meteor|유성의 화염 골렘 소환
+summon ice golem of shattering|산산조각의 얼음 골렘 소환
+summon reaper of eviscerating|적출의 수확자 소환
+summon stone golem of safeguarding|방비의 돌 골렘 소환
+summon skeletons of mages|마법사의 해골 소환
+tornado of elemental turbulence|격동하는 원소의 회오리
+toxic rain of withering|고사의 맹독성 비
+vaal animate weapon (animate weapon of ranged arms)|바알 무기 기동 (원거리 병기의 무기 기동)
+vaal arc (arc of oscillating)|바알 연쇄 번개 (뇌동의 연쇄 번개)
+vaal blight (blight of atrophy)|바알 황폐 (위축의 황폐)
+vaal detonate dead (detonate dead of chain reaction)|바알 시체 폭발 (연쇄 반응의 시체 폭발)
+vaal double strike (double strike of momentum)|바알 이중 타격 (기세의 이중 타격)
+vaal firestorm (firestorm of pelting)|바알 화염 폭풍 (퍼부음의 화염 폭풍)
+vaal flameblast (flameblast of contraction)|바알 화염파 (수축의 화염파)
+vaal ice nova (ice nova of deep freeze)|바알 얼음 폭발 (결빙의 얼음 폭발)
+vaal rain of arrows (rain of arrows of saturation)|바알 화살비 (포화의 화살비)
+vaal spark (spark of unpredictability)|바알 전기불꽃 (예측 불허의 전기불꽃)
+vaal summon skeletons (summon skeletons of mages)|바알 해골 소환 (마법사의 해골 소환)
+volatile dead of seething|끓어오름의 시체 불덩이
+absolution of inspiring|격려의 면죄
+animate guardian of smiting|징벌의 수호자 기동
+animate weapon of self reflection|자기 반사의 무기 기동
+arc of surging|쇄도의 연쇄 번개
+armageddon brand of volatility|일촉즉발의 종말의 낙인
+artillery ballista of cross strafe|십자 포화의 포대 쇠뇌
+ball lightning of orbiting|공전의 구형 번개
+barrage of volley fire|일제 포격의 연발 사격
+bear trap of skewers|꼬챙이의 곰 덫
+blade blast of unloading|난사의 칼날 폭격
+bladefall of volleys|사격 공세의 칼날비
+bladestorm of uncertainty|불확실성의 칼날 폭풍
+blade trap of greatswords|대검의 칼날 덫
+blade vortex of the scythe|낫의 칼날 소용돌이
+blight of contagion|전염의 황폐
+blink arrow of bombarding clones|포격 분신의 점멸 화살
+boneshatter of complex trauma|복합 외상의 뼈 박살
+burning arrow of vigour|활력의 불타는 화살
+blade flurry of incision|절개의 질풍의 칼날
+cleave of rage|격노의 회전베기
+cold snap of power|권능의 한파
+consecrated path of endurance|인내의 축성의 진격
+contagion of subsiding|침하의 전염
+cremation of exhuming|발굴의 시체 소각
+bodyswap of sacrifice|희생의 신체 전환
+crackling lance of branching|파생의 치직대는 창
+cyclone of tumult|소동의 회오리바람
+bane of condemnation|규탄의 파멸
+detonate dead of scavenging|청소부의 시체 폭발
+discharge of misery|비참의 방출
+divine ire of holy lightning|상서로운 번개의 신성한 진노
+dominating blow of inspiring|격려의 지배의 맹타
+double strike of impaling|꿰뚫기의 이중 타격
+dual strike of ambidexterity|양손잡이의 쌍수 타격
+earthquake of amplification|증폭의 지진
+earthshatter of fragility|허약의 지면 분쇄
+elemental hit of the spectrum|파장의 원소의 일격
+essence drain of desperation|필사의 정수 흡수
+ethereal knives of lingering blades|지속되는 칼날의 천상의 단도
+explosive concoction of destruction|파괴의 폭발성 혼합물
+exsanguinate of transmission|전송의 방혈
+eye of winter of finality|종극의 겨울의 눈
+scorching ray of immolation|제물의 작열 광선
+pyroclast mine of sabotage|방해 공작의 화산탄 지뢰
+firestorm of meteors|유성의 화염 폭풍
+fire trap of blasting|폭발의 화염 덫
+flameblast of celerity|민첩함의 화염파
+holy flame totem of ire|노여움의 신성한 화염 토템
+flame surge of combusting|발화의 화염 쇄도
+flicker strike of power|권능의 점멸 타격
+forbidden rite of soul sacrifice|영혼 희생의 금단의 의식
+icicle mine of fanning|퍼짐의 고드름 지뢰
+frenzy of onslaught|맹공의 격분
+frost blades of katabasis|퇴각의 서리 칼날
+frostblink of wintry blast|차가운 폭발의 서리점멸
+vortex of projection|투영의 소용돌이
+frost bomb of instability|불안정의 서리 폭탄
+frozen legion of rallying|재집결의 얼어붙은 군단
+galvanic field of intensity|격렬함의 충격장
+glacial cascade of the fissure|균열의 빙하 폭포
+glacial hammer of shattering|산산조각의 빙하 망치
+ground slam of earthshaking|지동의 대지 강타
+hexblast of contradiction|상반의 사술폭발
+ice crash of cadence|운율의 얼음 충격
+ice nova of frostbolts|서리 구체의 얼음 폭발
+ice shot of penetration|관통의 얼음 화살
+ice spear of splitting|분할의 얼음 창
+ice trap of hollowness|무상의 얼음 덫
+incinerate of expanse|광야의 소각
+infernal blow of immolation|제물의 지옥불 맹타
+kinetic blast of clustering|군집의 역학 폭발
+kinetic bolt of fragmentation|파쇄의 역학 투사체
+lacerate of butchering|도살의 피부 찢기
+lancing steel of spraying|분사의 강철 관통
+leap slam of groundbreaking|땅 분쇄의 도약 강타
+lightning arrow of electrocution|전기 처형의 번개 화살
+lightning conduit of the heavens|천국의 번개 도관
+lightning strike of arcing|전호의 번개 타격
+lightning tendrils of eccentricity|기행의 덩굴 번개
+lightning spire trap of zapping|전류의 번개 첨탑 덫
+lightning trap of sparking|전기불꽃의 번개 덫
+mirror arrow of bombarding clones|포격 분신의 거울 화살
+molten strike of the zenith|북극성의 용암 타격
+penance brand of dissipation|소실의 속죄의 낙인
+perforate of duality|이중성의 천공
+seismic trap of swells|팽창의 지진 덫
+caustic arrow of poison|독의 부식성 화살
+poisonous concoction of bouncing|반동의 독성 혼합물
+power siphon of the archmage|대마법사의 권능 착취
+puncture of shanking|들이꽂는 관통상
+rage vortex of berserking|광폭화의 격노 소용돌이
+rain of arrows of artillery|포대의 화살비
+raise spectre of transience|덧없음의 망령 소환
+raise zombie of slamming|강타의 좀비 소환
+reave of refraction|굴절의 약탈
+righteous fire of arcane devotion|비전 헌신의 정의의 화염
+purifying flame of revelations|계시의 정화의 불길
+scourge arrow of menace|위험의 재앙의 화살
+shattering steel of ammunition|탄약의 강철 파편
+shield crush of the chieftain|부족장의 방패 타쇄
+shrapnel ballista of steel|강철의 파편 쇠뇌
+galvanic arrow of energy|에너지의 충격 화살
+explosive trap of shrapnel|파편의 폭발 덫
+siege ballista of splintering|파편의 공성 쇠뇌
+smite of divine judgement|신성한 심판의 징벌
+soulrend of reaping|낫질의 영혼 분리
+spark of the nova|폭발의 전기불꽃
+split arrow of splitting|분할의 분할 화살
+splitting steel of ammunition|탄약의 강철 분할
+stormbind of teleportation|순간이동의 폭풍 연대
+storm brand of indecision|우유부단의 폭풍의 낙인
+storm rain of the conduit|도관의 폭풍우
+summon carrion golem of hordes|군단의 부패 골렘 소환
+summon chaos golem of hordes|군단의 카오스 골렘 소환
+summon flame golem of hordes|군단의 화염 골렘 소환
+summon ice golem of hordes|군단의 얼음 골렘 소환
+summon lightning golem of hordes|군단의 번개 골렘 소환
+summon raging spirit of enormity|극악무도의 격노의 유령 소환
+summon reaper of revenants|원령의 수확자 소환
+summon holy relic of conviction|신념의 신성한 유물 소환
+summon stone golem of hordes|군단의 돌 골렘 소환
+summon skeletons of archers|궁수의 해골 소환
+sunder of earthbreaking|대지 분쇄의 산산조각
+tectonic slam of cataclysm|대재앙의 지층 강타
+spectral shield throw of shattering|산산조각의 환영 방패 투척
+spectral throw of materialising|구체화의 환영 무기 투척
+tornado shot of cloudburst|구름폭발의 회오리 사격
+toxic rain of sporeburst|포자 폭발의 맹독성 비
+vaal absolution (absolution of inspiring)|바알 면죄 (격려의 면죄)
+vaal animate weapon (animate weapon of self reflection)|바알 무기 기동 (자기 반사의 무기 기동)
+vaal arc (arc of surging)|바알 연쇄 번개 (쇄도의 연쇄 번개)
+vaal blade vortex (blade vortex of the scythe)|바알 칼날 소용돌이 (낫의 칼날 소용돌이)
+vaal blight (blight of contagion)|바알 황폐 (전염의 황폐)
+vaal burning arrow (burning arrow of vigour)|바알 불타는 화살 (활력의 불타는 화살)
+vaal caustic arrow (caustic arrow of poison)|바알 부식성 화살 (독의 부식성 화살)
+vaal blade flurry (blade flurry of incision)|바알 질풍의 칼날 (절개의 질풍의 칼날)
+vaal cleave (cleave of rage)|바알 회전베기 (격노의 회전베기)
+vaal cold snap (cold snap of power)|바알 한파 (권능의 한파)
+vaal cyclone (cyclone of tumult)|바알 회오리바람 (소동의 회오리바람)
+vaal detonate dead (detonate dead of scavenging)|바알 시체 폭발 (청소부의 시체 폭발)
+vaal domination (dominating blow of inspiring)|바알 지배 (격려의 지배의 맹타)
+vaal double strike (double strike of impaling)|바알 이중 타격 (꿰뚫기의 이중 타격)
+vaal earthquake (earthquake of amplification)|바알 지진 (증폭의 지진)
+vaal firestorm (firestorm of meteors)|바알 화염 폭풍 (유성의 화염 폭풍)
+vaal flameblast (flameblast of celerity)|바알 화염파 (민첩함의 화염파)
+vaal flicker strike (flicker strike of power)|바알 점멸 타격 (권능의 점멸 타격)
+vaal glacial hammer (glacial hammer of shattering)|바알 빙하 망치 (산산조각의 빙하 망치)
+vaal ground slam (ground slam of earthshaking)|바알 대지 강타 (지동의 대지 강타)
+vaal ice nova (ice nova of frostbolts)|바알 얼음 폭발 (서리 구체의 얼음 폭발)
+vaal ice shot (ice shot of penetration)|바알 얼음 화살 (관통의 얼음 화살)
+vaal lightning arrow (lightning arrow of electrocution)|바알 번개 화살 (전기 처형의 번개 화살)
+vaal lightning strike (lightning strike of arcing)|바알 번개 타격 (전호의 번개 타격)
+vaal lightning trap (lightning trap of sparking)|바알 번개 덫 (전기불꽃의 번개 덫)
+vaal molten strike (molten strike of the zenith)|바알 용암 타격 (북극성의 용암 타격)
+vaal power siphon (power siphon of the archmage)|바알 권능 착취 (대마법사의 권능 착취)
+vaal rain of arrows (rain of arrows of artillery)|바알 화살비 (포대의 화살비)
+vaal reave (reave of refraction)|바알 약탈 (굴절의 약탈)
+vaal righteous fire (righteous fire of arcane devotion)|바알 정의의 화염 (비전 헌신의 정의의 화염)
+vaal smite (smite of divine judgement)|바알 징벌 (신성한 심판의 징벌)
+vaal spark (spark of the nova)|바알 전기불꽃 (폭발의 전기불꽃)
+vaal summon skeletons (summon skeletons of archers)|바알 해골 소환 (궁수의 해골 소환)
+vaal spectral throw (spectral throw of materialising)|바알 환영 무기 투척 (구체화의 환영 무기 투척)
+vaal volcanic fissure (volcanic fissure of snaking)|바알 화산 균열 (구불거림의 화산 균열)
+viper strike of the mamba|큰독사의 맹독 타격
+void sphere of rending|분리의 공허 구체
+volatile dead of confinement|감금의 시체 불덩이
+volcanic fissure of snaking|구불거림의 화산 균열
+wild strike of extremes|극단의 사나운 타격
+absolution|면죄
+infernal cry|지옥불 함성
+alchemist's mark|연금술사의 징표
+ambush|매복
+ancestral cry|선대의 함성
+ancestral warchief|선대의 대전사
+anger|분노
+animate guardian|수호자 기동
+animate weapon|무기 기동
+arc|연쇄 번개
+arcane cloak|비전의 망토
+arcanist brand|신비학자 낙인
+arctic armour|한기의 방어구
+creeping frost|엄습하는 서리
+armageddon brand|종말의 낙인
+artillery ballista|포대 쇠뇌
+automation|자동화
+ball lightning|구형 번개
+barrage|연발 사격
+battlemage's cry|전투마법사의 함성
+bear trap|곰 덫
+berserk|광폭
+blade blast|칼날 폭격
+bladefall|칼날비
+bladestorm|칼날 폭풍
+blade trap|칼날 덫
+blade vortex|칼날 소용돌이
+blast rain|폭발 화살비
+blazing salvo|맹렬한 포격
+blight|황폐
+blink arrow|점멸 화살
+blood and sand|피와 모래
+blood rage|피의 격노
+reap|낫질
+unearth|발굴
+bone offering|뼈 공물
+boneshatter|뼈 박살
+burning arrow|불타는 화살
+autoexertion|자동 전력
+chain hook|사슬 갈고리
+snipe|저격
+blade flurry|질풍의 칼날
+charged dash|충전 질주
+clarity|명상
+cleave|회전베기
+cobra lash|코브라 채찍
+purity of ice|얼음의 순수함
+cold snap|한파
+conductivity|전도성
+consecrated path|축성의 진격
+contagion|전염
+conversion trap|전향 덫
+convocation|소집
+cremation|시체 소각
+bodyswap|신체 전환
+corrupting fever|타락한 열병
+crackling lance|치직대는 창
+assassin's mark|암살자의 징표
+cyclone|회오리바람
+malevolence|악의
+dark pact|어둠의 서약
+bane|파멸
+dash|질주
+decoy totem|미끼 토템
+defiance banner|저항의 깃발
+desecrate|모독
+destructive link|파괴의 연결
+determination|결의
+detonate dead|시체 폭발
+detonate mines|지뢰 폭발
+devouring totem|포식 토템
+discharge|방출
+discipline|단련
+divine retribution|신성한 응징
+divine ire|신성한 진노
+dominating blow|지배의 맹타
+double strike|이중 타격
+dread banner|공포의 깃발
+dual strike|쌍수 타격
+earthquake|지진
+earthshatter|지면 분쇄
+elemental hit|원소의 일격
+elemental weakness|원소 약화
+enduring cry|인내의 함성
+energy blade|에너지 칼날
+enfeeble|쇠약화
+ensnaring arrow|올가미 화살
+essence drain|정수 흡수
+ethereal knives|천상의 단도
+eviscerate|내장 적출
+explosive arrow|폭발 화살
+explosive concoction|폭발성 혼합물
+exsanguinate|방혈
+eye of winter|겨울의 눈
+fireball|화염구
+scorching ray|작열 광선
+pyroclast mine|화산탄 지뢰
+purity of fire|불의 순수함
+firestorm|화염 폭풍
+fire trap|화염 덫
+flameblast|화염파
+flame dash|화염 질주
+flame link|화염의 연결
+flamethrower trap|화염방사기 덫
+holy flame totem|신성한 화염 토템
+flame wall|화염 벽
+flame surge|화염 쇄도
+flammability|인화성
+flesh and stone|육체와 돌
+flesh offering|살점 공물
+flicker strike|점멸 타격
+forbidden rite|금단의 의식
+icicle mine|고드름 지뢰
+freezing pulse|동결 파동
+frenzy|격분
+frostbite|동상
+frost blades|서리 칼날
+frostblink|서리점멸
+frostbolt|서리 구체
+vortex|소용돌이
+frost bomb|서리 폭탄
+frost shield|서리 방패
+frost wall|서리 방벽
+frozen legion|얼어붙은 군단
+galvanic field|충격장
+general's cry|장군의 함성
+glacial cascade|빙하 폭포
+glacial hammer|빙하 망치
+grace|은총
+ground slam|대지 강타
+haste|가속
+hatred|증오
+heavy strike|묵직한 타격
+herald of agony|고통의 전령
+herald of ash|재의 전령
+herald of ice|얼음의 전령
+herald of purity|순수의 전령
+herald of thunder|천둥의 전령
+hexblast|사술 폭발
+hydrosphere|물의 구체
+ice crash|얼음 충격
+ice nova|얼음 폭발
+ice shot|얼음 화살
+siphoning trap|착취 덫
+ice spear|얼음 창
+ice trap|얼음 덫
+immortal call|불멸의 외침
+incinerate|소각
+infernal blow|지옥불 맹타
+intimidating cry|위협의 함성
+intuitive link|직관의 연결
+kinetic blast|역학 폭발
+kinetic bolt|역학 투사체
+lacerate|피부 찢기
+lancing steel|강철 관통
+leap slam|도약 강타
+lightning arrow|번개 화살
+lightning conduit|번개 도관
+purity of lightning|번개의 순수함
+lightning strike|번개 타격
+lightning tendrils|덩굴 번개
+lightning spire trap|번개 첨탑 덫
+lightning trap|번개 덫
+lightning warp|번개 차원 이동
+rolling magma|몰려오는 마그마
+manabond|마나 결속
+ancestral protector|선대의 수호자
+mirror arrow|거울 화살
+molten shell|용암 방패
+molten strike|용암 타격
+vulnerability|취약성
+orb of storms|폭풍 보주
+penance brand|속죄의 낙인
+perforate|천공
+pestilent strike|전염성 일격
+petrified blood|피 석화
+phase run|위상 질주
+seismic trap|지진 덫
+plague bearer|독성 운반자
+poacher's mark|밀렵꾼의 징표
+caustic arrow|부식성 화살
+poisonous concoction|독성 혼합물
+portal|포탈
+power siphon|권능 착취
+precision|정밀함
+pride|자부심
+sniper's mark|저격수의 징표
+protective link|보호의 연결
+puncture|관통상
+punishment|응징
+wave of conviction|신념의 파도
+purity of elements|원소의 순수함
+quickstep|빠른 걸음
+rage vortex|격노 소용돌이
+rain of arrows|화살비
+raise spectre|망령 소환
+raise zombie|좀비 소환
+rallying cry|집결의 함성
+reave|약탈
+brand recall|낙인 소환
+swordstorm|검의 폭풍
+rejuvenation totem|회복 토템
+righteous fire|정의의 화염
+glacial shield swipe|빙하 방패 후려치기
+purifying flame|정화의 불길
+scourge arrow|재앙의 화살
+searing bond|불타는 굴레
+seismic cry|지진 함성
+shattering steel|강철 파편
+shield charge|방패 돌진
+shield crush|방패 타쇄
+shock nova|충격 폭발
+shockwave totem|충격파 토템
+shrapnel ballista|파편 쇠뇌
+galvanic arrow|충격 화살
+explosive trap|폭발 덫
+siege ballista|공성 쇠뇌
+sigil of power|힘의 부적
+smite|징벌
+smoke mine|연막 지뢰
+soul link|영혼의 연결
+soulrend|영혼 분리
+spark|전기불꽃
+spectral helix|영체 나선
+zealotry|열광
+spellslinger|주문투척
+spirit offering|영혼 공물
+split arrow|분할 화살
+splitting steel|강철 분할
+static strike|정전기 타격
+steelskin|강철피부
+stormbind|폭풍 연대
+stormblast mine|태풍 파열 지뢰
+storm brand|폭풍의 낙인
+storm burst|폭풍 점사
+storm call|폭풍 부름
+storm rain|폭풍우
+summon carrion golem|부패 골렘 소환
+summon chaos golem|카오스 골렘 소환
+summon flame golem|화염 골렘 소환
+summon ice golem|얼음 골렘 소환
+summon lightning golem|번개 골렘 소환
+summon raging spirit|격노의 유령 소환
+summon reaper|수확자 소환
+summon holy relic|신성한 유물 소환
+summon stone golem|돌 골렘 소환
+summon skeletons|해골 소환
+summon skitterbots|원격 기폭 장치 소환
+sunder|산산조각
+sweep|휩쓸기
+tectonic slam|지층 강타
+tempest shield|폭풍의 방패
+temporal chains|시간의 사슬
+temporal rift|시간의 균열
+spectral shield throw|환영 방패 투척
+spectral throw|환영 무기 투척
+tornado|회오리
+tornado shot|회오리 사격
+toxic rain|맹독성 비
+vaal absolution|바알 면죄
+vaal ancestral warchief|바알 선대의 대전사
+vaal animate weapon|바알 무기 기동
+vaal arc|바알 연쇄 번개
+vaal arctic armour|바알 한기의 방어구
+vaal blade vortex|바알 칼날 소용돌이
+vaal blight|바알 황폐
+vaal burning arrow|바알 불타는 화살
+vaal caustic arrow|바알 부식성 화살
+vaal blade flurry|바알 질풍의 칼날
+vaal clarity|바알 명상
+vaal cleave|바알 회전베기
+vaal impurity of ice|바알 얼음의 부정함
+vaal cold snap|바알 한파
+vaal cyclone|바알 회오리바람
+vaal detonate dead|바알 시체 폭발
+vaal discipline|바알 단련
+vaal domination|바알 지배
+vaal double strike|바알 이중 타격
+vaal earthquake|바알 지진
+vaal fireball|바알 화염구
+vaal impurity of fire|바알 불의 부정함
+vaal firestorm|바알 화염 폭풍
+vaal flameblast|바알 화염파
+vaal flicker strike|바알 점멸 타격
+vaal glacial hammer|바알 빙하 망치
+vaal grace|바알 은총
+vaal ground slam|바알 대지 강타
+vaal haste|바알 가속
+vaal ice nova|바알 얼음 폭발
+vaal ice shot|바알 얼음 화살
+vaal immortal call|바알 불멸의 외침
+vaal lightning arrow|바알 번개 화살
+vaal impurity of lightning|바알 번개의 부정함
+vaal lightning strike|바알 번개 타격
+vaal lightning trap|바알 번개 덫
+vaal lightning warp|바알 번개 차원 이동
+vaal molten shell|바알 용암 방패
+vaal molten strike|바알 용암 타격
+vaal breach|바알 균열
+vaal power siphon|바알 권능 착취
+vaal rain of arrows|바알 화살비
+vaal reap|바알 낫질
+vaal reave|바알 약탈
+vaal rejuvenation totem|바알 회복 토템
+vaal righteous fire|바알 정의의 화염
+vaal smite|바알 징벌
+vaal spark|바알 전기불꽃
+vaal storm call|바알 폭풍 부름
+vaal summon skeletons|바알 해골 소환
+vaal spectral throw|바알 환영 무기 투척
+vaal venom gyre|바알 독액 선회
+vaal volcanic fissure|바알 화산 균열
+vampiric link|흡혈의 연결
+crushing fist|타쇄하는 주먹
+vengeful cry|복수의 함성
+venom gyre|독액 선회
+vigilant strike|경계 타격
+viper strike|맹독 타격
+vitality|활력
+void sphere|공허 구체
+volatile dead|시체 불덩이
+volcanic fissure|화산 균열
+voltaxic burst|전도성 격발
+despair|절망
+war banner|전쟁 깃발
+warlord's mark|전쟁군주의 징표
+whirling blades|칼날 선회
+wild strike|사나운 타격
+winter orb|겨울 보주
+wintertide brand|겨울의 낙인
+wither|위축
+withering step|고사시키는 걸음
+wrath|진노
+added chaos damage support|카오스 피해 추가 보조
+awakened added chaos damage support|각성한 카오스 피해 추가 보조
+added cold damage support|냉기 피해 추가 보조
+awakened added cold damage support|각성한 냉기 피해 추가 보조
+added fire damage support|화염 피해 추가 보조
+awakened added fire damage support|각성한 화염 피해 추가 보조
+added lightning damage support|번개 피해 추가 보조
+awakened added lightning damage support|각성한 번개 피해 추가 보조
+additional accuracy support|정확도 추가 보조
+empower support|강화 보조
+enhance support|향상 보조
+enlighten support|계몽 보조
+awakened ancestral call support|각성한 선대의 부름 보조
+arcane surge support|비전 쇄도 보조
+archmage support|대마법사 보조
+arrow nova support|화살 산개 보조
+awakened arrow nova support|각성한 화살 산개 보조
+barrage support|연발 사격 보조
+behead support|참수 보조
+blasphemy support|신성 모독 보조
+awakened blasphemy support|각성한 신성 모독 보조
+blind support|실명 보조
+block chance reduction support|막기 확률 감소 보조
+bloodlust support|유혈 충동 보조
+arrogance support|오만 보조
+bloodthirst support|피의 갈증 보조
+bonechill support|사무치는 한기 보조
+brutality support|포악함 보조
+awakened brutality support|각성한 포악함 보조
+awakened burning damage support|각성한 화상 피해 보조
+cast on critical strike support|치명타 시 시전 보조
+awakened cast on critical strike support|각성한 치명타 시 시전 보조
+cast when damage taken support|피격 시 시전 보조
+cast on death support|사망 시 시전 보조
+cast on melee kill support|근접 처치 시 시전 보조
+cast when stunned support|기절 시 시전 보조
+cast while channelling support|집중 유지 중 시전 보조
+awakened cast while channelling support|각성한 집중 유지 중 시전 보조
+chain support|연쇄 보조
+awakened chain support|각성한 연쇄 보조
+chance to bleed support|출혈 확률 보조
+chance to flee support|도망칠 확률 보조
+combustion support|연소 보조
+withering touch support|위축의 손길 보조
+charged mines support|충전된 지뢰 보조
+close combat support|근접 전투 보조
+cluster traps support|무리 덫 보조
+cold penetration support|냉기 관통 보조
+awakened cold penetration support|각성한 냉기 관통 보조
+cold to fire support|냉기 화염 전환 보조
+concentrated effect support|효과 집중 보조
+controlled blaze support|제어된 불길 보조
+controlled destruction support|제어된 파괴 보조
+awakened controlled destruction support|각성한 제어된 파괴 보조
+corrupting cry support|타락시키는 비명 보조
+cruelty support|잔혹 보조
+culling strike support|마무리 타격 보조
+cursed ground support|저주받은 지대 보조
+hextouch support|사술 손길 보조
+awakened hextouch support|각성한 사술 손길 보조
+hypothermia support|체온저하 보조
+deadly ailments support|치명적인 상태 이상 보조
+awakened deadly ailments support|각성한 치명적인 상태 이상 보조
+predator support|포식자 보조
+decay support|부패 보조
+devour support|포식 보조
+divine blessing support|신성한 축복 보조
+earthbreaker support|대지 분쇄자 보조
+efficacy support|효력 보조
+elemental focus support|원소 집중 보조
+awakened elemental focus support|각성한 원소 집중 보조
+elemental penetration support|원소 관통 보조
+elemental proliferation support|원소 확산 보조
+awakened empower support|각성한 강화 보조
+endurance charge on melee stun support|기절 시 인내 충전 보조
+energy leech support|에너지 흡수 보조
+awakened enhance support|각성한 향상 보조
+awakened enlighten support|각성한 계몽 보조
+eternal blessing support|영원한 축복 보조
+expert retaliation support|노련한 보복 보조
+faster attacks support|공격 속도 증가 보조
+faster casting support|시전 속도 증가 보조
+faster projectiles support|투사체 속도 증가 보조
+feeding frenzy support|격분 주입 보조
+fire penetration support|화염 관통 보조
+awakened fire penetration support|각성한 화염 관통 보조
+fist of war support|전쟁의 주먹 보조
+flamewood support|화염나무 보조
+focused ballista support|쇠뇌 집중 사격 보조
+fork support|갈래 보조
+awakened fork support|각성한 갈래 보조
+fortify support|방어 상승 보조
+ice bite support|얼음 쐐기 보조
+charged traps support|충전된 덫 보조
+fresh meat support|신선한 고기 보조
+frigid bond support|차디찬 유대 보조
+generosity support|관대함 보조
+awakened generosity support|각성한 관대함 보조
+greater multiple projectiles support|상위 다중 투사체 보조
+awakened greater multiple projectiles support|각성한 상위 다중 투사체 보조
+greater volley support|상위 사격 공세 보조
+guardian's blessing support|수호자의 축복 보조
+unleash support|촉발 보조
+intensify support|격화 보조
+hex bloom support|사술의 꽃 보조
+high-impact mine support|고충격 지뢰 보조
+ignite proliferation support|점화 확산 보조
+immolate support|번제 보조
+impale support|꿰뚫기 보조
+impending doom support|임박한 멸망 보조
+increased area of effect support|효과 범위 증가 보조
+awakened increased area of effect support|각성한 효과 범위 증가 보조
+burning damage support|화상 피해 보조
+increased critical damage support|치명타 피해 증가 보조
+increased critical strikes support|치명타 증가 보조
+more duration support|지속시간 증폭 보조
+infernal legion support|지옥불 군단 보조
+iron grip support|강철 손아귀 보조
+iron will support|강철의 의지 보조
+item quantity support|아이템 수량 증가 보조
+item rarity support|아이템 희귀도 보조
+knockback support|밀어내기 보조
+lesser multiple projectiles support|하위 다중 투사체 보조
+chance to poison support|중독 확률 보조
+life gain on hit support|명중 시 생명력 획득 보조
+life leech support|생명력 흡수 보조
+lifetap support|생명력 전환 보조
+lightning penetration support|번개 관통 보조
+awakened lightning penetration support|각성한 번개 관통 보조
+locus mine support|궤적 지뢰 보조
+maim support|힘줄 절단 보조
+manaforged arrows support|마나벼림 화살 보조
+mana leech support|마나 흡수 보조
+mark on hit support|명중 시 징표 보조
+meat shield support|육탄 방어 보조
+damage on full life support|최대 생명력 시 피해 보조
+melee physical damage support|근접 물리 피해 보조
+awakened melee physical damage support|각성한 근접 물리 피해 보조
+melee splash support|근접 범위 피해 보조
+awakened melee splash support|각성한 근접 범위 피해 보조
+minefield support|지뢰밭 보조
+minion damage support|소환수 피해 보조
+awakened minion damage support|각성한 소환수 피해 보조
+minion life support|소환수 생명력 보조
+minion speed support|소환수 속도 보조
+mirage archer support|신기루 궁수 보조
+spell echo support|주문 메아리 보조
+multistrike support|연속타격 보조
+awakened multistrike support|각성한 연속타격 보조
+multiple totems support|다중 토템 보조
+multiple traps support|다중 덫 보조
+nightblade support|밤의 칼날 보조
+momentum support|기세 보조
+innervate support|자극 보조
+overcharge support|과충전 보조
+overexertion support|전심전력 보조
+volley support|사격 공세 보조
+vicious projectiles support|포악한 투사체 보조
+physical to lightning support|물리 번개 전환 보조
+pierce support|관통 보조
+pinpoint support|핵심 조준 보조
+point blank support|근접 사격 보조
+critical strike affliction support|치명타 고통 격화 보조
+power charge on critical support|치명타 시 권능 충전 보조
+prismatic burst support|분광 격발 보조
+pulverise support|분쇄 보조
+rage support|격노 보조
+ballista totem support|쇠뇌 토템 보조
+swift affliction support|고통 격화 보조
+less duration support|지속시간 감소 보조
+inspiration support|영감 보조
+blastchain mine support|연쇄 폭발 지뢰 보조
+returning projectiles support|돌아오는 투사체 보조
+rupture support|파열 보조
+ruthless support|무자비 보조
+sacred wisps support|신성한 도깨비불 보조
+sacrifice support|희생 보조
+sadism support|가학증 보조
+second wind support|새로운 활력 보조
+shockwave support|충격파 보조
+slower projectiles support|투사체 속도 감소 보조
+spellblade support|주문칼날 보조
+spell cascade support|연속 주문 보조
+awakened spell cascade support|각성한 연속 주문 보조
+awakened spell echo support|각성한 주문 메아리 보조
+spell totem support|주문 토템 보조
+ancestral call support|선대의 부름 보조
+infused channelling support|깊어지는 집중 유지 보조
+stun support|기절 보조
+elemental army support|원소의 군단 보조
+summon phantasm support|환영 소환 보조
+awakened swift affliction support|각성한 고통 격화 보조
+swift assembly support|재빠른 조립 보조
+swiftbrand support|재빠른 낙인 보조
+trap support|덫 보조
+trap and mine damage support|덫 및 지뢰 피해 보조
+advanced traps support|향상된 덫 보조
+trauma support|외상 보조
+trinity support|삼위일체 보조
+unbound ailments support|벌어지는 상처 보조
+awakened unbound ailments support|각성한 벌어지는 상처 보조
+awakened unleash support|각성한 촉발 보조
+urgent orders support|긴급 명령 보조
+awakened vicious projectiles support|각성한 포악한 투사체 보조
+vile toxins support|끔찍한 독소 보조
+void manipulation support|공허 조작 보조
+awakened void manipulation support|각성한 공허 조작 보조
+volatility support|일촉즉발 보조
+elemental damage with attacks support|공격 시 원소 피해 보조
+awakened elemental damage with attacks support|각성한 공격 시 원소 피해 보조
+amanamu's gaze|아마나무의 응시
+anatomical knowledge|육체에 대한 지식
+ancestral vision|선대의 환영
+ancient waystones|고대 경로석
+apex mode|정점 모드
+apparitions|유령
+to dust|먼지처럼 사라져라
+assassin's haste|암살자의 신속함
+atziri's reign|앗지리의 치세
+bloodnotch|피의 오늬
+blood sacrifice|피의 희생
+brawn|근육
+brittle barrier|부실한 방어막
+brutal restraint|잔인한 속박
+brute force solution|완력 해결
+fortified legion|견고한 부대
+calamitous visions|환란의 시각
+careful planning|철저한 계획
+cheap construction|저렴한 건축
+chill of corruption|타락의 한기
+clear mind|맑은 정신
+coated shrapnel|뒤덮은 파편
+cold steel|냉기의 강철
+collateral damage|부가적 피해
+combat focus|집중 전투
+combustibles|가연성 보석
+conqueror's efficiency|정복자의 효율
+conqueror's longevity|정복자의 수명
+conqueror's potency|정복자의 능력
+corrupted energy|타락한 에너지
+dead reckoning|망자의 판단
+dissolution of the flesh|살점의 융해
+seething fury|끓어오르는 광분
+divine inferno|신성한 지옥불
+efficient training|효율적인 훈련
+eldritch knowledge|섬뜩한 지식
+elegant hubris|고상한 오만
+emperor's cunning|황제의 잔꾀
+emperor's mastery|황제의 숙련
+emperor's might|황제의 완력
+emperor's wit|황제의 재치
+endless misery|끝없는 불행
+energised armour|활력의 방어구
+energy from within|내재한 에너지
+fertile mind|풍요로운 마음
+fevered mind|흥분한 마음
+fight for survival|처절한 분투
+fireborn|불의 체질
+firesong|불의 노래
+first snow|첫눈
+fluid motion|유체 운동
+forbidden flame|금단의 화염
+forbidden flesh|금단의 살점
+fortress covenant|요새 계약
+fragile bloom|가냘픈 꽃
+fragility|허약
+from dust|먼지처럼 나타나라
+frozen trail|얼어붙은 길
+glorious vanity|찬란한 허영심
+grand spectrum|장대한 파장
+growing agony|심해지는 고통
+hair trigger|민감한 반응
+hazardous research|위험한 연구
+healthy mind|건강한 마음
+hidden potential|숨겨진 잠재력
+hotheaded|핫헤드
+hungry abyss|굶주린 심연
+immutable force|불변의 힘
+impossible escape|불가능한 탈출
+inertia|관성
+inevitability|필연
+inspired learning|탁월한 학습
+intuitive leap|직관의 도약
+izaro's turmoil|이자로의 혼란
+kitava's teachings|키타바의 가르침
+kurgal's gaze|쿠르갈의 응시
+lethal pride|치명적인 긍지
+lioneye's fall|라이온아이의 몰락
+lord of steel|강철의 군주
+malicious intent|불순한 의도
+mantra of flames|화염의 주문
+martial artistry|무도가의 기교
+megalomaniac|과대망상
+melding of the flesh|살점의 융합
+might and influence|권력과 영향력
+might in all forms|만물의 힘
+might of the meek|온유의 힘
+militant faith|호전적인 신념
+mutated growth|변이한 종양
+nadir mode|저점 모드
+natural affinity|타고난 친화력
+omen on the winds|바람에 실린 전조
+one with nothing|맨주먹
+overwhelming odds|압도적인 역경
+pacifism|평화주의
+pitch darkness|칠흑 같은 어둠
+poacher's aim|밀렵꾼의 조준
+powerlessness|무력함
+primordial eminence|태고의 고귀
+primordial harmony|태고의 조화
+primordial might|태고의 완력
+pugilist|권투가
+pure talent|타고난 재능
+quickening covenant|재촉의 계약
+rain of splinters|파편의 비
+rapid expansion|신속한 확장
+rational doctrine|합리적인 교리
+reckless defence|무모한 방어
+replica blood sacrifice|피의 희생 모조품
+replica cheap construction|저렴한 건축 모조품
+replica conqueror's efficiency|정복자의 효율 모조품
+replica fragile bloom|가냘픈 꽃 모조품
+replica fragility|허약 모조품
+replica hotheaded|핫헤드 모조품
+replica pacifism|평화주의 모조품
+replica powerlessness|무력함 모조품
+replica primordial might|태고의 완력 모조품
+replica pure talent|타고난 재능 모조품
+replica reckless defence|무모한 방어 모조품
+replica unstable payload|불안정한 하중 모조품
+ring of blades|칼날 경기장
+rolling flames|몰려오는 불꽃
+sacrificial harvest|희생의 수확
+self-flagellation|자학 채찍질
+shattered chains|바스라진 사슬
+soul's wick|영혼의 심지
+spire of stone|첨탑
+spirited response|맹렬한 응답
+spirit guards|혼백의 수호
+split personality|이중 인격
+spreading rot|퍼져가는 부패
+static electricity|정전기
+steel spirit|강철 혼백
+stormshroud|폭풍연막
+sublime vision|숭고한 환영
+sudden ignition|기습적인 점화
+survival instincts|생존 본능
+survival secrets|생존 비결
+survival skills|생존 기술
+tecrod's gaze|테크로드의 응시
+tempered flesh|조절된 육체
+tempered mind|조절된 마음
+tempered spirit|조절된 정신
+that which was taken|빼앗긴 것
+the adorned|치장한 자
+the anima stone|생명의 돌
+the balance of terror|공포의 균형
+the blue dream|파란 꿈
+the blue nightmare|파란 악몽
+the front line|최전방
+the golden rule|황금 법칙
+the green dream|녹색 꿈
+the green nightmare|녹색 악몽
+the interrogation|취조
+the light of meaning|의미의 빛
+the long winter|기나긴 겨울
+the perandus pact|페란두스 맹약
+the red dream|붉은 꿈
+the red nightmare|붉은 악몽
+the siege|포위 작전
+the vigil|철야 기도
+thread of hope|희망의 실타래
+transcendent flesh|초월한 육체
+transcendent mind|초월한 마음
+transcendent spirit|초월한 정신
+ulaman's gaze|울라만의 응시
+unending hunger|끝없는 허기
+unnatural instinct|기이한 본능
+unstable payload|불안정한 하중
+vaal sentencing|바알의 판결
+violent dead|난폭한 망자
+voices|목소리
+volley fire|일제 포격
+warlord's reach|전쟁군주의 역량
+warrior's tale|전사의 이야기
+watcher's eye|감시자의 눈
+weight of sin|죄의 무게
+weight of the empire|제국의 무게
+wildfire|도깨비불
+winter burial|한겨울의 장례식
+winter's bounty|겨울의 하사품
+witchbane|마녀의 파멸
+amanamu's gaze ghastly eye jewel|아마나무의 응시 무시무시한 눈 주얼
+anatomical knowledge cobalt jewel|육체에 대한 지식 코발트색 주얼
+ancestral vision viridian jewel|선대의 환영 진청록색 주얼
+ancient waystones crimson jewel|고대 경로석 진홍색 주얼
+apex mode cobalt jewel|정점 모드 코발트색 주얼
+apparitions viridian jewel|유령 진청록색 주얼
+to dust cobalt jewel|먼지처럼 사라져라 코발트색 주얼
+assassin's haste cobalt jewel|암살자의 신속함 코발트색 주얼
+atziri's reign crimson jewel|앗지리의 치세 진홍색 주얼
+bloodnotch crimson jewel|피의 오늬 진홍색 주얼
+blood sacrifice crimson jewel|피의 희생 진홍색 주얼
+brawn crimson jewel|근육 진홍색 주얼
+brittle barrier cobalt jewel|부실한 방어막 코발트색 주얼
+brutal restraint timeless jewel|잔인한 속박 무궁한 주얼
+brute force solution cobalt jewel|완력 해결 코발트색 주얼
+fortified legion cobalt jewel|견고한 부대 코발트색 주얼
+calamitous visions small cluster jewel|환란의 시각 소형 스킬 군 주얼
+careful planning viridian jewel|철저한 계획 진청록색 주얼
+cheap construction viridian jewel|저렴한 건축 진청록색 주얼
+chill of corruption viridian jewel|타락의 한기 진청록색 주얼
+clear mind cobalt jewel|맑은 정신 코발트색 주얼
+coated shrapnel crimson jewel|뒤덮은 파편 진홍색 주얼
+cold steel viridian jewel|냉기의 강철 진청록색 주얼
+collateral damage viridian jewel|부가적 피해 진청록색 주얼
+combat focus viridian jewel|집중 전투 진청록색 주얼
+combat focus crimson jewel|집중 전투 진홍색 주얼
+combat focus cobalt jewel|집중 전투 코발트색 주얼
+combustibles crimson jewel|가연성 보석 진홍색 주얼
+conqueror's efficiency crimson jewel|정복자의 효율 진홍색 주얼
+conqueror's longevity viridian jewel|정복자의 수명 진청록색 주얼
+conqueror's potency cobalt jewel|정복자의 능력 코발트색 주얼
+corrupted energy cobalt jewel|타락한 에너지 코발트색 주얼
+dead reckoning cobalt jewel|망자의 판단 코발트색 주얼
+dissolution of the flesh crimson jewel|살점의 융해 진홍색 주얼
+seething fury viridian jewel|끓어오르는 광분 진청록색 주얼
+divine inferno crimson jewel|신성한 지옥불 진홍색 주얼
+efficient training crimson jewel|효율적인 훈련 진홍색 주얼
+eldritch knowledge cobalt jewel|섬뜩한 지식 코발트색 주얼
+elegant hubris timeless jewel|고상한 오만 무궁한 주얼
+emperor's cunning viridian jewel|황제의 잔꾀 진청록색 주얼
+emperor's mastery prismatic jewel|황제의 숙련 분광 주얼
+emperor's might crimson jewel|황제의 완력 진홍색 주얼
+emperor's wit cobalt jewel|황제의 재치 코발트색 주얼
+endless misery cobalt jewel|끝없는 불행 코발트색 주얼
+energised armour crimson jewel|활력의 방어구 진홍색 주얼
+energy from within cobalt jewel|내재한 에너지 코발트색 주얼
+fertile mind cobalt jewel|풍요로운 마음 코발트색 주얼
+fevered mind cobalt jewel|흥분한 마음 코발트색 주얼
+fight for survival viridian jewel|처절한 분투 진청록색 주얼
+fireborn crimson jewel|불의 체질 진홍색 주얼
+firesong crimson jewel|불의 노래 진홍색 주얼
+first snow cobalt jewel|첫눈 코발트색 주얼
+fluid motion viridian jewel|유체 운동 진청록색 주얼
+forbidden flame crimson jewel|금단의 화염 진홍색 주얼
+forbidden flesh cobalt jewel|금단의 살점 코발트색 주얼
+fortress covenant cobalt jewel|요새 계약 코발트색 주얼
+fragile bloom crimson jewel|가냘픈 꽃 진홍색 주얼
+fragility crimson jewel|허약 진홍색 주얼
+from dust cobalt jewel|먼지처럼 나타나라 코발트색 주얼
+frozen trail cobalt jewel|얼어붙은 길 코발트색 주얼
+glorious vanity timeless jewel|찬란한 허영심 무궁한 주얼
+grand spectrum viridian jewel|장대한 파장 진청록색 주얼
+grand spectrum cobalt jewel|장대한 파장 코발트색 주얼
+grand spectrum crimson jewel|장대한 파장 진홍색 주얼
+growing agony viridian jewel|심해지는 고통 진청록색 주얼
+hair trigger viridian jewel|민감한 반응 진청록색 주얼
+hazardous research cobalt jewel|위험한 연구 코발트색 주얼
+healthy mind cobalt jewel|건강한 마음 코발트색 주얼
+hidden potential viridian jewel|숨겨진 잠재력 진청록색 주얼
+hotheaded viridian jewel|핫헤드 진청록색 주얼
+hungry abyss viridian jewel|굶주린 심연 진청록색 주얼
+immutable force crimson jewel|불변의 힘 진홍색 주얼
+impossible escape viridian jewel|불가능한 탈출 진청록색 주얼
+inertia crimson jewel|관성 진홍색 주얼
+inevitability cobalt jewel|필연 코발트색 주얼
+inspired learning crimson jewel|탁월한 학습 진홍색 주얼
+intuitive leap viridian jewel|직관의 도약 진청록색 주얼
+izaro's turmoil crimson jewel|이자로의 혼란 진홍색 주얼
+kitava's teachings small cluster jewel|키타바의 가르침 소형 스킬 군 주얼
+kurgal's gaze hypnotic eye jewel|쿠르갈의 응시 최면 거는 눈 주얼
+lethal pride timeless jewel|치명적인 긍지 무궁한 주얼
+lioneye's fall viridian jewel|라이온아이의 몰락 진청록색 주얼
+lord of steel viridian jewel|강철의 군주 진청록색 주얼
+malicious intent cobalt jewel|불순한 의도 코발트색 주얼
+mantra of flames crimson jewel|화염의 주문 진홍색 주얼
+martial artistry crimson jewel|무도가의 기교 진홍색 주얼
+megalomaniac medium cluster jewel|과대망상 중형 스킬 군 주얼
+melding of the flesh cobalt jewel|살점의 융합 코발트색 주얼
+might and influence viridian jewel|권력과 영향력 진청록색 주얼
+might in all forms crimson jewel|만물의 힘 진홍색 주얼
+might of the meek crimson jewel|온유의 힘 진홍색 주얼
+militant faith timeless jewel|호전적인 신념 무궁한 주얼
+mutated growth cobalt jewel|변이한 종양 코발트색 주얼
+nadir mode cobalt jewel|저점 모드 코발트색 주얼
+natural affinity small cluster jewel|타고난 친화력 소형 스킬 군 주얼
+omen on the winds viridian jewel|바람에 실린 전조 진청록색 주얼
+one with nothing small cluster jewel|맨주먹 소형 스킬 군 주얼
+overwhelming odds crimson jewel|압도적인 역경 진홍색 주얼
+pacifism viridian jewel|평화주의 진청록색 주얼
+pitch darkness viridian jewel|칠흑 같은 어둠 진청록색 주얼
+poacher's aim viridian jewel|밀렵꾼의 조준 진청록색 주얼
+powerlessness cobalt jewel|무력함 코발트색 주얼
+primordial eminence viridian jewel|태고의 고귀 진청록색 주얼
+primordial harmony cobalt jewel|태고의 조화 코발트색 주얼
+primordial might crimson jewel|태고의 완력 진홍색 주얼
+pugilist viridian jewel|권투가 진청록색 주얼
+pure talent viridian jewel|타고난 재능 진청록색 주얼
+quickening covenant viridian jewel|재촉의 계약 진청록색 주얼
+rain of splinters crimson jewel|파편의 비 진홍색 주얼
+rapid expansion crimson jewel|신속한 확장 진홍색 주얼
+rational doctrine cobalt jewel|합리적인 교리 코발트색 주얼
+reckless defence cobalt jewel|무모한 방어 코발트색 주얼
+replica blood sacrifice crimson jewel|피의 희생 모조품 진홍색 주얼
+replica cheap construction viridian jewel|저렴한 건축 모조품 진청록색 주얼
+replica conqueror's efficiency crimson jewel|정복자의 효율 모조품 진홍색 주얼
+replica fragile bloom crimson jewel|가냘픈 꽃 모조품 진홍색 주얼
+replica fragility crimson jewel|허약 모조품 진홍색 주얼
+replica hotheaded viridian jewel|핫헤드 모조품 진청록색 주얼
+replica pacifism viridian jewel|평화주의 모조품 진청록색 주얼
+replica powerlessness cobalt jewel|무력함 모조품 코발트색 주얼
+replica primordial might crimson jewel|태고의 완력 모조품 진홍색 주얼
+replica pure talent viridian jewel|타고난 재능 모조품 진청록색 주얼
+replica reckless defence cobalt jewel|무모한 방어 모조품 코발트색 주얼
+replica unstable payload cobalt jewel|불안정한 하중 모조품 코발트색 주얼
+ring of blades viridian jewel|칼날 경기장 진청록색 주얼
+rolling flames cobalt jewel|몰려오는 불꽃 코발트색 주얼
+sacrificial harvest viridian jewel|희생의 수확 진청록색 주얼
+self-flagellation viridian jewel|자학 채찍질 진청록색 주얼
+shattered chains crimson jewel|바스라진 사슬 진홍색 주얼
+soul's wick cobalt jewel|영혼의 심지 코발트색 주얼
+spire of stone crimson jewel|첨탑 진홍색 주얼
+spirited response cobalt jewel|맹렬한 응답 코발트색 주얼
+spirit guards viridian jewel|혼백의 수호 진청록색 주얼
+split personality crimson jewel|이중 인격 진홍색 주얼
+spreading rot cobalt jewel|퍼져가는 부패 코발트색 주얼
+static electricity viridian jewel|정전기 진청록색 주얼
+steel spirit viridian jewel|강철 혼백 진청록색 주얼
+stormshroud viridian jewel|폭풍연막 진청록색 주얼
+sublime vision prismatic jewel|숭고한 환영 분광 주얼
+sudden ignition viridian jewel|기습적인 점화 진청록색 주얼
+survival instincts viridian jewel|생존 본능 진청록색 주얼
+survival secrets cobalt jewel|생존 비결 코발트색 주얼
+survival skills crimson jewel|생존 기술 진홍색 주얼
+tecrod's gaze murderous eye jewel|테크로드의 응시 살인적인 눈 주얼
+tempered flesh crimson jewel|조절된 육체 진홍색 주얼
+tempered mind cobalt jewel|조절된 마음 코발트색 주얼
+tempered spirit viridian jewel|조절된 정신 진청록색 주얼
+that which was taken crimson jewel|빼앗긴 것 진홍색 주얼
+the adorned crimson jewel|치장한 자 진홍색 주얼
+the anima stone prismatic jewel|생명의 돌 분광 주얼
+the balance of terror cobalt jewel|공포의 균형 코발트색 주얼
+the blue dream cobalt jewel|파란 꿈 코발트색 주얼
+the blue nightmare cobalt jewel|파란 악몽 코발트색 주얼
+the front line small cluster jewel|최전방 소형 스킬 군 주얼
+the golden rule viridian jewel|황금 법칙 진청록색 주얼
+the green dream viridian jewel|녹색 꿈 진청록색 주얼
+the green nightmare viridian jewel|녹색 악몽 진청록색 주얼
+the interrogation small cluster jewel|취조 소형 스킬 군 주얼
+the light of meaning prismatic jewel|의미의 빛 분광 주얼
+the long winter cobalt jewel|기나긴 겨울 코발트색 주얼
+the perandus pact prismatic jewel|페란두스 맹약 분광 주얼
+the red dream crimson jewel|붉은 꿈 진홍색 주얼
+the red nightmare crimson jewel|붉은 악몽 진홍색 주얼
+the siege small cluster jewel|포위 작전 소형 스킬 군 주얼
+the vigil crimson jewel|철야 기도 진홍색 주얼
+thread of hope crimson jewel|희망의 실타래 진홍색 주얼
+transcendent flesh crimson jewel|초월한 육체 진홍색 주얼
+transcendent mind cobalt jewel|초월한 마음 코발트색 주얼
+transcendent spirit viridian jewel|초월한 정신 진청록색 주얼
+ulaman's gaze searching eye jewel|울라만의 응시 탐색하는 눈 주얼
+unending hunger cobalt jewel|끝없는 허기 코발트색 주얼
+unnatural instinct viridian jewel|기이한 본능 진청록색 주얼
+unstable payload cobalt jewel|불안정한 하중 코발트색 주얼
+vaal sentencing cobalt jewel|바알의 판결 코발트색 주얼
+violent dead cobalt jewel|난폭한 망자 코발트색 주얼
+voices large cluster jewel|목소리 대형 스킬 군 주얼
+volley fire viridian jewel|일제 포격 진청록색 주얼
+warlord's reach crimson jewel|전쟁군주의 역량 진홍색 주얼
+warrior's tale crimson jewel|전사의 이야기 진홍색 주얼
+watcher's eye prismatic jewel|감시자의 눈 분광 주얼
+weight of sin viridian jewel|죄의 무게 진청록색 주얼
+weight of the empire crimson jewel|제국의 무게 진홍색 주얼
+wildfire crimson jewel|도깨비불 진홍색 주얼
+winter burial crimson jewel|한겨울의 장례식 진홍색 주얼
+winter's bounty cobalt jewel|겨울의 하사품 코발트색 주얼
+witchbane cobalt jewel|마녀의 파멸 코발트색 주얼
+hypnotic eye jewel|최면 거는 눈 주얼
+murderous eye jewel|살인적인 눈 주얼
+searching eye jewel|탐색하는 눈 주얼
+ghastly eye jewel|무시무시한 눈 주얼
+viridian jewel|진청록색 주얼
+cobalt jewel|코발트색 주얼
+large cluster jewel|대형 스킬 군 주얼
+medium cluster jewel|중형 스킬 군 주얼
+small cluster jewel|소형 스킬 군 주얼
+prismatic jewel|분광 주얼
+crimson jewel|진홍색 주얼
+timeless jewel|무궁한 주얼
+acton's nightmare|액턴의 악몽
+altered distant memory|뒤바뀐 희미한 기억
+augmented distant memory|강화된 희미한 기억
+caer blaidd, wolfpack's den|캐어블레이드 늑대의 소굴
+cortex|코텍스
+death and taxes|죽음과 의무
+doryani's machinarium|도리아니의 기계실
+hall of grandmasters|명인의 전당
+hallowed ground|거룩한 대지
+infused beachhead|주입된 교두보
+maelström of chaos|혼돈의 마엘스트롬
+mao kun|마오 쿤
+oba's cursed trove|오바의 저주받은 전리품
+olmec's sanctum|올멕의 지성소
+pillars of arun|아룬의 기둥
+poorjoy's asylum|푸어조이의 은신처
+replica cortex|코텍스 모조품
+replica pillars of arun|아룬의 기둥 모조품
+replica poorjoy's asylum|푸어조이의 은신처 모조품
+rewritten distant memory|다시 쓰인 희미한 기억
+the beachhead|교두보
+the coward's trial|겁쟁이의 시험
+the perandus manor|페란두스 저택
+the putrid cloister|악취 나는 수도원
+the tower of ordeals|시련의 탑
+the twilight temple|황혼의 사원
+the vinktar square|빙타 광장
+twisted distant memory|뒤틀린 희미한 기억
+vaults of atziri|앗지리의 금고실
+whakawairua tuahu|와카와 투아후
+caldera map (atlas of worlds)|칼데라 지도 (아틀라스의 세계)
+academy map (atlas of worlds)|학술원 지도 (아틀라스의 세계)
+shaped academy map (atlas of worlds)|쉐이퍼 학술원 지도 (아틀라스의 세계)
+acid caverns map (atlas of worlds)|산성 암굴 지도 (아틀라스의 세계)
+shaped acid caverns map (atlas of worlds)|쉐이퍼 산성 암굴 지도 (아틀라스의 세계)
+arachnid nest map (atlas of worlds)|거미류 둥지 지도 (아틀라스의 세계)
+shaped arachnid nest map (atlas of worlds)|쉐이퍼 거미류 둥지 지도 (아틀라스의 세계)
+arachnid tomb map (atlas of worlds)|거미류 무덤 지도 (아틀라스의 세계)
+shaped arachnid tomb map (atlas of worlds)|쉐이퍼 거미류 무덤 지도 (아틀라스의 세계)
+arcade map (atlas of worlds)|상점가 지도 (아틀라스의 세계)
+shaped arcade map (atlas of worlds)|쉐이퍼 상점가 지도 (아틀라스의 세계)
+arena map (atlas of worlds)|투기장 지도 (아틀라스의 세계)
+shaped arena map (atlas of worlds)|쉐이퍼 투기장 지도 (아틀라스의 세계)
+arid lake map (atlas of worlds)|메마른 호수 지도 (아틀라스의 세계)
+shaped arid lake map (atlas of worlds)|쉐이퍼 메마른 호수 지도 (아틀라스의 세계)
+armoury map (atlas of worlds)|갑주 창고 지도 (아틀라스의 세계)
+shaped armoury map (atlas of worlds)|쉐이퍼 갑주 창고 지도 (아틀라스의 세계)
+arsenal map (atlas of worlds)|병기창 지도 (아틀라스의 세계)
+shaped arsenal map (atlas of worlds)|쉐이퍼 병기창 지도 (아틀라스의 세계)
+atoll map (atlas of worlds)|산호섬 지도 (아틀라스의 세계)
+shaped atoll map (atlas of worlds)|쉐이퍼 산호섬 지도 (아틀라스의 세계)
+barrows map (atlas of worlds)|고분 지도 (아틀라스의 세계)
+shaped barrows map (atlas of worlds)|쉐이퍼 고분 지도 (아틀라스의 세계)
+bazaar map (atlas of worlds)|장터 지도 (아틀라스의 세계)
+beach map (atlas of worlds)|해변 지도 (아틀라스의 세계)
+shaped beach map (atlas of worlds)|쉐이퍼 해변 지도 (아틀라스의 세계)
+lighthouse map (atlas of worlds)|등대 지도 (아틀라스의 세계)
+bog map (atlas of worlds)|습지대 지도 (아틀라스의 세계)
+shaped bog map (atlas of worlds)|쉐이퍼 습지대 지도 (아틀라스의 세계)
+burial chambers map (atlas of worlds)|묘실 지도 (아틀라스의 세계)
+shaped burial chambers map (atlas of worlds)|쉐이퍼 묘실 지도 (아틀라스의 세계)
+canyon map (atlas of worlds)|협곡 지도 (아틀라스의 세계)
+shaped canyon map (atlas of worlds)|쉐이퍼 협곡 지도 (아틀라스의 세계)
+castle ruins map (atlas of worlds)|성곽 유적 지도 (아틀라스의 세계)
+shaped castle ruins map (atlas of worlds)|쉐이퍼 성곽 유적 지도 (아틀라스의 세계)
+bone crypt map (atlas of worlds)|뼈 지하실 지도 (아틀라스의 세계)
+shaped bone crypt map (atlas of worlds)|쉐이퍼 뼈 지하실 지도 (아틀라스의 세계)
+flooded mine map (atlas of worlds)|물에 잠긴 광산 지도 (아틀라스의 세계)
+shaped flooded mine map (atlas of worlds)|쉐이퍼 물에 잠긴 광산 지도 (아틀라스의 세계)
+cells map (atlas of worlds)|감방 지도 (아틀라스의 세계)
+shaped cells map (atlas of worlds)|쉐이퍼 감방 지도 (아틀라스의 세계)
+cemetery map (atlas of worlds)|공동묘지 지도 (아틀라스의 세계)
+shaped cemetery map (atlas of worlds)|쉐이퍼 공동묘지 지도 (아틀라스의 세계)
+channel map (atlas of worlds)|물길 지도 (아틀라스의 세계)
+shaped channel map (atlas of worlds)|쉐이퍼 물길 지도 (아틀라스의 세계)
+chateau map (atlas of worlds)|대저택 지도 (아틀라스의 세계)
+pit of the chimera map (atlas of worlds)|키메라의 구덩이 지도 (아틀라스의 세계)
+colonnade map (atlas of worlds)|가로수 지도 (아틀라스의 세계)
+shaped colonnade map (atlas of worlds)|쉐이퍼 가로수 지도 (아틀라스의 세계)
+colosseum map (atlas of worlds)|원형 경기장 지도 (아틀라스의 세계)
+core map (atlas of worlds)|중심부 지도 (아틀라스의 세계)
+courtyard map (atlas of worlds)|안뜰 지도 (아틀라스의 세계)
+shaped courtyard map (atlas of worlds)|쉐이퍼 안뜰 지도 (아틀라스의 세계)
+coves map (atlas of worlds)|만 지도 (아틀라스의 세계)
+shaped coves map (atlas of worlds)|쉐이퍼 만 지도 (아틀라스의 세계)
+lava chamber map (atlas of worlds)|용암의 방 지도 (아틀라스의 세계)
+cursed crypt map (atlas of worlds)|저주받은 지하실 지도 (아틀라스의 세계)
+shaped cursed crypt map (atlas of worlds)|쉐이퍼 저주받은 지하실 지도 (아틀라스의 세계)
+crystal ore map (atlas of worlds)|수정 광석 지도 (아틀라스의 세계)
+shaped crystal ore map (atlas of worlds)|쉐이퍼 수정 광석 지도 (아틀라스의 세계)
+dark forest map (atlas of worlds)|어둠의 숲 지도 (아틀라스의 세계)
+desert map (atlas of worlds)|사막 지도 (아틀라스의 세계)
+shaped desert map (atlas of worlds)|쉐이퍼 사막 지도 (아틀라스의 세계)
+peninsula map (atlas of worlds)|반도 지도 (아틀라스의 세계)
+shaped peninsula map (atlas of worlds)|쉐이퍼 반도 지도 (아틀라스의 세계)
+ashen wood map (atlas of worlds)|잿빛 숲 지도 (아틀라스의 세계)
+shaped ashen wood map (atlas of worlds)|쉐이퍼 잿빛 숲 지도 (아틀라스의 세계)
+dunes map (atlas of worlds)|사구 지도 (아틀라스의 세계)
+shaped dunes map (atlas of worlds)|쉐이퍼 사구 지도 (아틀라스의 세계)
+dungeon map (atlas of worlds)|던전 지도 (아틀라스의 세계)
+shaped dungeon map (atlas of worlds)|쉐이퍼 던전 지도 (아틀라스의 세계)
+estuary map (atlas of worlds)|강어귀 지도 (아틀라스의 세계)
+excavation map (atlas of worlds)|발굴터 지도 (아틀라스의 세계)
+factory map (atlas of worlds)|공장 지도 (아틀라스의 세계)
+shaped factory map (atlas of worlds)|쉐이퍼 공장 지도 (아틀라스의 세계)
+ghetto map (atlas of worlds)|빈민촌 지도 (아틀라스의 세계)
+shaped ghetto map (atlas of worlds)|쉐이퍼 빈민촌 지도 (아틀라스의 세계)
+glacier map (atlas of worlds)|빙하 지도 (아틀라스의 세계)
+graveyard map (atlas of worlds)|묘지 지도 (아틀라스의 세계)
+shaped graveyard map (atlas of worlds)|쉐이퍼 묘지 지도 (아틀라스의 세계)
+grotto map (atlas of worlds)|석굴 지도 (아틀라스의 세계)
+shaped grotto map (atlas of worlds)|쉐이퍼 석굴 지도 (아틀라스의 세계)
+harbinger map (atlas of worlds)|선구자 지도 (아틀라스의 세계)
+terrace map (atlas of worlds)|테라스 지도 (아틀라스의 세계)
+lair of the hydra map (atlas of worlds)|히드라의 소굴 지도 (아틀라스의 세계)
+ivory temple map (atlas of worlds)|상아 사원 지도 (아틀라스의 세계)
+jungle valley map (atlas of worlds)|밀림 계곡 지도 (아틀라스의 세계)
+shaped jungle valley map (atlas of worlds)|쉐이퍼 밀림 계곡 지도 (아틀라스의 세계)
+lair map (atlas of worlds)|소굴 지도 (아틀라스의 세계)
+malformation map (atlas of worlds)|기형 지도 (아틀라스의 세계)
+shaped malformation map (atlas of worlds)|쉐이퍼 기형 지도 (아틀라스의 세계)
+marshes map (atlas of worlds)|습지 지도 (아틀라스의 세계)
+shaped marshes map (atlas of worlds)|쉐이퍼 습지 지도 (아틀라스의 세계)
+maze map (atlas of worlds)|미로 지도 (아틀라스의 세계)
+mesa map (atlas of worlds)|메사 지도 (아틀라스의 세계)
+shaped mesa map (atlas of worlds)|쉐이퍼 메사 지도 (아틀라스의 세계)
+mineral pools map (atlas of worlds)|광물층 지도 (아틀라스의 세계)
+maze of the minotaur map (atlas of worlds)|미노타우로스의 미로 지도 (아틀라스의 세계)
+mud geyser map (atlas of worlds)|진흙 간헐천 지도 (아틀라스의 세계)
+shaped mud geyser map (atlas of worlds)|쉐이퍼 진흙 간헐천 지도 (아틀라스의 세계)
+museum map (atlas of worlds)|박물관 지도 (아틀라스의 세계)
+shaped museum map (atlas of worlds)|쉐이퍼 박물관 지도 (아틀라스의 세계)
+necropolis map (atlas of worlds)|매장지 지도 (아틀라스의 세계)
+desert spring map (atlas of worlds)|사막의 샘 지도 (아틀라스의 세계)
+shaped desert spring map (atlas of worlds)|쉐이퍼 사막의 샘 지도 (아틀라스의 세계)
+orchard map (atlas of worlds)|과수원 지도 (아틀라스의 세계)
+shaped orchard map (atlas of worlds)|쉐이퍼 과수원 지도 (아틀라스의 세계)
+overgrown ruin map (atlas of worlds)|무성한 유적 지도 (아틀라스의 세계)
+overgrown shrine map (atlas of worlds)|무성한 성소 지도 (아틀라스의 세계)
+shaped overgrown shrine map (atlas of worlds)|쉐이퍼 무성한 성소 지도 (아틀라스의 세계)
+palace map (atlas of worlds)|궁전 지도 (아틀라스의 세계)
+phantasmagoria map (atlas of worlds)|환영 지도 (아틀라스의 세계)
+shaped phantasmagoria map (atlas of worlds)|쉐이퍼 환영 지도 (아틀라스의 세계)
+forge of the phoenix map (atlas of worlds)|불사조의 대장간 지도 (아틀라스의 세계)
+pier map (atlas of worlds)|선창 지도 (아틀라스의 세계)
+shaped pier map (atlas of worlds)|쉐이퍼 선창 지도 (아틀라스의 세계)
+pit map (atlas of worlds)|구덩이 지도 (아틀라스의 세계)
+shaped pit map (atlas of worlds)|쉐이퍼 구덩이 지도 (아틀라스의 세계)
+plateau map (atlas of worlds)|고원 지도 (아틀라스의 세계)
+plaza map (atlas of worlds)|광장 지도 (아틀라스의 세계)
+precinct map (atlas of worlds)|구획 지도 (아틀라스의 세계)
+primordial pool map (atlas of worlds)|태고의 웅덩이 지도 (아틀라스의 세계)
+shaped primordial pool map (atlas of worlds)|쉐이퍼 태고의 웅덩이 지도 (아틀라스의 세계)
+promenade map (atlas of worlds)|산책로 지도 (아틀라스의 세계)
+shaped promenade map (atlas of worlds)|쉐이퍼 산책로 지도 (아틀라스의 세계)
+geode map (atlas of worlds)|정동석 지도 (아틀라스의 세계)
+shaped geode map (atlas of worlds)|쉐이퍼 정동석 지도 (아틀라스의 세계)
+port map (atlas of worlds)|항만 지도 (아틀라스의 세계)
+shaped port map (atlas of worlds)|쉐이퍼 항만 지도 (아틀라스의 세계)
+racecourse map (atlas of worlds)|경주장 지도 (아틀라스의 세계)
+shaped racecourse map (atlas of worlds)|쉐이퍼 경주장 지도 (아틀라스의 세계)
+ramparts map (atlas of worlds)|성벽 지도 (아틀라스의 세계)
+shaped ramparts map (atlas of worlds)|쉐이퍼 성벽 지도 (아틀라스의 세계)
+reef map (atlas of worlds)|암초 지도 (아틀라스의 세계)
+shaped reef map (atlas of worlds)|쉐이퍼 암초 지도 (아틀라스의 세계)
+residence map (atlas of worlds)|주택 지도 (아틀라스의 세계)
+scriptorium map (atlas of worlds)|필사실 지도 (아틀라스의 세계)
+toxic sewer map (atlas of worlds)|맹독성 하수도 지도 (아틀라스의 세계)
+shaped toxic sewer map (atlas of worlds)|쉐이퍼 맹독성 하수도 지도 (아틀라스의 세계)
+shipyard map (atlas of worlds)|조선소 지도 (아틀라스의 세계)
+shore map (atlas of worlds)|바닷가 지도 (아틀라스의 세계)
+shaped shore map (atlas of worlds)|쉐이퍼 바닷가 지도 (아틀라스의 세계)
+shrine map (atlas of worlds)|성소 지도 (아틀라스의 세계)
+spider forest map (atlas of worlds)|거미 숲 지도 (아틀라스의 세계)
+shaped spider forest map (atlas of worlds)|쉐이퍼 거미 숲 지도 (아틀라스의 세계)
+spider lair map (atlas of worlds)|거미 소굴 지도 (아틀라스의 세계)
+shaped spider lair map (atlas of worlds)|쉐이퍼 거미 소굴 지도 (아틀라스의 세계)
+fungal hollow map (atlas of worlds)|곰팡이 동혈 지도 (아틀라스의 세계)
+strand map (atlas of worlds)|해안 지도 (아틀라스의 세계)
+shaped strand map (atlas of worlds)|쉐이퍼 해안 지도 (아틀라스의 세계)
+leyline map (atlas of worlds)|지맥 지도 (아틀라스의 세계)
+temple map (atlas of worlds)|사원 지도 (아틀라스의 세계)
+shaped temple map (atlas of worlds)|쉐이퍼 사원 지도 (아틀라스의 세계)
+gardens map (atlas of worlds)|정원 지도 (아틀라스의 세계)
+shaped gardens map (atlas of worlds)|쉐이퍼 정원 지도 (아틀라스의 세계)
+thicket map (atlas of worlds)|잡목림 지도 (아틀라스의 세계)
+shaped thicket map (atlas of worlds)|쉐이퍼 잡목림 지도 (아틀라스의 세계)
+primordial blocks map (atlas of worlds)|태고의 구역 지도 (아틀라스의 세계)
+tower map (atlas of worlds)|탑 지도 (아틀라스의 세계)
+shaped tower map (atlas of worlds)|쉐이퍼 탑 지도 (아틀라스의 세계)
+tropical island map (atlas of worlds)|열대 섬 지도 (아틀라스의 세계)
+shaped tropical island map (atlas of worlds)|쉐이퍼 열대 섬 지도 (아틀라스의 세계)
+underground river map (atlas of worlds)|지하 강 지도 (아틀라스의 세계)
+shaped underground river map (atlas of worlds)|쉐이퍼 지하 강 지도 (아틀라스의 세계)
+underground sea map (atlas of worlds)|지하 해양 지도 (아틀라스의 세계)
+ancient city map (atlas of worlds)|고대 도시 지도 (아틀라스의 세계)
+shaped ancient city map (atlas of worlds)|쉐이퍼 고대 도시 지도 (아틀라스의 세계)
+vaal pyramid map (atlas of worlds)|바알 피라미드 지도 (아틀라스의 세계)
+shaped vaal pyramid map (atlas of worlds)|쉐이퍼 바알 피라미드 지도 (아틀라스의 세계)
+vaal temple map (atlas of worlds)|바알 사원 지도 (아틀라스의 세계)
+vault map (atlas of worlds)|금고실 지도 (아틀라스의 세계)
+villa map (atlas of worlds)|빌라 지도 (아틀라스의 세계)
+shaped villa map (atlas of worlds)|쉐이퍼 빌라 지도 (아틀라스의 세계)
+volcano map (atlas of worlds)|화산 지도 (아틀라스의 세계)
+wasteland map (atlas of worlds)|황무지 지도 (아틀라스의 세계)
+waste pool map (atlas of worlds)|황폐한 웅덩이 지도 (아틀라스의 세계)
+shaped waste pool map (atlas of worlds)|쉐이퍼 황폐한 웅덩이 지도 (아틀라스의 세계)
+waterways map (atlas of worlds)|수로 지도 (아틀라스의 세계)
+wharf map (atlas of worlds)|부두 지도 (아틀라스의 세계)
+shaped wharf map (atlas of worlds)|쉐이퍼 부두 지도 (아틀라스의 세계)
+necropolis map (the awakening)|매장지 지도 (각성)
+plateau map (the awakening)|고원 지도 (각성)
+bazaar map (the awakening)|장터 지도 (각성)
+volcano map (the awakening)|화산 지도 (각성)
+chateau map (the awakening)|대저택 지도 (각성)
+cursed crypt map (the awakening)|저주받은 지하실 지도 (각성)
+lava chamber map (the awakening)|용암의 방 지도 (각성)
+precinct map (the awakening)|구획 지도 (각성)
+academy map (the awakening)|학술원 지도 (각성)
+fungal hollow map (the awakening)|곰팡이 동혈 지도 (각성)
+dungeon map (the awakening)|던전 지도 (각성)
+shipyard map (the awakening)|조선소 지도 (각성)
+overgrown ruin map (the awakening)|무성한 유적 지도 (각성)
+castle ruins map (the awakening)|성곽 유적 지도 (각성)
+arsenal map (the awakening)|병기창 지도 (각성)
+grotto map (the awakening)|석굴 지도 (각성)
+wasteland map (the awakening)|황무지 지도 (각성)
+courtyard map (the awakening)|안뜰 지도 (각성)
+excavation map (the awakening)|발굴터 지도 (각성)
+waterways map (the awakening)|수로 지도 (각성)
+dunes map (the awakening)|사구 지도 (각성)
+palace map (the awakening)|궁전 지도 (각성)
+shrine map (the awakening)|성소 지도 (각성)
+maze map (the awakening)|미로 지도 (각성)
+vaal temple map (the awakening)|바알 사원 지도 (각성)
+plaza map (the awakening)|광장 지도 (각성)
+pit map (the awakening)|구덩이 지도 (각성)
+core map (the awakening)|중심부 지도 (각성)
+caldera map (the awakening)|칼데라 지도 (각성)
+colosseum map (the awakening)|원형 경기장 지도 (각성)
+tropical island map (the awakening)|열대 섬 지도 (각성)
+desert map (the awakening)|사막 지도 (각성)
+toxic sewer map (the awakening)|맹독성 하수도 지도 (각성)
+channel map (the awakening)|물길 지도 (각성)
+thicket map (the awakening)|잡목림 지도 (각성)
+atoll map (the awakening)|산호섬 지도 (각성)
+cemetery map (the awakening)|공동묘지 지도 (각성)
+arcade map (the awakening)|상점가 지도 (각성)
+wharf map (the awakening)|부두 지도 (각성)
+ghetto map (the awakening)|빈민촌 지도 (각성)
+spider lair map (the awakening)|거미 소굴 지도 (각성)
+vaal pyramid map (the awakening)|바알 피라미드 지도 (각성)
+reef map (the awakening)|암초 지도 (각성)
+geode map (the awakening)|정동석 지도 (각성)
+mud geyser map (the awakening)|진흙 간헐천 지도 (각성)
+museum map (the awakening)|박물관 지도 (각성)
+arena map (the awakening)|투기장 지도 (각성)
+overgrown shrine map (the awakening)|무성한 성소 지도 (각성)
+crystal ore map (the awakening)|수정 광석 지도 (각성)
+shore map (the awakening)|바닷가 지도 (각성)
+spider forest map (the awakening)|거미 숲 지도 (각성)
+promenade map (the awakening)|산책로 지도 (각성)
+phantasmagoria map (the awakening)|환영 지도 (각성)
+underground river map (the awakening)|지하 강 지도 (각성)
+pier map (the awakening)|선창 지도 (각성)
+bog map (the awakening)|습지대 지도 (각성)
+graveyard map (the awakening)|묘지 지도 (각성)
+coves map (the awakening)|만 지도 (각성)
+villa map (the awakening)|빌라 지도 (각성)
+temple map (the awakening)|사원 지도 (각성)
+arachnid nest map (the awakening)|거미류 둥지 지도 (각성)
+strand map (the awakening)|해안 지도 (각성)
+ashen wood map (the awakening)|잿빛 숲 지도 (각성)
+colonnade map (the awakening)|가로수 지도 (각성)
+bone crypt map (the awakening)|뼈 지하실 지도 (각성)
+primordial blocks map (the awakening)|태고의 구역 지도 (각성)
+waste pool map (the awakening)|황폐한 웅덩이 지도 (각성)
+flooded mine map (the awakening)|물에 잠긴 광산 지도 (각성)
+jungle valley map (the awakening)|밀림 계곡 지도 (각성)
+gardens map (the awakening)|정원 지도 (각성)
+cells map (the awakening)|감방 지도 (각성)
+canyon map (the awakening)|협곡 지도 (각성)
+dark forest map (the awakening)|어둠의 숲 지도 (각성)
+peninsula map (the awakening)|반도 지도 (각성)
+orchard map (the awakening)|과수원 지도 (각성)
+underground sea map (the awakening)|지하 해양 지도 (각성)
+arid lake map (the awakening)|메마른 호수 지도 (각성)
+glacier map (the awakening)|빙하 지도 (각성)
+residence map (the awakening)|주택 지도 (각성)
+malformation map (the awakening)|기형 지도 (각성)
+blighted academy map|역병 걸린 학술원 지도
+blighted acid caverns map|역병 걸린 산성 암굴 지도
+blighted alleyways map|역병 걸린 골목길 지도
+blighted ancient city map|역병 걸린 고대 도시 지도
+blighted arachnid nest map|역병 걸린 거미류 둥지 지도
+blighted arachnid tomb map|역병 걸린 거미류 무덤 지도
+blighted arcade map|역병 걸린 상점가 지도
+blighted arena map|역병 걸린 투기장 지도
+blighted arid lake map|역병 걸린 메마른 호수 지도
+blighted armoury map|역병 걸린 갑주 창고 지도
+blighted arsenal map|역병 걸린 병기창 지도
+blighted ashen wood map|역병 걸린 잿빛 숲 지도
+blighted atoll map|역병 걸린 산호섬 지도
+blighted barrows map|역병 걸린 고분 지도
+blighted basilica map|역병 걸린 교회당 지도
+blighted bazaar map|역병 걸린 장터 지도
+blighted beach map|역병 걸린 해변 지도
+blighted belfry map|역병 걸린 종탑 지도
+blighted bog map|역병 걸린 습지대 지도
+blighted bone crypt map|역병 걸린 뼈 지하실 지도
+blighted bramble valley map|역병 걸린 가시나무 계곡 지도
+blighted burial chambers map|역병 걸린 묘실 지도
+blighted cage map|역병 걸린 창살 지도
+blighted caldera map|역병 걸린 칼데라 지도
+blighted canyon map|역병 걸린 협곡 지도
+blighted carcass map|역병 걸린 시체 지도
+blighted castle ruins map|역병 걸린 성곽 유적 지도
+blighted cells map|역병 걸린 감방 지도
+blighted cemetery map|역병 걸린 공동묘지 지도
+blighted channel map|역병 걸린 물길 지도
+blighted chateau map|역병 걸린 대저택 지도
+blighted city square map|역병 걸린 도시 광장 지도
+blighted cold river map|역병 걸린 차가운 강 지도
+blighted colonnade map|역병 걸린 가로수 지도
+blighted colosseum map|역병 걸린 원형 경기장 지도
+blighted conservatory map|역병 걸린 온실 지도
+blighted coral ruins map|역병 걸린 산호 유적 지도
+blighted core map|역병 걸린 중심부 지도
+blighted courthouse map|역병 걸린 법원 지도
+blighted courtyard map|역병 걸린 안뜰 지도
+blighted coves map|역병 걸린 만 지도
+blighted crimson temple map|역병 걸린 진홍색 사원 지도
+blighted crimson township map|역병 걸린 진홍색 마을 지도
+blighted crystal ore map|역병 걸린 수정 광석 지도
+blighted cursed crypt map|역병 걸린 저주받은 지하실 지도
+blighted dark forest map|역병 걸린 어둠의 숲 지도
+blighted defiled cathedral map|역병 걸린 더럽혀진 대성당 지도
+blighted desert map|역병 걸린 사막 지도
+blighted desert spring map|역병 걸린 사막의 샘 지도
+blighted dig map|역병 걸린 발굴지 지도
+blighted dry sea map|역병 걸린 메마른 바다 지도
+blighted dunes map|역병 걸린 사구 지도
+blighted dungeon map|역병 걸린 던전 지도
+blighted estuary map|역병 걸린 강어귀 지도
+blighted excavation map|역병 걸린 발굴터 지도
+blighted factory map|역병 걸린 공장 지도
+blighted fields map|역병 걸린 들판 지도
+blighted flooded mine map|역병 걸린 물에 잠긴 광산 지도
+blighted forbidden woods map|역병 걸린 금단의 숲 지도
+blighted forking river map|역병 걸린 갈라지는 강 지도
+blighted foundry map|역병 걸린 주조소 지도
+blighted frozen cabins map|역병 걸린 얼어붙은 오막 지도
+blighted gardens map|역병 걸린 정원 지도
+blighted geode map|역병 걸린 정동석 지도
+blighted ghetto map|역병 걸린 빈민촌 지도
+blighted glacier map|역병 걸린 빙하 지도
+blighted grave trough map|역병 걸린 무덤 고랑 지도
+blighted graveyard map|역병 걸린 묘지 지도
+blighted grotto map|역병 걸린 석굴 지도
+blighted haunted mansion map|역병 걸린 으스스한 대저택 지도
+blighted iceberg map|역병 걸린 빙산 지도
+blighted infested valley map|역병 걸린 감염된 계곡 지도
+blighted ivory temple map|역병 걸린 상아 사원 지도
+blighted jungle valley map|역병 걸린 밀림 계곡 지도
+blighted laboratory map|역병 걸린 실험실 지도
+blighted lair map|역병 걸린 소굴 지도
+blighted lava chamber map|역병 걸린 용암의 방 지도
+blighted lava lake map|역병 걸린 용암 호수 지도
+blighted leyline map|역병 걸린 지맥 지도
+blighted lighthouse map|역병 걸린 등대 지도
+blighted lookout map|역병 걸린 전망대 지도
+blighted malformation map|역병 걸린 기형 지도
+blighted marshes map|역병 걸린 습지 지도
+blighted mausoleum map|역병 걸린 능묘 지도
+blighted maze map|역병 걸린 미로 지도
+blighted mesa map|역병 걸린 메사 지도
+blighted mineral pools map|역병 걸린 광물층 지도
+blighted moon temple map|역병 걸린 달의 사원 지도
+blighted mud geyser map|역병 걸린 진흙 간헐천 지도
+blighted museum map|역병 걸린 박물관 지도
+blighted necropolis map|역병 걸린 매장지 지도
+blighted orchard map|역병 걸린 과수원 지도
+blighted overgrown ruin map|역병 걸린 무성한 유적 지도
+blighted overgrown shrine map|역병 걸린 무성한 성소 지도
+blighted palace map|역병 걸린 궁전 지도
+blighted park map|역병 걸린 공원 지도
+blighted pen map|역병 걸린 우리 지도
+blighted peninsula map|역병 걸린 반도 지도
+blighted phantasmagoria map|역병 걸린 환영 지도
+blighted pier map|역병 걸린 선창 지도
+blighted pit map|역병 걸린 구덩이 지도
+blighted plateau map|역병 걸린 고원 지도
+blighted plaza map|역병 걸린 광장 지도
+blighted port map|역병 걸린 항만 지도
+blighted precinct map|역병 걸린 구획 지도
+blighted primordial pool map|역병 걸린 태고의 웅덩이 지도
+blighted promenade map|역병 걸린 산책로 지도
+blighted racecourse map|역병 걸린 경주장 지도
+blighted ramparts map|역병 걸린 성벽 지도
+blighted reef map|역병 걸린 암초 지도
+blighted relic chambers map|역병 걸린 유물의 방 지도
+blighted residence map|역병 걸린 주택 지도
+blighted scriptorium map|역병 걸린 필사실 지도
+blighted sepulchre map|역병 걸린 매장소 지도
+blighted shipyard map|역병 걸린 조선소 지도
+blighted shore map|역병 걸린 바닷가 지도
+blighted shrine map|역병 걸린 성소 지도
+blighted siege map|역병 걸린 공성 지도
+blighted silo map|역병 걸린 곡물 창고 지도
+blighted spider forest map|역병 걸린 거미 숲 지도
+blighted spider lair map|역병 걸린 거미 소굴 지도
+blighted fungal hollow map|역병 걸린 곰팡이 동혈 지도
+blighted stagnation map|역병 걸린 침체지 지도
+blighted strand map|역병 걸린 해안 지도
+blighted sulphur vents map|역병 걸린 유황 분출구 지도
+blighted summit map|역병 걸린 꼭대기 지도
+blighted sunken city map|역병 걸린 물에 잠긴 도시 지도
+blighted temple map|역병 걸린 사원 지도
+blighted terrace map|역병 걸린 테라스 지도
+blighted thicket map|역병 걸린 잡목림 지도
+blighted primordial blocks map|역병 걸린 태고의 구역 지도
+blighted tower map|역병 걸린 탑 지도
+blighted toxic sewer map|역병 걸린 맹독성 하수도 지도
+blighted crater map|역병 걸린 분화구 지도
+blighted tropical island map|역병 걸린 열대 섬 지도
+blighted underground river map|역병 걸린 지하 강 지도
+blighted underground sea map|역병 걸린 지하 해양 지도
+blighted vaal pyramid map|역병 걸린 바알 피라미드 지도
+blighted vault map|역병 걸린 금고실 지도
+blighted villa map|역병 걸린 빌라 지도
+blighted volcano map|역병 걸린 화산 지도
+blighted wasteland map|역병 걸린 황무지 지도
+blighted waste pool map|역병 걸린 황폐한 웅덩이 지도
+blighted waterways map|역병 걸린 수로 지도
+blighted wharf map|역병 걸린 부두 지도
+necropolis map (legacy)|매장지 지도 (유산)
+plateau map (legacy)|고원 지도 (유산)
+bazaar map (legacy)|장터 지도 (유산)
+cursed crypt map (legacy)|저주받은 지하실 지도 (유산)
+lava chamber map (legacy)|용암의 방 지도 (유산)
+precinct map (legacy)|구획 지도 (유산)
+academy map (legacy)|학술원 지도 (유산)
+dungeon map (legacy)|던전 지도 (유산)
+shipyard map (legacy)|조선소 지도 (유산)
+shrine map (legacy)|성소 지도 (유산)
+grotto map (legacy)|석굴 지도 (유산)
+palace map (legacy)|궁전 지도 (유산)
+courtyard map (legacy)|안뜰 지도 (유산)
+overgrown ruin map (legacy)|무성한 유적 지도 (유산)
+vaal temple map (legacy)|바알 사원 지도 (유산)
+dunes map (legacy)|사구 지도 (유산)
+arid lake map (legacy)|메마른 호수 지도 (유산)
+tropical island map (legacy)|열대 섬 지도 (유산)
+orchard map (legacy)|과수원 지도 (유산)
+wharf map (legacy)|부두 지도 (유산)
+arsenal map (legacy)|병기창 지도 (유산)
+thicket map (legacy)|잡목림 지도 (유산)
+atoll map (legacy)|산호섬 지도 (유산)
+cemetery map (legacy)|공동묘지 지도 (유산)
+toxic sewer map (legacy)|맹독성 하수도 지도 (유산)
+arcade map (legacy)|상점가 지도 (유산)
+ghetto map (legacy)|빈민촌 지도 (유산)
+spider lair map (legacy)|거미 소굴 지도 (유산)
+vaal pyramid map (legacy)|바알 피라미드 지도 (유산)
+reef map (legacy)|암초 지도 (유산)
+fungal hollow map (legacy)|곰팡이 동혈 지도 (유산)
+mud geyser map (legacy)|진흙 간헐천 지도 (유산)
+museum map (legacy)|박물관 지도 (유산)
+bone crypt map (legacy)|뼈 지하실 지도 (유산)
+overgrown shrine map (legacy)|무성한 성소 지도 (유산)
+crystal ore map (legacy)|수정 광석 지도 (유산)
+shore map (legacy)|바닷가 지도 (유산)
+spider forest map (legacy)|거미 숲 지도 (유산)
+promenade map (legacy)|산책로 지도 (유산)
+underground river map (legacy)|지하 강 지도 (유산)
+pier map (legacy)|선창 지도 (유산)
+bog map (legacy)|습지대 지도 (유산)
+graveyard map (legacy)|묘지 지도 (유산)
+coves map (legacy)|만 지도 (유산)
+villa map (legacy)|빌라 지도 (유산)
+temple map (legacy)|사원 지도 (유산)
+arachnid nest map (legacy)|거미류 둥지 지도 (유산)
+strand map (legacy)|해안 지도 (유산)
+ashen wood map (legacy)|잿빛 숲 지도 (유산)
+colonnade map (legacy)|가로수 지도 (유산)
+primordial blocks map (legacy)|태고의 구역 지도 (유산)
+waste pool map (legacy)|황폐한 웅덩이 지도 (유산)
+flooded mine map (legacy)|물에 잠긴 광산 지도 (유산)
+jungle valley map (legacy)|밀림 계곡 지도 (유산)
+gardens map (legacy)|정원 지도 (유산)
+cells map (legacy)|감방 지도 (유산)
+canyon map (legacy)|협곡 지도 (유산)
+dark forest map (legacy)|어둠의 숲 지도 (유산)
+peninsula map (legacy)|반도 지도 (유산)
+underground sea map (legacy)|지하 해양 지도 (유산)
+maze map (legacy)|미로 지도 (유산)
+glacier map (legacy)|빙하 지도 (유산)
+residence map (legacy)|주택 지도 (유산)
+blight-ravaged academy map|역병에 유린당한 학술원 지도
+blight-ravaged acid caverns map|역병에 유린당한 산성 암굴 지도
+blight-ravaged alleyways map|역병에 유린당한 골목길 지도
+blight-ravaged ancient city map|역병에 유린당한 고대 도시 지도
+blight-ravaged arachnid nest map|역병에 유린당한 거미류 둥지 지도
+blight-ravaged arcade map|역병에 유린당한 상점가 지도
+blight-ravaged arena map|역병에 유린당한 투기장 지도
+blight-ravaged arid lake map|역병에 유린당한 메마른 호수 지도
+blight-ravaged armoury map|역병에 유린당한 갑주 창고 지도
+blight-ravaged arsenal map|역병에 유린당한 병기창 지도
+blight-ravaged ashen wood map|역병에 유린당한 잿빛 숲 지도
+blight-ravaged atoll map|역병에 유린당한 산호섬 지도
+blight-ravaged barrows map|역병에 유린당한 고분 지도
+blight-ravaged basilica map|역병에 유린당한 교회당 지도
+blight-ravaged bazaar map|역병에 유린당한 장터 지도
+blight-ravaged beach map|역병에 유린당한 해변 지도
+blight-ravaged belfry map|역병에 유린당한 종탑 지도
+blight-ravaged bog map|역병에 유린당한 습지대 지도
+blight-ravaged bone crypt map|역병에 유린당한 뼈 지하실 지도
+blight-ravaged bramble valley map|역병에 유린당한 가시나무 계곡 지도
+blight-ravaged burial chambers map|역병에 유린당한 묘실 지도
+blight-ravaged cage map|역병에 유린당한 창살 지도
+blight-ravaged caldera map|역병에 유린당한 칼데라 지도
+blight-ravaged canyon map|역병에 유린당한 협곡 지도
+blight-ravaged carcass map|역병에 유린당한 시체 지도
+blight-ravaged castle ruins map|역병에 유린당한 성곽 유적 지도
+blight-ravaged cells map|역병에 유린당한 감방 지도
+blight-ravaged cemetery map|역병에 유린당한 공동묘지 지도
+blight-ravaged channel map|역병에 유린당한 물길 지도
+blight-ravaged chateau map|역병에 유린당한 대저택 지도
+blight-ravaged city square map|역병에 유린당한 도시 광장 지도
+blight-ravaged cold river map|역병에 유린당한 차가운 강 지도
+blight-ravaged colonnade map|역병에 유린당한 가로수 지도
+blight-ravaged colosseum map|역병에 유린당한 원형 경기장 지도
+blight-ravaged conservatory map|역병에 유린당한 온실 지도
+blight-ravaged coral ruins map|역병에 유린당한 산호 유적 지도
+blight-ravaged core map|역병에 유린당한 중심부 지도
+blight-ravaged courthouse map|역병에 유린당한 법원 지도
+blight-ravaged courtyard map|역병에 유린당한 안뜰 지도
+blight-ravaged coves map|역병에 유린당한 만 지도
+blight-ravaged crimson temple map|역병에 유린당한 진홍색 사원 지도
+blight-ravaged crimson township map|역병에 유린당한 진홍색 마을 지도
+blight-ravaged crystal ore map|역병에 유린당한 수정 광석 지도
+blight-ravaged cursed crypt map|역병에 유린당한 저주받은 지하실 지도
+blight-ravaged dark forest map|역병에 유린당한 어둠의 숲 지도
+blight-ravaged defiled cathedral map|역병에 유린당한 더럽혀진 대성당 지도
+blight-ravaged desert map|역병에 유린당한 사막 지도
+blight-ravaged desert spring map|역병에 유린당한 사막의 샘 지도
+blight-ravaged dig map|역병에 유린당한 발굴지 지도
+blight-ravaged dry sea map|역병에 유린당한 메마른 바다 지도
+blight-ravaged dunes map|역병에 유린당한 사구 지도
+blight-ravaged dungeon map|역병에 유린당한 던전 지도
+blight-ravaged estuary map|역병에 유린당한 강어귀 지도
+blight-ravaged fields map|역병에 유린당한 들판 지도
+blight-ravaged flooded mine map|역병에 유린당한 물에 잠긴 광산 지도
+blight-ravaged forbidden woods map|역병에 유린당한 금단의 숲 지도
+blight-ravaged forking river map|역병에 유린당한 갈라지는 강 지도
+blight-ravaged foundry map|역병에 유린당한 주조소 지도
+blight-ravaged gardens map|역병에 유린당한 정원 지도
+blight-ravaged geode map|역병에 유린당한 정동석 지도
+blight-ravaged ghetto map|역병에 유린당한 빈민촌 지도
+blight-ravaged glacier map|역병에 유린당한 빙하 지도
+blight-ravaged grave trough map|역병에 유린당한 무덤 고랑 지도
+blight-ravaged graveyard map|역병에 유린당한 묘지 지도
+blight-ravaged grotto map|역병에 유린당한 석굴 지도
+blight-ravaged haunted mansion map|역병에 유린당한 으스스한 대저택 지도
+blight-ravaged iceberg map|역병에 유린당한 빙산 지도
+blight-ravaged infested valley map|역병에 유린당한 감염된 계곡 지도
+blight-ravaged ivory temple map|역병에 유린당한 상아 사원 지도
+blight-ravaged jungle valley map|역병에 유린당한 밀림 계곡 지도
+blight-ravaged laboratory map|역병에 유린당한 실험실 지도
+blight-ravaged lair map|역병에 유린당한 소굴 지도
+blight-ravaged lava chamber map|역병에 유린당한 용암의 방 지도
+blight-ravaged lava lake map|역병에 유린당한 용암 호수 지도
+blight-ravaged leyline map|역병에 유린당한 지맥 지도
+blight-ravaged lighthouse map|역병에 유린당한 등대 지도
+blight-ravaged lookout map|역병에 유린당한 전망대 지도
+blight-ravaged malformation map|역병에 유린당한 기형 지도
+blight-ravaged marshes map|역병에 유린당한 습지 지도
+blight-ravaged mausoleum map|역병에 유린당한 능묘 지도
+blight-ravaged maze map|역병에 유린당한 미로 지도
+blight-ravaged mesa map|역병에 유린당한 메사 지도
+blight-ravaged mineral pools map|역병에 유린당한 광물층 지도
+blight-ravaged moon temple map|역병에 유린당한 달의 사원 지도
+blight-ravaged mud geyser map|역병에 유린당한 진흙 간헐천 지도
+blight-ravaged museum map|역병에 유린당한 박물관 지도
+blight-ravaged necropolis map|역병에 유린당한 매장지 지도
+blight-ravaged orchard map|역병에 유린당한 과수원 지도
+blight-ravaged overgrown ruin map|역병에 유린당한 무성한 유적 지도
+blight-ravaged overgrown shrine map|역병에 유린당한 무성한 성소 지도
+blight-ravaged palace map|역병에 유린당한 궁전 지도
+blight-ravaged park map|역병에 유린당한 공원 지도
+blight-ravaged pen map|역병에 유린당한 우리 지도
+blight-ravaged peninsula map|역병에 유린당한 반도 지도
+blight-ravaged phantasmagoria map|역병에 유린당한 환영 지도
+blight-ravaged pit map|역병에 유린당한 구덩이 지도
+blight-ravaged plateau map|역병에 유린당한 고원 지도
+blight-ravaged plaza map|역병에 유린당한 광장 지도
+blight-ravaged port map|역병에 유린당한 항만 지도
+blight-ravaged precinct map|역병에 유린당한 구획 지도
+blight-ravaged primordial pool map|역병에 유린당한 태고의 웅덩이 지도
+blight-ravaged promenade map|역병에 유린당한 산책로 지도
+blight-ravaged racecourse map|역병에 유린당한 경주장 지도
+blight-ravaged ramparts map|역병에 유린당한 성벽 지도
+blight-ravaged reef map|역병에 유린당한 암초 지도
+blight-ravaged relic chambers map|역병에 유린당한 유물의 방 지도
+blight-ravaged residence map|역병에 유린당한 주택 지도
+blight-ravaged sepulchre map|역병에 유린당한 매장소 지도
+blight-ravaged shipyard map|역병에 유린당한 조선소 지도
+blight-ravaged shore map|역병에 유린당한 바닷가 지도
+blight-ravaged shrine map|역병에 유린당한 성소 지도
+blight-ravaged siege map|역병에 유린당한 공성 지도
+blight-ravaged silo map|역병에 유린당한 곡물 창고 지도
+blight-ravaged spider forest map|역병에 유린당한 거미 숲 지도
+blight-ravaged spider lair map|역병에 유린당한 거미 소굴 지도
+blight-ravaged fungal hollow map|역병에 유린당한 곰팡이 동혈 지도
+blight-ravaged stagnation map|역병에 유린당한 침체지 지도
+blight-ravaged strand map|역병에 유린당한 해안 지도
+blight-ravaged sulphur vents map|역병에 유린당한 유황 분출구 지도
+blight-ravaged summit map|역병에 유린당한 꼭대기 지도
+blight-ravaged sunken city map|역병에 유린당한 물에 잠긴 도시 지도
+blight-ravaged temple map|역병에 유린당한 사원 지도
+blight-ravaged terrace map|역병에 유린당한 테라스 지도
+blight-ravaged thicket map|역병에 유린당한 잡목림 지도
+blight-ravaged primordial blocks map|역병에 유린당한 태고의 구역 지도
+blight-ravaged tower map|역병에 유린당한 탑 지도
+blight-ravaged toxic sewer map|역병에 유린당한 맹독성 하수도 지도
+blight-ravaged tropical island map|역병에 유린당한 열대 섬 지도
+blight-ravaged underground river map|역병에 유린당한 지하 강 지도
+blight-ravaged underground sea map|역병에 유린당한 지하 해양 지도
+blight-ravaged vault map|역병에 유린당한 금고실 지도
+blight-ravaged villa map|역병에 유린당한 빌라 지도
+blight-ravaged volcano map|역병에 유린당한 화산 지도
+blight-ravaged wasteland map|역병에 유린당한 황무지 지도
+blight-ravaged waste pool map|역병에 유린당한 황폐한 웅덩이 지도
+blight-ravaged wharf map|역병에 유린당한 부두 지도
+acton's nightmare overgrown shrine map|액턴의 악몽 무성한 성소 지도
+acton's nightmare overgrown shrine map (atlas of worlds)|액턴의 악몽 무성한 성소 지도 (아틀라스의 세계)
+acton's nightmare overgrown shrine map (the awakening)|액턴의 악몽 무성한 성소 지도 (각성)
+acton's nightmare overgrown shrine map (legacy)|액턴의 악몽 무성한 성소 지도 (유산)
+altered distant memory siege map|뒤바뀐 희미한 기억 공성 지도
+altered distant memory synthesised map|뒤바뀐 희미한 기억 결합된 지도
+augmented distant memory courthouse map|강화된 희미한 기억 법원 지도
+augmented distant memory haunted mansion map|강화된 희미한 기억 으스스한 대저택 지도
+augmented distant memory synthesised map|강화된 희미한 기억 결합된 지도
+caer blaidd, wolfpack's den underground river map|캐어블레이드 늑대의 소굴 지하 강 지도
+caer blaidd, wolfpack's den underground river map (atlas of worlds)|캐어블레이드 늑대의 소굴 지하 강 지도 (아틀라스의 세계)
+caer blaidd, wolfpack's den underground river map (the awakening)|캐어블레이드 늑대의 소굴 지하 강 지도 (각성)
+cortex relic chambers map|코텍스 유물의 방 지도
+cortex synthesised map|코텍스 결합된 지도
+death and taxes necropolis map|죽음과 의무 매장지 지도
+death and taxes necropolis map (atlas of worlds)|죽음과 의무 매장지 지도 (아틀라스의 세계)
+death and taxes necropolis map (the awakening)|죽음과 의무 매장지 지도 (각성)
+death and taxes necropolis map (legacy)|죽음과 의무 매장지 지도 (유산)
+doryani's machinarium maze map|도리아니의 기계실 미로 지도
+hall of grandmasters promenade map|명인의 전당 산책로 지도
+hall of grandmasters promenade map (atlas of worlds)|명인의 전당 산책로 지도 (아틀라스의 세계)
+hall of grandmasters promenade map (the awakening)|명인의 전당 산책로 지도 (각성)
+hall of grandmasters promenade map (legacy)|명인의 전당 산책로 지도 (유산)
+hallowed ground cemetery map|거룩한 대지 공동묘지 지도
+hallowed ground graveyard map (atlas of worlds)|거룩한 대지 묘지 지도 (아틀라스의 세계)
+infused beachhead harbinger map|주입된 교두보 선구자 지도
+maelström of chaos atoll map|혼돈의 마엘스트롬 산호섬 지도
+maelström of chaos atoll map (atlas of worlds)|혼돈의 마엘스트롬 산호섬 지도 (아틀라스의 세계)
+maelström of chaos atoll map (the awakening)|혼돈의 마엘스트롬 산호섬 지도 (각성)
+maelström of chaos atoll map (legacy)|혼돈의 마엘스트롬 산호섬 지도 (유산)
+mao kun shore map|마오 쿤 바닷가 지도
+mao kun reef map (atlas of worlds)|마오 쿤 암초 지도 (아틀라스의 세계)
+mao kun reef map (the awakening)|마오 쿤 암초 지도 (각성)
+mao kun reef map (legacy)|마오 쿤 암초 지도 (유산)
+oba's cursed trove primordial blocks map|오바의 저주받은 전리품 태고의 구역 지도
+oba's cursed trove underground sea map|오바의 저주받은 전리품 지하 해양 지도
+oba's cursed trove primordial blocks map (atlas of worlds)|오바의 저주받은 전리품 태고의 구역 지도 (아틀라스의 세계)
+oba's cursed trove primordial blocks map (the awakening)|오바의 저주받은 전리품 태고의 구역 지도 (각성)
+oba's cursed trove primordial blocks map (legacy)|오바의 저주받은 전리품 태고의 구역 지도 (유산)
+olmec's sanctum bone crypt map|올멕의 지성소 뼈 지하실 지도
+olmec's sanctum bone crypt map (atlas of worlds)|올멕의 지성소 뼈 지하실 지도 (아틀라스의 세계)
+olmec's sanctum bone crypt map (the awakening)|올멕의 지성소 뼈 지하실 지도 (각성)
+olmec's sanctum maze map (legacy)|올멕의 지성소 미로 지도 (유산)
+pillars of arun dunes map|아룬의 기둥 사구 지도
+poorjoy's asylum temple map|푸어조이의 은신처 사원 지도
+poorjoy's asylum temple map (atlas of worlds)|푸어조이의 은신처 사원 지도 (아틀라스의 세계)
+poorjoy's asylum temple map (the awakening)|푸어조이의 은신처 사원 지도 (각성)
+poorjoy's asylum temple map (legacy)|푸어조이의 은신처 사원 지도 (유산)
+replica cortex relic chambers map|코텍스 모조품 유물의 방 지도
+replica cortex synthesised map|코텍스 모조품 결합된 지도
+replica pillars of arun dunes map|아룬의 기둥 모조품 사구 지도
+replica poorjoy's asylum temple map|푸어조이의 은신처 모조품 사원 지도
+rewritten distant memory basilica map|다시 쓰인 희미한 기억 교회당 지도
+rewritten distant memory synthesised map|다시 쓰인 희미한 기억 결합된 지도
+the beachhead harbinger map|교두보 선구자 지도
+the beachhead harbinger map (atlas of worlds)|교두보 선구자 지도 (아틀라스의 세계)
+the coward's trial cursed crypt map|겁쟁이의 시험 저주받은 지하실 지도
+the coward's trial cursed crypt map (atlas of worlds)|겁쟁이의 시험 저주받은 지하실 지도 (아틀라스의 세계)
+the coward's trial cursed crypt map (the awakening)|겁쟁이의 시험 저주받은 지하실 지도 (각성)
+the coward's trial cursed crypt map (legacy)|겁쟁이의 시험 저주받은 지하실 지도 (유산)
+the perandus manor chateau map|페란두스 저택 대저택 지도
+the perandus manor chateau map (atlas of worlds)|페란두스 저택 대저택 지도 (아틀라스의 세계)
+the perandus manor chateau map (the awakening)|페란두스 저택 대저택 지도 (각성)
+the putrid cloister museum map|악취 나는 수도원 박물관 지도
+the putrid cloister museum map (atlas of worlds)|악취 나는 수도원 박물관 지도 (아틀라스의 세계)
+the tower of ordeals engraved ultimatum|시련의 탑 아로새긴 결전
+the twilight temple moon temple map|황혼의 사원 달의 사원 지도
+the vinktar square courtyard map|빙타 광장 안뜰 지도
+the vinktar square courtyard map (atlas of worlds)|빙타 광장 안뜰 지도 (아틀라스의 세계)
+the vinktar square courtyard map (the awakening)|빙타 광장 안뜰 지도 (각성)
+twisted distant memory park map|뒤틀린 희미한 기억 공원 지도
+twisted distant memory synthesised map|뒤틀린 희미한 기억 결합된 지도
+vaults of atziri vaal pyramid map|앗지리의 금고실 바알 피라미드 지도
+vaults of atziri vaal pyramid map (atlas of worlds)|앗지리의 금고실 바알 피라미드 지도 (아틀라스의 세계)
+vaults of atziri vaal pyramid map (the awakening)|앗지리의 금고실 바알 피라미드 지도 (각성)
+vaults of atziri vaal pyramid map (legacy)|앗지리의 금고실 바알 피라미드 지도 (유산)
+whakawairua tuahu strand map|와카와 투아후 해안 지도
+whakawairua tuahu strand map (atlas of worlds)|와카와 투아후 해안 지도 (아틀라스의 세계)
+whakawairua tuahu strand map (the awakening)|와카와 투아후 해안 지도 (각성)
+whakawairua tuahu strand map (legacy)|와카와 투아후 해안 지도 (유산)
+chronicle of atzoatl|앗조아틀의 연대기
+timeworn reliquary key|오래된 성유물 보관실 열쇠
+ancient reliquary key|고대의 성유물 보관실 열쇠
+simulacrum|복제된 영토
+chayula's breachstone|차율라의 균열석
+chayula's flawless breachstone|차율라의 결함 없는 균열석
+tul's breachstone|툴의 균열석
+tul's flawless breachstone|툴의 결함 없는 균열석
+xoph's breachstone|조프의 균열석
+xoph's flawless breachstone|조프의 결함 없는 균열석
+esh's breachstone|에쉬의 균열석
+esh's flawless breachstone|에쉬의 결함 없는 균열석
+uul-netol's breachstone|울네톨의 균열석
+uul-netol's flawless breachstone|울네톨의 결함 없는 균열석
+fragment of enslavement|조종의 조각
+fragment of eradication|박멸의 조각
+fragment of constriction|위압의 조각
+fragment of purification|정화의 조각
+divine vessel|성스러운 시험관
+sacred blossom|신성한 꽃
+timeless eternal emblem|무궁한 영원의 상징
+unrelenting timeless eternal emblem|가차없는 무궁한 영원의 상징
+timeless karui emblem|무궁한 카루이 상징
+unrelenting timeless karui emblem|가차없는 무궁한 카루이 상징
+timeless maraketh emblem|무궁한 마라케스 상징
+unrelenting timeless maraketh emblem|가차없는 무궁한 마라케스 상징
+timeless templar emblem|무궁한 템플러 상징
+unrelenting timeless templar emblem|가차없는 무궁한 템플러 상징
+timeless vaal emblem|무궁한 바알 상징
+unrelenting timeless vaal emblem|가차없는 무궁한 바알 상징
+the maven's writ|메이븐의 문서
+offering to the goddess|여신에게 바치는 공물
+dedication to the goddess|여신에게 바치는 헌신
+gift to the goddess|여신에게 바치는 선물
+tribute to the goddess|여신에게 바치는 제물
+eber's key|에버의 열쇠
+yriel's key|이리엘의 열쇠
+inya's key|이냐의 열쇠
+volkuur's key|볼쿠르의 열쇠
+fragment of the phoenix|불사조의 지도 조각
+fragment of the minotaur|미노타우로스의 지도 조각
+fragment of the chimera|키메라의 지도 조각
+fragment of the hydra|히드라의 지도 조각
+al-hezmin's crest|알-헤즈민의 문양
+baran's crest|바란의 문양
+drox's crest|드록스의 문양
+veritania's crest|베리타니아의 문양
+synthesising fragment|결합의 조각
+devouring fragment|포식의 조각
+blazing fragment|불길의 조각
+reality fragment|현실의 조각
+cosmic fragment|별나라의 조각
+awakening fragment|각성의 조각
+decaying fragment|쇠퇴의 조각
+fragment of terror|공포의 조각
+fragment of emptiness|허무의 조각
+fragment of shape|형성의 조각
+fragment of knowledge|지식의 조각
+sacrifice at midnight|심야의 희생
+sacrifice at dawn|새벽의 희생
+sacrifice at noon|정오의 희생
+sacrifice at dusk|황혼의 희생
+mortal rage|필멸의 격노
+mortal hope|필멸의 희망
+mortal ignorance|필멸의 무지
+mortal grief|필멸의 슬픔
+maven's invitation: the atlas|메이븐의 초대: 아틀라스
+incandescent invitation|백열하는 초대
+polaric invitation|극성의 초대
+screaming invitation|절규하는 초대
+writhing invitation|꿈틀거리는 초대
+an audience with the king|왕 알현
+blood-filled vessel|피 담긴 그릇
+visceral reliquary key|본능적인 성유물 보관실 열쇠
+shiny reliquary key|반짝이는 성유물 보관실 열쇠
+archive reliquary key|서고 성유물 보관실 열쇠
+cosmic reliquary key|우주의 성유물 보관실 열쇠
+oubliette reliquary key|지하 감옥 성유물 보관실 열쇠
+decaying reliquary key|부패하는 성유물 보관실 열쇠
+forgotten reliquary key|잊혀진 성유물 보관실 열쇠
+vaal reliquary key|바알 성유물 보관실 열쇠
+voidborn reliquary key|공허의 시초 성유물 보관실 열쇠
+rusted abyss scarab|녹슨 심연 갑충석
+polished abyss scarab|광택 나는 심연 갑충석
+gilded abyss scarab|도금된 심연 갑충석
+winged abyss scarab|날개 달린 심연 갑충석
+abyss scarab|심연 갑충석
+abyss scarab of multitudes|군중의 심연 갑충석
+abyss scarab of emptiness|허무의 심연 갑충석
+abyss scarab of edifice|건축물의 심연 갑충석
+abyss scarab of profound depth|심원한 깊이의 심연 갑충석
+anarchy scarab|혼란 갑충석
+anarchy scarab of gigantification|비대화의 혼란 갑충석
+anarchy scarab of partnership|협력의 혼란 갑충석
+rusted bestiary scarab|녹슨 야수 도감 갑충석
+polished bestiary scarab|광택 나는 야수 도감 갑충석
+gilded bestiary scarab|도금된 야수 도감 갑충석
+winged bestiary scarab|날개 달린 야수 도감 갑충석
+farric lure|페룰 루어
+saqawine lure|사카왈 루어
+fenumal lure|페누무스 루어
+craicic lure|크라칸 루어
+bestiary scarab|야수 도감 갑충석
+bestiary scarab of the herd|떼의 야수 도감 갑충석
+bestiary scarab of duplicating|복제의 야수 도감 갑충석
+bestiary scarab of the shadowed crow|그늘진 까마귀의 야수 도감 갑충석
+betrayal scarab|배신 갑충석
+betrayal scarab of intelligence|지능의 배신 갑충석
+betrayal scarab of reinforcements|보강의 배신 갑충석
+betrayal scarab of perpetuation|영속화의 배신 갑충석
+beyond scarab|이계 갑충석
+beyond scarab of corruption|타락의 이계 갑충석
+beyond scarab of haemophilia|혈우병의 이계 갑충석
+beyond scarab of resurgence|재기의 이계 갑충석
+beyond scarab of the invasion|침략의 이계 갑충석
+rusted blight scarab|녹슨 역병 갑충석
+polished blight scarab|광택 나는 역병 갑충석
+gilded blight scarab|도금된 역병 갑충석
+winged blight scarab|날개 달린 역병 갑충석
+blight scarab|역병 갑충석
+blight scarab of bounty|하사품의 역병 갑충석
+blight scarab of the blightheart|메마른 심장의 역병 갑충석
+blight scarab of blooming|개화의 역병 갑충석
+blight scarab of invigoration|고무의 역병 갑충석
+rusted breach scarab|녹슨 균열 갑충석
+polished breach scarab|광택 나는 균열 갑충석
+gilded breach scarab|도금된 균열 갑충석
+winged breach scarab|날개 달린 균열 갑충석
+breach scarab|균열 갑충석
+breach scarab of the dreamer|몽상가의 균열 갑충석
+breach scarab of lordship|지위의 균열 갑충석
+breach scarab of splintering|파편의 균열 갑충석
+breach scarab of snares|올가미의 균열 갑충석
+breach scarab of resonant cascade|공명하는 폭포의 균열 갑충석
+delirium scarab|환영 갑충석
+delirium scarab of mania|광증의 환영 갑충석
+delirium scarab of paranoia|편집증의 환영 갑충석
+delirium scarab of neuroses|신경증의 환영 갑충석
+delirium scarab of delusions|망상의 환영 갑충석
+rusted divination scarab|녹슨 점술 갑충석
+polished divination scarab|광택 나는 점술 갑충석
+gilded divination scarab|도금된 점술 갑충석
+winged divination scarab|날개 달린 점술 갑충석
+divination scarab of the cloister|회랑의 점술 갑충석
+divination scarab of plenty|풍부함의 점술 갑충석
+divination scarab of pilfering|훔쳐냄의 점술 갑충석
+domination scarab|지배 갑충석
+domination scarab of apparitions|유령의 지배 갑충석
+domination scarab of evolution|진화의 지배 갑충석
+domination scarab of terrors|공포의 지배 갑충석
+rusted elder scarab|녹슨 엘더 갑충석
+polished elder scarab|광택 나는 엘더 갑충석
+gilded elder scarab|도금된 엘더 갑충석
+winged elder scarab|날개 달린 엘더 갑충석
+essence scarab|에센스 갑충석
+essence scarab of ascent|상승의 에센스 갑충석
+essence scarab of stability|안정의 에센스 갑충석
+essence scarab of calcification|석회화의 에센스 갑충석
+essence scarab of adaptation|적응의 에센스 갑충석
+expedition scarab|탐험 갑충석
+expedition scarab of runefinding|룬 탐색의 탐험 갑충석
+expedition scarab of verisium powder|베리시움 화약의 탐험 갑충석
+expedition scarab of the skald|시인의 탐험 갑충석
+expedition scarab of archaeology|고고학의 탐험 갑충석
+rusted harbinger scarab|녹슨 선구자 갑충석
+polished harbinger scarab|광택 나는 선구자 갑충석
+gilded harbinger scarab|도금된 선구자 갑충석
+winged harbinger scarab|날개 달린 선구자 갑충석
+harbinger scarab|선구자 갑충석
+harbinger scarab of obelisks|오벨리스크의 선구자 갑충석
+harbinger scarab of regency|섭정의 선구자 갑충석
+harbinger scarab of warhoards|전쟁비축물의 선구자 갑충석
+harvest scarab|수확 갑충석
+harvest scarab of doubling|복제의 수확 갑충석
+harvest scarab of cornucopia|풍요의 뿔의 수확 갑충석
+incursion scarab|기습 갑충석
+incursion scarab of invasion|침략의 기습 갑충석
+incursion scarab of champions|용사의 기습 갑충석
+incursion scarab of timelines|시간선의 기습 갑충석
+influencing scarab of the shaper|쉐이퍼의 영향력 갑충석
+influencing scarab of the elder|엘더의 영향력 갑충석
+influencing scarab of hordes|군단의 영향력 갑충석
+influencing scarab of conversion|전향의 영향력 갑충석
+rusted legion scarab|녹슨 군단 갑충석
+polished legion scarab|광택 나는 군단 갑충석
+gilded legion scarab|도금된 군단 갑충석
+winged legion scarab|날개 달린 군단 갑충석
+legion scarab|군단 갑충석
+legion scarab of officers|장교의 군단 갑충석
+legion scarab of command|지휘의 군단 갑충석
+legion scarab of the sekhema|세케마의 군단 갑충석
+legion scarab of eternal conflict|영원한 분쟁의 군단 갑충석
+rusted cartography scarab|녹슨 지도 제작 갑충석
+polished cartography scarab|광택 나는 지도 제작 갑충석
+gilded cartography scarab|도금된 지도 제작 갑충석
+winged cartography scarab|날개 달린 지도 제작 갑충석
+cartography scarab of escalation|증대의 지도 제작 갑충석
+cartography scarab of risk|위험의 지도 제작 갑충석
+cartography scarab of singularity|특이점의 지도 제작 갑충석
+cartography scarab of corruption|타락의 지도 제작 갑충석
+cartography scarab of the multitude|군중의 지도 제작 갑충석
+rusted ultimatum scarab|녹슨 결전 갑충석
+polished ultimatum scarab|광택 나는 결전 갑충석
+gilded ultimatum scarab|도금된 결전 갑충석
+winged ultimatum scarab|날개 달린 결전 갑충석
+scarab of monstrous lineage|기괴한 혈통의 갑충석
+scarab of radiant storms|찬란한 폭풍의 갑충석
+scarab of adversaries|적수의 갑충석
+scarab of divinity|신성의 갑충석
+scarab of hunted traitors|쫓기는 배신자의 갑충석
+scarab of stability|안정의 갑충석
+scarab of wisps|도깨비불의 갑충석
+scarab of bisection|양단의 갑충석
+rusted expedition scarab|녹슨 탐험 갑충석
+polished expedition scarab|광택 나는 탐험 갑충석
+gilded expedition scarab|도금된 탐험 갑충석
+winged expedition scarab|날개 달린 탐험 갑충석
+ritual scarab of selectiveness|선택의 의식 갑충석
+ritual scarab of wisps|도깨비불의 의식 갑충석
+ritual scarab of abundance|풍부함의 의식 갑충석
+rusted shaper scarab|녹슨 쉐이퍼 갑충석
+polished shaper scarab|광택 나는 쉐이퍼 갑충석
+gilded shaper scarab|도금된 쉐이퍼 갑충석
+winged shaper scarab|날개 달린 쉐이퍼 갑충석
+rusted ambush scarab|녹슨 매복 갑충석
+polished ambush scarab|광택 나는 매복 갑충석
+gilded ambush scarab|도금된 매복 갑충석
+winged ambush scarab|날개 달린 매복 갑충석
+ambush scarab|매복 갑충석
+ambush scarab of hidden compartments|비밀 공간의 매복 갑충석
+ambush scarab of potency|잠재력의 매복 갑충석
+ambush scarab of containment|봉쇄의 매복 갑충석
+ambush scarab of discernment|분별의 매복 갑충석
+rusted sulphite scarab|녹슨 아황산염 갑충석
+polished sulphite scarab|광택 나는 아황산염 갑충석
+gilded sulphite scarab|도금된 아황산염 갑충석
+winged sulphite scarab|날개 달린 아황산염 갑충석
+sulphite scarab|아황산염 갑충석
+sulphite scarab of greed|탐욕의 아황산염 갑충석
+sulphite scarab of fumes|연기의 아황산염 갑충석
+rusted torment scarab|녹슨 고통 갑충석
+polished torment scarab|광택 나는 고통 갑충석
+gilded torment scarab|도금된 고통 갑충석
+winged torment scarab|날개 달린 고통 갑충석
+torment scarab|고통 갑충석
+torment scarab of peculiarity|기이함의 고통 갑충석
+torment scarab of release|해방의 고통 갑충석
+torment scarab of possession|사로잡힘의 고통 갑충석
+horned scarab of bloodlines|혈맹의 뿔 달린 갑충석
+horned scarab of nemeses|천벌의 뿔 달린 갑충석
+horned scarab of preservation|보전의 뿔 달린 갑충석
+horned scarab of awakening|각성의 뿔 달린 갑충석
+horned scarab of tradition|전통의 뿔 달린 갑충석
+horned scarab of glittering|번쩍임의 뿔 달린 갑충석
+horned scarab of pandemonium|혼란 유발의 뿔 달린 갑충석
+ultimatum scarab|결전 갑충석
+ultimatum scarab of bribing|매수의 결전 갑충석
+ultimatum scarab of dueling|결투의 결전 갑충석
+ultimatum scarab of catalysing|기폭의 결전 갑충석
+ultimatum scarab of inscription|새김의 결전 갑충석
+rusted reliquary scarab|녹슨 성유물 보관실 갑충석
+polished reliquary scarab|광택 나는 성유물 보관실 갑충석
+gilded reliquary scarab|도금된 성유물 보관실 갑충석
+winged reliquary scarab|날개 달린 성유물 보관실 갑충석
+titanic scarab|거대한 갑충석
+titanic scarab of treasures|보물의 거대한 갑충석
+titanic scarab of legend|전설의 거대한 갑충석
+inscribed ultimatum|새겨진 결전
+abomination map|흉물 지도
+academy map|학술원 지도
+acid caverns map|산성 암굴 지도
+alleyways map|골목길 지도
+ancient city map|고대 도시 지도
+arachnid nest map|거미류 둥지 지도
+arachnid tomb map|거미류 무덤 지도
+arcade map|상점가 지도
+arena map|투기장 지도
+arid lake map|메마른 호수 지도
+armoury map|갑주 창고 지도
+arsenal map|병기창 지도
+ashen wood map|잿빛 숲 지도
+atoll map|산호섬 지도
+barrows map|고분 지도
+basilica map|교회당 지도
+bazaar map|장터 지도
+beach map|해변 지도
+belfry map|종탑 지도
+bog map|습지대 지도
+bone crypt map|뼈 지하실 지도
+bramble valley map|가시나무 계곡 지도
+burial chambers map|묘실 지도
+cage map|창살 지도
+caldera map|칼데라 지도
+canyon map|협곡 지도
+carcass map|시체 지도
+castle ruins map|성곽 유적 지도
+cells map|감방 지도
+cemetery map|공동묘지 지도
+channel map|물길 지도
+chateau map|대저택 지도
+pit of the chimera map|키메라의 구덩이 지도
+citadel map|성채 지도
+city square map|도시 광장 지도
+cold river map|차가운 강 지도
+colonnade map|가로수 지도
+colosseum map|원형 경기장 지도
+conservatory map|온실 지도
+coral ruins map|산호 유적 지도
+core map|중심부 지도
+courthouse map|법원 지도
+courtyard map|안뜰 지도
+coves map|만 지도
+crimson temple map|진홍색 사원 지도
+crimson township map|진홍색 마을 지도
+crystal ore map|수정 광석 지도
+cursed crypt map|저주받은 지하실 지도
+dark forest map|어둠의 숲 지도
+defiled cathedral map|더럽혀진 대성당 지도
+desert map|사막 지도
+desert spring map|사막의 샘 지도
+dig map|발굴지 지도
+dry sea map|메마른 바다 지도
+dunes map|사구 지도
+dungeon map|던전 지도
+estuary map|강어귀 지도
+excavation map|발굴터 지도
+factory map|공장 지도
+fields map|들판 지도
+flooded mine map|물에 잠긴 광산 지도
+forbidden woods map|금단의 숲 지도
+forking river map|갈라지는 강 지도
+fortress map|요새 지도
+foundry map|주조소 지도
+frozen cabins map|얼어붙은 오막 지도
+gardens map|정원 지도
+geode map|정동석 지도
+ghetto map|빈민촌 지도
+glacier map|빙하 지도
+grave trough map|무덤 고랑 지도
+graveyard map|묘지 지도
+grotto map|석굴 지도
+harbinger map|선구자 지도
+haunted mansion map|으스스한 대저택 지도
+lair of the hydra map|히드라의 소굴 지도
+iceberg map|빙산 지도
+infested valley map|감염된 계곡 지도
+ivory temple map|상아 사원 지도
+jungle valley map|밀림 계곡 지도
+laboratory map|실험실 지도
+lair map|소굴 지도
+lava chamber map|용암의 방 지도
+lava lake map|용암 호수 지도
+leyline map|지맥 지도
+lighthouse map|등대 지도
+lookout map|전망대 지도
+malformation map|기형 지도
+marshes map|습지 지도
+mausoleum map|능묘 지도
+maze map|미로 지도
+mesa map|메사 지도
+mineral pools map|광물층 지도
+maze of the minotaur map|미노타우로스의 미로 지도
+moon temple map|달의 사원 지도
+mud geyser map|진흙 간헐천 지도
+museum map|박물관 지도
+necropolis map|매장지 지도
+orchard map|과수원 지도
+overgrown ruin map|무성한 유적 지도
+overgrown shrine map|무성한 성소 지도
+palace map|궁전 지도
+park map|공원 지도
+pen map|우리 지도
+peninsula map|반도 지도
+phantasmagoria map|환영 지도
+forge of the phoenix map|불사조의 대장간 지도
+pier map|선창 지도
+pit map|구덩이 지도
+plateau map|고원 지도
+plaza map|광장 지도
+port map|항만 지도
+precinct map|구획 지도
+primordial pool map|태고의 웅덩이 지도
+promenade map|산책로 지도
+racecourse map|경주장 지도
+ramparts map|성벽 지도
+reef map|암초 지도
+relic chambers map|유물의 방 지도
+residence map|주택 지도
+sanctuary map|성역 지도
+scriptorium map|필사실 지도
+sepulchre map|매장소 지도
+shipyard map|조선소 지도
+shore map|바닷가 지도
+shrine map|성소 지도
+siege map|공성 지도
+silo map|곡물 창고 지도
+spider forest map|거미 숲 지도
+spider lair map|거미 소굴 지도
+fungal hollow map|곰팡이 동혈 지도
+stagnation map|침체지 지도
+strand map|해안 지도
+sulphur vents map|유황 분출구 지도
+summit map|꼭대기 지도
+sunken city map|물에 잠긴 도시 지도
+synthesised map|결합된 지도
+temple map|사원 지도
+terrace map|테라스 지도
+thicket map|잡목림 지도
+primordial blocks map|태고의 구역 지도
+tower map|탑 지도
+toxic sewer map|맹독성 하수도 지도
+engraved ultimatum|아로새긴 결전
+crater map|분화구 지도
+tropical island map|열대 섬 지도
+underground river map|지하 강 지도
+underground sea map|지하 해양 지도
+vaal pyramid map|바알 피라미드 지도
+vaal temple map|바알 사원 지도
+vault map|금고실 지도
+villa map|빌라 지도
+volcano map|화산 지도
+wasteland map|황무지 지도
+waste pool map|황폐한 웅덩이 지도
+waterways map|수로 지도
+wharf map|부두 지도
+ziggurat map|지구라트 지도
+shaped academy map|쉐이퍼 학술원 지도
+shaped acid caverns map|쉐이퍼 산성 암굴 지도
+shaped arachnid nest map|쉐이퍼 거미류 둥지 지도
+shaped arachnid tomb map|쉐이퍼 거미류 무덤 지도
+shaped arcade map|쉐이퍼 상점가 지도
+shaped arena map|쉐이퍼 투기장 지도
+shaped arid lake map|쉐이퍼 메마른 호수 지도
+shaped armoury map|쉐이퍼 갑주 창고 지도
+shaped arsenal map|쉐이퍼 병기창 지도
+shaped atoll map|쉐이퍼 산호섬 지도
+shaped barrows map|쉐이퍼 고분 지도
+shaped beach map|쉐이퍼 해변 지도
+shaped bog map|쉐이퍼 습지대 지도
+shaped burial chambers map|쉐이퍼 묘실 지도
+shaped canyon map|쉐이퍼 협곡 지도
+shaped castle ruins map|쉐이퍼 성곽 유적 지도
+shaped bone crypt map|쉐이퍼 뼈 지하실 지도
+shaped flooded mine map|쉐이퍼 물에 잠긴 광산 지도
+shaped cells map|쉐이퍼 감방 지도
+shaped cemetery map|쉐이퍼 공동묘지 지도
+shaped channel map|쉐이퍼 물길 지도
+shaped colonnade map|쉐이퍼 가로수 지도
+shaped courtyard map|쉐이퍼 안뜰 지도
+shaped coves map|쉐이퍼 만 지도
+shaped cursed crypt map|쉐이퍼 저주받은 지하실 지도
+shaped crystal ore map|쉐이퍼 수정 광석 지도
+shaped desert map|쉐이퍼 사막 지도
+shaped peninsula map|쉐이퍼 반도 지도
+shaped ashen wood map|쉐이퍼 잿빛 숲 지도
+shaped dunes map|쉐이퍼 사구 지도
+shaped dungeon map|쉐이퍼 던전 지도
+shaped factory map|쉐이퍼 공장 지도
+shaped ghetto map|쉐이퍼 빈민촌 지도
+shaped graveyard map|쉐이퍼 묘지 지도
+shaped grotto map|쉐이퍼 석굴 지도
+shaped jungle valley map|쉐이퍼 밀림 계곡 지도
+shaped malformation map|쉐이퍼 기형 지도
+shaped marshes map|쉐이퍼 습지 지도
+shaped mesa map|쉐이퍼 메사 지도
+shaped mud geyser map|쉐이퍼 진흙 간헐천 지도
+shaped museum map|쉐이퍼 박물관 지도
+shaped desert spring map|쉐이퍼 사막의 샘 지도
+shaped orchard map|쉐이퍼 과수원 지도
+shaped overgrown shrine map|쉐이퍼 무성한 성소 지도
+shaped phantasmagoria map|쉐이퍼 환영 지도
+shaped pier map|쉐이퍼 선창 지도
+shaped pit map|쉐이퍼 구덩이 지도
+shaped primordial pool map|쉐이퍼 태고의 웅덩이 지도
+shaped promenade map|쉐이퍼 산책로 지도
+shaped geode map|쉐이퍼 정동석 지도
+shaped port map|쉐이퍼 항만 지도
+shaped racecourse map|쉐이퍼 경주장 지도
+shaped ramparts map|쉐이퍼 성벽 지도
+shaped reef map|쉐이퍼 암초 지도
+shaped toxic sewer map|쉐이퍼 맹독성 하수도 지도
+shaped shore map|쉐이퍼 바닷가 지도
+shaped spider forest map|쉐이퍼 거미 숲 지도
+shaped spider lair map|쉐이퍼 거미 소굴 지도
+shaped strand map|쉐이퍼 해안 지도
+shaped temple map|쉐이퍼 사원 지도
+shaped gardens map|쉐이퍼 정원 지도
+shaped thicket map|쉐이퍼 잡목림 지도
+shaped tower map|쉐이퍼 탑 지도
+shaped tropical island map|쉐이퍼 열대 섬 지도
+shaped underground river map|쉐이퍼 지하 강 지도
+shaped ancient city map|쉐이퍼 고대 도시 지도
+shaped vaal pyramid map|쉐이퍼 바알 피라미드 지도
+shaped villa map|쉐이퍼 빌라 지도
+shaped waste pool map|쉐이퍼 황폐한 웅덩이 지도
+shaped wharf map|쉐이퍼 부두 지도
+abberath's horn|아버라스의 뿔
+actum|액툼
+advancing fortress|전진하는 요새
+agnerod|아그네로드
+agnerod east|동쪽의 아그네로드
+agnerod north|북쪽의 아그네로드
+agnerod south|남쪽의 아그네로드
+agnerod west|서쪽의 아그네로드
+ahn's might|안의 완력
+al dhih|알 디
+allure|매혹
+amplification rod|증폭 막대
+apep's rage|아펩의 격노
+arakaali's fang|아라칼리의 송곳니
+arborix|아보릭스
+ashcaller|재 소환사
+ashes of the sun|태양의 재
+atziri's disfavour|앗지리의 경멸
+atziri's rule|앗지리의 통치
+augyre|오귀르
+aurumvorax|금빛 욕망
+axiom perpetuum|액시옴의 무기징역
+balefire|대화재
+beltimber blade|벨팀버 검
+bino's kitchen knife|비노의 부엌칼
+bitterdream|악몽
+blood of summer|여름날의 피
+bloodplay|피의 오락
+bloodseeker|피의 탐색자
+brain rattler|요동치는 두뇌
+breath of the council|의회의 숨결
+brightbeak|밝은 부리
+brutus' lead sprinkler|브루투스의 리드 스프링클러
+callinellus malleus|집게발 쇠망치
+cameria's avarice|카메리아의 탐욕
+cameria's maul|카메리아의 대형 망치
+cane of kulemak|쿨레막의 지팡이
+cane of unravelling|해결의 지팡이
+cerberus limb|케르베로스의 발
+chaber cairn|차버 케른
+chin sol|친 솔
+chitus' needle|치투스의 바늘
+chober chaber|초버 차버
+clayshaper|클레이쉐이퍼
+cold iron point|날붙이 끝
+corona solaris|솔라리스의 광환
+cospri's malice|코스프리의 장난
+cybil's paw|시빌의 발
+daresso's passion|다레소의 열정
+darkscorn|어두운 냉소
+death's hand|죽음의 손길
+death's harp|죽음의 하프
+death's opus|죽음의 작품
+debeon's dirge|데비온의 장승곡
+demigod's authority|반신의 권위
+disintegrator|파쇄자
+divinarius|디비나리우스
+doomfletch|죽음의 깃
+doomfletch's prism|죽음의 깃의 분광기
+doomsower|멸망 유발자
+doon cuebiyari|둔 큐비야리
+doryani's catalyst|도리아니의 기폭제
+dreadarc|접근하는 공포
+dreadbeak|공포의 부리
+dreadsurge|밀려드는 공포
+dreamfeather|꿈의 깃털
+duskdawn|황혼의 아침
+dyadus|디아두스
+dying breath|죽어가는 숨결
+earendel's embrace|에아렌델의 포옹
+echoforge|메아리의 탄생
+eclipse solaris|솔라리스의 쇠퇴
+edge of madness|광기의 칼날
+ephemeral edge|덧없는 칼날
+essentia sanguis|피의 정수
+ewar's mirage|이워의 신기루
+fate of the vaal|바알의 운명
+femurs of the saints|성자의 대퇴골
+fencoil|늪 감긴 가지
+fidelitas' spike|피델리타스의 가시
+flesh-eater|식인종
+fragment of eternity|영원의 조각
+frostbreath|서리 숨결
+geofri's baptism|조프리의 세례
+geofri's devotion|조프리의 헌신
+goblinedge|고블린날
+gorebreaker|유혈 분쇄기
+goredrill|유혈 관통
+grace of the goddess|여신의 은총
+grelwood shank|그렐나무 자루
+hand of thought and motion|사고와 움직임의 손아귀
+hand of wisdom and action|지혜와 행동의 손아귀
+heartbreaker|심장 분쇄기
+hegemony's era|패권의 시대
+hezmana's bloodlust|헤즈마나의 유혈 충동
+hiltless|고통의 검
+hopeshredder|희망 종결자
+hrimnor's dirge|흐림노르의 만가
+hrimnor's hymn|흐림노르의 찬가
+hyaon's fury|하야온의 광분
+ichimonji|이치몬지
+infractem|침범자
+innsbury edge|인스뷰리 칼날
+iron commander|철의 지휘관
+izaro's dilemma|이자로의 난제
+jack, the axe|도끼마 잭
+jorrhast's blacksteel|요르하스트의 강철
+kaom's primacy|카옴의 탁월함
+kingmaker|실세
+kitava's feast|키타바의 연회
+kondo's pride|콘도의 자부심
+kongor's undying rage|콩고르의 끝없는 격노
+lakishu's blade|라키슈의 검
+last resort|최후의 수단
+lavianga's wisdom|라비앙가의 지혜
+law of the wilds|황야의 법칙
+lifesprig|생명의 가지
+limbsplit|사지 분할기
+lioneye's glare|라이온아이의 섬광
+maata's teaching|마아타의 가르침
+mark of the doubting knight|불안한 기사의 징표
+marohi erqi|마로히 에르키
+martyr of innocence|결백한 순교자
+midnight bargain|심야의 교섭
+mightflay|강력한 가죽칼
+mirebough|늪 가지
+mjölner|묠니르
+mon'tregul's grasp|몬트레굴의 장악
+moonbender's wing|달을 구부리는 자의 날개
+moonsorrow|달의 슬픔
+mortem morsu|고통스러운 죽음
+nametaker|이름강탈자
+nebulis|성운
+nebuloch|네뷸록
+ngamahu's flame|나마후의 불꽃
+null's inclination|몰살 의지
+nuro's harp|누로의 하프
+nycta's lantern|닉타의 등불
+obliteration|말살
+oni-goroshi|오니고로시
+ornament of the east|동방의 장신구
+oro's sacrifice|오로의 희생
+panquetzaliztli|판케찰리스틀리
+paradoxica|모순
+pillar of the caged god|갇힌 신의 기둥
+piscator's vigil|피스카토의 기도
+pledge of hands|손으로 맺은 서약
+prismatic eclipse|분광 월식
+quecholli|퀘촐리
+queen's decree|여왕의 법령
+queen's escape|여왕의 탈주
+quill rain|화살 비
+rakiata's dance|라키아타의 춤
+razor of the seventh sun|날카로운 일곱 번째 태양
+reach of the council|의회의 역량
+realm ender|종결자
+realmshaper|영역 형성자
+reaper's pursuit|수확자의 추적
+rebuke of the vaal|바알의 질책
+redbeak|붉은 부리
+reefbane|암초의 파멸
+relentless fury|맹렬한 광분
+relic of the cycle|순환의 유물
+relic of the pact|맹약의 유물
+replica advancing fortress|전진하는 요새 모조품
+replica allure|매혹 모조품
+replica bitterdream|악몽 모조품
+replica bloodplay|피의 오락 모조품
+replica blood thorn|피의 가시 모조품
+replica cold iron point|날붙이 끝 모조품
+replica dreamfeather|꿈의 깃털 모조품
+replica duskdawn|황혼의 아침 모조품
+replica earendel's embrace|에아렌델의 포옹 모조품
+replica fencoil|늪 감긴 가지 모조품
+replica frostbreath|서리 숨결 모조품
+replica harvest|수확 모조품
+replica heartbreaker|심장 분쇄기 모조품
+replica infractem|침범자 모조품
+replica innsbury edge|인스뷰리 칼날 모조품
+replica iron commander|철의 지휘관 모조품
+replica kongor's undying rage|콩고르의 끝없는 격노 모조품
+replica last resort|최후의 수단 모조품
+replica midnight bargain|심야의 교섭 모조품
+replica nebulis|성운 모조품
+replica oro's sacrifice|오로의 희생 모조품
+replica paradoxica|모순 모조품
+replica quill rain|화살 비 모조품
+replica soul taker|영혼 수확자 모조품
+replica tempestuous steel|격렬한 강철 모조품
+replica trypanon|트리파논 모조품
+replica tulfall|툴의 몰락 모조품
+replica twyzel|트위즐 모조품
+replica ungil's gauche|웅힐의 투박함 모조품
+replica windripper|윈드리퍼 모조품
+replica wings of entropy|엔트로피의 날개 모조품
+reverberation rod|울림의 막대
+rigwald's charge|리그월드의 돌진
+rigwald's command|리그월드의 명령
+rigwald's savagery|리그월드의 야만
+rive|리브
+roth's reach|로스의 역량
+rust of winter|부패한 겨울
+sanguine gambol|핏빛 장난
+scaeva|스카이바
+scar of fate|운명의 흉터
+serle's masterwork|세를의 걸작
+severed in sleep|야습
+shade of solaris|솔라리스의 그늘
+shimmeron|쉬머론
+shiversting|오한의 검
+sign of the sin eater|죄악을 먹는 자의 흔적
+silverbough|은빛 나뭇가지
+silverbranch|은빛 가지
+singularity|중력 붕괴
+sinvicta's mettle|신빅타의 패기
+sire of shards|파편의 영주
+slivertongue|슬리버텅
+song of the sirens|사이렌의 노래
+soul taker|영혼 수확자
+soulwrest|영혼 착취
+spine of the first claimant|최초 선구자의 척추
+splinter of the moon|달의 파편
+starforge|별의 탄생
+storm cloud|태풍 구름
+storm prison|태풍 감옥
+story of the vaal|바알의 사연
+taproot|흡혈 뿌리
+taryn's shiver|타린의 오한
+tawhoa's felling|타호아의 벌채
+terminus est|다가온 최후
+the annihilating light|절멸의 빛
+the black cane|검은 지팡이
+the blood reaper|피의 수확자
+the blood thorn|피의 가시
+the burden of shadows|그림자의 짐
+the cauteriser|소각로
+the consuming dark|타들어 가는 어둠
+the crimson storm|진홍색 태풍
+the dancing dervish|춤추는 수도승
+the dancing duo|춤추는 한 쌍
+the dark seer|어둠 예견자
+the enmity divine|증오의 신
+the fulcrum|버팀대
+the geomantic gyre|대지술 선회
+the gluttonous tide|걸신들린 파도
+the goddess bound|속박된 여신
+the goddess scorned|경멸받는 여신
+the goddess unleashed|해방된 여신
+the grey spire|회색 가지
+the gryphon|그리폰
+the harvest|수확
+the hidden blade|숨겨진 칼날
+the iron mass|철제 운집
+the living blade|살아있는 칼날
+the poet's pen|시인의 펜
+the princess|공주
+the redblade|적검
+the rippling thoughts|퍼져나가는 생각
+the saviour|구원자
+the scourge|재앙
+the screaming eagle|울부짖는 독수리
+the searing touch|이글거리는 손길
+the stormheart|태풍의 눈
+the stormwall|태풍의 장벽
+the supreme truth|지고의 진리
+the surging thoughts|쇄도하는 생각
+the tempest|폭풍
+the tempestuous steel|격렬한 강철
+the wasp nest|말벌의 독침
+the whispering ice|속삭이는 얼음
+the winds of fate|숙명의 바람
+the yielding mortality|누그러진 필멸성
+thunder of the dawn|새벽의 천둥
+tidebreaker|물결 분쇄기
+tipua kaikohuru|티푸아 카이코후루
+touch of anguish|비통의 손길
+tremor rod|전율의 막대
+trypanon|트리파논
+tulborn|툴의 탄생
+tulfall|툴의 몰락
+twyzel|트위즐
+ungil's gauche|웅힐의 투박함
+united in dream|꿈속의 연합
+uul-netol's embrace|울네톨의 포옹
+uul-netol's kiss|울네톨의 입맞춤
+varunastra|바루나스트라
+vestige of divinity|신성의 자취
+void battery|공허 충전기
+voidforge|공허의 탄생
+voidhome|공허한 고향
+voltaxic rift|전도성 균열
+vulconus|불커누스
+white wind|눈바람
+wideswing|넓은 자루 도끼
+widowhail|과부우박
+widowmaker|위도우메이커
+wildslash|거친 베기
+windripper|윈드리퍼
+wings of entropy|엔트로피의 날개
+witchhunter's judgment|마녀 사냥꾼의 심판
+xirgil's crank|저글의 손잡이
+xoph's inception|조프의 시초
+xoph's nurture|조프의 보살핌
+yaomac's accord|야오맥의 합의
+abberath's horn goat's horn|아버라스의 뿔 염소의 뿔
+actum butcher axe|액툼 도살자 도끼
+advancing fortress gut ripper|전진하는 요새 내장 거열기
+agnerod imperial staff|아그네로드 제국 지팡이
+agnerod east imperial staff|동쪽의 아그네로드 제국 지팡이
+agnerod north imperial staff|북쪽의 아그네로드 제국 지팡이
+agnerod south imperial staff|남쪽의 아그네로드 제국 지팡이
+agnerod west imperial staff|서쪽의 아그네로드 제국 지팡이
+ahn's might midnight blade|안의 완력 심야의 칼날
+al dhih timeworn claw|알 디 오래된 클로
+allure vaal claw|매혹 바알 클로
+amplification rod spiraled wand|증폭 막대 나선형 마법봉
+apep's rage opal wand|아펩의 격노 오팔 마법봉
+apep's rage omen wand|아펩의 격노 전조의 마법봉
+arakaali's fang fiend dagger|아라칼리의 송곳니 마귀 단검
+arborix assassin bow|아보릭스 암살자 활
+ashcaller quartz wand|재 소환사 석영 마법봉
+ashcaller carved wand|재 소환사 조각된 마법봉
+ashes of the sun driftwood club|태양의 재 표류목 곤봉
+atziri's disfavour vaal axe|앗지리의 경멸 바알 도끼
+atziri's rule judgement staff|앗지리의 통치 심판 지팡이
+augyre void sceptre|오귀르 공허의 셉터
+aurumvorax basket rapier|금빛 욕망 손보호구 레이피어
+axiom perpetuum bronze sceptre|액시옴의 무기징역 청동 셉터
+balefire opal sceptre|대화재 오팔 셉터
+beltimber blade eternal sword|벨팀버 검 영원의 검
+bino's kitchen knife slaughter knife|비노의 부엌칼 살육 단도
+bitterdream shadow sceptre|악몽 그림자 셉터
+blood of summer rusted sword|여름날의 피 녹슨 검
+bloodplay stiletto|피의 오락 스틸레토
+bloodseeker hellion's paw|피의 탐색자 헬리온의 발
+brain rattler meatgrinder|요동치는 두뇌 고기 갈이개
+breath of the council carnal sceptre|의회의 숨결 육욕의 셉터
+brightbeak war hammer|밝은 부리 전쟁 망치
+brutus' lead sprinkler ritual sceptre|브루투스의 리드 스프링클러 의식용 셉터
+callinellus malleus auric mace|집게발 쇠망치 금빛 철퇴
+cameria's avarice gavel|카메리아의 탐욕 의사봉
+cameria's maul gavel|카메리아의 대형 망치 의사봉
+cane of kulemak serpentine staff|쿨레막의 지팡이 사문석 지팡이
+cane of unravelling ezomyte staff|해결의 지팡이 에조미어 지팡이
+cerberus limb blood sceptre|케르베로스의 발 피의 셉터
+chaber cairn great mallet|차버 케른 대형 나무 망치
+chin sol assassin bow|친 솔 암살자 활
+chitus' needle elegant foil|치투스의 바늘 고상한 펜싱 검
+chober chaber great mallet|초버 차버 대형 나무 망치
+clayshaper rock breaker|클레이쉐이퍼 바위 분쇄기
+cold iron point ezomyte dagger|날붙이 끝 에조미어 단검
+corona solaris crystal wand|솔라리스의 광환 수정 마법봉
+cospri's malice jewelled foil|코스프리의 장난 보석이 박힌 펜싱 검
+cybil's paw thresher claw|시빌의 발 도리깨 클로
+daresso's passion estoc|다레소의 열정 에스톡
+darkscorn assassin bow|어두운 냉소 암살자 활
+death's hand karui sceptre|죽음의 손길 카루이 셉터
+death's harp death bow|죽음의 하프 죽음의 활
+death's opus death bow|죽음의 작품 죽음의 활
+debeon's dirge despot axe|데비온의 장승곡 절대군주 도끼
+demigod's authority golden blade|반신의 권위 황금 검
+disintegrator maelström staff|파쇄자 마엘스트롬 지팡이
+divinarius imperial skean|디비나리우스 제국 양날 단검
+doomfletch royal bow|죽음의 깃 왕실 활
+doomfletch's prism royal bow|죽음의 깃의 분광기 왕실 활
+doomsower lion sword|멸망 유발자 사자 검
+doon cuebiyari vaal sceptre|둔 큐비야리 바알 셉터
+doryani's catalyst vaal sceptre|도리아니의 기폭제 바알 셉터
+dreadarc cleaver|접근하는 공포 가로날도끼
+dreadbeak rusted sword|공포의 부리 녹슨 검
+dreadsurge cleaver|밀려드는 공포 가로날도끼
+dreamfeather eternal sword|꿈의 깃털 영원의 검
+duskdawn maelström staff|황혼의 아침 마엘스트롬 지팡이
+dyadus infernal axe|디아두스 지옥불 도끼
+dying breath iron staff|죽어가는 숨결 철제 지팡이
+dying breath coiled staff|죽어가는 숨결 코일형 지팡이
+earendel's embrace grinning fetish|에아렌델의 포옹 웃는 조각상 홀
+echoforge infernal sword|메아리의 탄생 지옥불 검
+eclipse solaris engraved wand|솔라리스의 쇠퇴 아로새긴 마법봉
+eclipse solaris crystal wand|솔라리스의 쇠퇴 수정 마법봉
+edge of madness etched greatsword|광기의 칼날 조각된 대검
+ephemeral edge dusk blade|덧없는 칼날 황혼의 검
+essentia sanguis vaal claw|피의 정수 바알 클로
+essentia sanguis eye gouger|피의 정수 눈 후비개
+ewar's mirage antique rapier|이워의 신기루 앤티크 레이피어
+fate of the vaal gemstone sword|바알의 운명 원석 검
+femurs of the saints primordial staff|성자의 대퇴골 태고의 지팡이
+fencoil gnarled branch|늪 감긴 가지 울퉁불퉁한 나뭇가지
+fidelitas' spike jagged foil|피델리타스의 가시 삐죽삐죽한 펜싱 검
+flesh-eater dream mace|식인종 몽환의 철퇴
+fragment of eternity glass shank|영원의 조각 유리 단도
+frostbreath ornate mace|서리 숨결 화려한 철퇴
+geofri's baptism brass maul|조프리의 세례 황동 대형 망치
+geofri's devotion brass maul|조프리의 헌신 황동 대형 망치
+goblinedge ambusher|고블린날 매복자
+gorebreaker spiked club|유혈 분쇄기 가시 박힌 곤봉
+goredrill skinning knife|유혈 관통 무두질용 단도
+grace of the goddess prophecy wand|여신의 은총 예언 마법봉
+grelwood shank eternal sword|그렐나무 자루 영원의 검
+hand of thought and motion imperial claw|사고와 움직임의 손아귀 제국 클로
+hand of thought and motion blinder|사고와 움직임의 손아귀 실명기
+hand of wisdom and action imperial claw|지혜와 행동의 손아귀 제국 클로
+heartbreaker royal skean|심장 분쇄기 왕실 양날 단검
+hegemony's era judgement staff|패권의 시대 심판 지팡이
+hezmana's bloodlust vaal axe|헤즈마나의 유혈 충동 바알 도끼
+hiltless reaver sword|고통의 검 강탈자 검
+hopeshredder ranger bow|희망 종결자 레인저 활
+hrimnor's dirge sledgehammer|흐림노르의 만가 대형 양손 망치
+hrimnor's hymn sledgehammer|흐림노르의 찬가 대형 양손 망치
+hyaon's fury legion sword|하야온의 광분 군단 검
+ichimonji corsair sword|이치몬지 해적의 검
+infractem decimation bow|침범자 대량 학살의 활
+innsbury edge elder sword|인스뷰리 칼날 장로의 검
+iron commander death bow|철의 지휘관 죽음의 활
+izaro's dilemma imperial claw|이자로의 난제 제국 클로
+jack, the axe vaal hatchet|도끼마 잭 바알 손도끼
+jorrhast's blacksteel steelhead|요르하스트의 강철 강철머리 망치
+kaom's primacy karui chopper|카옴의 탁월함 카루이 절단기
+kingmaker despot axe|실세 절대군주 도끼
+kitava's feast void axe|키타바의 연회 공허의 도끼
+kondo's pride ezomyte blade|콘도의 자부심 에조미어 검
+kongor's undying rage terror maul|콩고르의 끝없는 격노 공포의 대형 망치
+lakishu's blade elegant sword|라키슈의 검 고상한 검
+last resort nailed fist|최후의 수단 못박은 너클
+lavianga's wisdom war hammer|라비앙가의 지혜 전쟁 망치
+law of the wilds hellion's paw|황야의 법칙 헬리온의 발
+lifesprig driftwood wand|생명의 가지 표류목 마법봉
+limbsplit woodsplitter|사지 분할기 벌목스플리터
+lioneye's glare imperial bow|라이온아이의 섬광 제국 활
+maata's teaching karui sceptre|마아타의 가르침 카루이 셉터
+mark of the doubting knight platinum kris|불안한 기사의 징표 백금 크리스
+marohi erqi karui maul|마로히 에르키 카루이 대형 망치
+martyr of innocence highborn staff|결백한 순교자 상류층의 지팡이
+midnight bargain engraved wand|심야의 교섭 아로새긴 마법봉
+mightflay flaying knife|강력한 가죽칼 박피 단도
+mirebough gnarled branch|늪 가지 울퉁불퉁한 나뭇가지
+mjölner gavel|묠니르 의사봉
+mon'tregul's grasp void sceptre|몬트레굴의 장악 공허의 셉터
+moonbender's wing tomahawk|달을 구부리는 자의 날개 토마호크
+moonsorrow imbued wand|달의 슬픔 부여된 마법봉
+mortem morsu fright claw|고통스러운 죽음 섬뜩한 클로
+nametaker graceful sword|이름강탈자 우아한 검
+nebulis void sceptre|성운 공허의 셉터
+nebuloch nightmare mace|네뷸록 악몽의 철퇴
+ngamahu's flame abyssal axe|나마후의 불꽃 심연의 도끼
+null's inclination ranger bow|몰살 의지 레인저 활
+nuro's harp harbinger bow|누로의 하프 선구자 활
+nycta's lantern crystal sceptre|닉타의 등불 수정 셉터
+obliteration imbued wand|말살 부여된 마법봉
+obliteration demon's horn|말살 악마의 뿔
+oni-goroshi charan's sword|오니고로시 차란의 검
+ornament of the east gut ripper|동방의 장신구 내장 거열기
+oro's sacrifice infernal sword|오로의 희생 지옥불 검
+panquetzaliztli jagged maul|판케찰리스틀리 삐죽삐죽한 대형 망치
+paradoxica vaal rapier|모순 바알 레이피어
+pillar of the caged god iron staff|갇힌 신의 기둥 철제 지팡이
+pillar of the caged god long staff|갇힌 신의 기둥 긴 지팡이
+piscator's vigil imbued wand|피스카토의 기도 부여된 마법봉
+piscator's vigil tornado wand|피스카토의 기도 회오리 마법봉
+pledge of hands judgement staff|손으로 맺은 서약 심판 지팡이
+prismatic eclipse twilight blade|분광 월식 여명의 검
+quecholli jagged maul|퀘촐리 삐죽삐죽한 대형 망치
+queen's decree ornate sword|여왕의 법령 화려한 검
+queen's escape ornate sword|여왕의 탈주 화려한 검
+quill rain short bow|화살 비 단궁
+rakiata's dance engraved greatsword|라키아타의 춤 아로새긴 대검
+razor of the seventh sun midnight blade|날카로운 일곱 번째 태양 심야의 칼날
+reach of the council spine bow|의회의 역량 척추 활
+realm ender iron staff|종결자 철제 지팡이
+realmshaper iron staff|영역 형성자 철제 지팡이
+reaper's pursuit shadow axe|수확자의 추적 그림자 도끼
+rebuke of the vaal vaal blade|바알의 질책 바알 칼날
+redbeak rusted sword|붉은 부리 녹슨 검
+reefbane fishing rod|암초의 파멸 낚싯대
+relentless fury decorative axe|맹렬한 광분 장식된 도끼
+relic of the cycle crude bow|순환의 유물 조잡한 활
+relic of the pact sage wand|맹약의 유물 현자 마법봉
+relic of the pact spiraled wand|맹약의 유물 나선형 마법봉
+replica advancing fortress gut ripper|전진하는 요새 모조품 내장 거열기
+replica allure vaal claw|매혹 모조품 바알 클로
+replica bitterdream shadow sceptre|악몽 모조품 그림자 셉터
+replica bloodplay stiletto|피의 오락 모조품 스틸레토
+replica blood thorn gnarled branch|피의 가시 모조품 울퉁불퉁한 나뭇가지
+replica cold iron point ezomyte dagger|날붙이 끝 모조품 에조미어 단검
+replica dreamfeather eternal sword|꿈의 깃털 모조품 영원의 검
+replica duskdawn maelström staff|황혼의 아침 모조품 마엘스트롬 지팡이
+replica earendel's embrace grinning fetish|에아렌델의 포옹 모조품 웃는 조각상 홀
+replica fencoil gnarled branch|늪 감긴 가지 모조품 울퉁불퉁한 나뭇가지
+replica frostbreath ornate mace|서리 숨결 모조품 화려한 철퇴
+replica harvest jasper chopper|수확 모조품 벽옥 절단기
+replica heartbreaker royal skean|심장 분쇄기 모조품 왕실 양날 단검
+replica infractem decimation bow|침범자 모조품 대량 학살의 활
+replica innsbury edge elder sword|인스뷰리 칼날 모조품 장로의 검
+replica iron commander death bow|철의 지휘관 모조품 죽음의 활
+replica kongor's undying rage terror maul|콩고르의 끝없는 격노 모조품 공포의 대형 망치
+replica last resort nailed fist|최후의 수단 모조품 못박은 너클
+replica midnight bargain engraved wand|심야의 교섭 모조품 아로새긴 마법봉
+replica nebulis void sceptre|성운 모조품 공허의 셉터
+replica oro's sacrifice infernal sword|오로의 희생 모조품 지옥불 검
+replica paradoxica vaal rapier|모순 모조품 바알 레이피어
+replica quill rain short bow|화살 비 모조품 단궁
+replica soul taker siege axe|영혼 수확자 모조품 공성용 도끼
+replica tempestuous steel war sword|격렬한 강철 모조품 전쟁 검
+replica trypanon great mallet|트리파논 모조품 대형 나무 망치
+replica tulfall opal wand|툴의 몰락 모조품 오팔 마법봉
+replica tulfall tornado wand|툴의 몰락 모조품 회오리 마법봉
+replica twyzel sage wand|트위즐 모조품 현자 마법봉
+replica ungil's gauche boot knife|웅힐의 투박함 모조품 주머니 단도
+replica windripper imperial bow|윈드리퍼 모조품 제국 활
+replica wings of entropy ezomyte axe|엔트로피의 날개 모조품 에조미어 도끼
+reverberation rod spiraled wand|울림의 막대 나선형 마법봉
+rigwald's charge highland blade|리그월드의 돌진 고지대 검
+rigwald's command midnight blade|리그월드의 명령 심야의 칼날
+rigwald's savagery royal axe|리그월드의 야만 왕실 도끼
+rive terror claw|리브 공포의 클로
+roth's reach recurve bow|로스의 역량 반곡궁
+rust of winter rusted hatchet|부패한 겨울 녹슨 손도끼
+sanguine gambol skinning knife|핏빛 장난 무두질용 단도
+scaeva gladius|스카이바 글라디우스
+scar of fate nailed fist|운명의 흉터 못박은 너클
+serle's masterwork phantom mace|세를의 걸작 혼령 철퇴
+severed in sleep cutlass|야습 커틀라스
+shade of solaris sage wand|솔라리스의 그늘 현자 마법봉
+shimmeron tornado wand|쉬머론 회오리 마법봉
+shiversting bastard sword|오한의 검 바스타드
+sign of the sin eater tyrant's sekhem|죄악을 먹는 자의 흔적 폭군의 세크헴
+silverbough crude bow|은빛 나뭇가지 조잡한 활
+silverbranch crude bow|은빛 가지 조잡한 활
+singularity platinum sceptre|중력 붕괴 백금 셉터
+sinvicta's mettle ezomyte axe|신빅타의 패기 에조미어 도끼
+sire of shards serpentine staff|파편의 영주 사문석 지팡이
+slivertongue harbinger bow|슬리버텅 선구자 활
+song of the sirens fishing rod|사이렌의 노래 낚싯대
+soul taker siege axe|영혼 수확자 공성용 도끼
+soulwrest ezomyte staff|영혼 착취 에조미어 지팡이
+spine of the first claimant iron sceptre|최초 선구자의 척추 철제 셉터
+splinter of the moon driftwood wand|달의 파편 표류목 마법봉
+starforge infernal sword|별의 탄생 지옥불 검
+storm cloud long bow|태풍 구름 장궁
+storm prison carved wand|태풍 감옥 조각된 마법봉
+storm prison spiraled wand|태풍 감옥 나선형 마법봉
+story of the vaal gemstone sword|바알의 사연 원석 검
+story of the vaal variscite blade|바알의 사연 바리사이트 검
+taproot ambusher|흡혈 뿌리 매복자
+taryn's shiver maelström staff|타린의 오한 마엘스트롬 지팡이
+tawhoa's felling piledriver|타호아의 벌채 말뚝 망치
+terminus est tiger sword|다가온 최후 호랑이 검
+the annihilating light quarterstaff|절멸의 빛 육척봉
+the black cane royal sceptre|검은 지팡이 왕실의 셉터
+the blood reaper headsman axe|피의 수확자 참수자 도끼
+the blood thorn gnarled branch|피의 가시 울퉁불퉁한 나뭇가지
+the burden of shadows primordial staff|그림자의 짐 태고의 지팡이
+the cauteriser woodsplitter|소각로 벌목스플리터
+the consuming dark fiend dagger|타들어 가는 어둠 마귀 단검
+the crimson storm steelwood bow|진홍색 태풍 강철목 활
+the dancing dervish reaver sword|춤추는 수도승 강탈자 검
+the dancing duo reaver sword|춤추는 한 쌍 강탈자 검
+the dark seer shadow sceptre|어둠 예견자 그림자 셉터
+the enmity divine imperial staff|증오의 신 제국 지팡이
+the fulcrum ezomyte staff|버팀대 에조미어 지팡이
+the geomantic gyre highborn staff|대지술 선회 상류층의 지팡이
+the gluttonous tide citadel bow|걸신들린 파도 성채 활
+the goddess bound whalebone rapier|속박된 여신 고래뼈 레이피어
+the goddess scorned elegant sword|경멸받는 여신 고상한 검
+the goddess unleashed eternal sword|해방된 여신 영원의 검
+the grey spire judgement staff|회색 가지 심판 지팡이
+the gryphon jade hatchet|그리폰 비취 손도끼
+the harvest jasper chopper|수확 벽옥 절단기
+the hidden blade ambusher|숨겨진 칼날 매복자
+the iron mass gladius|철제 운집 글라디우스
+the living blade ezomyte blade|살아있는 칼날 에조미어 검
+the poet's pen carved wand|시인의 펜 조각된 마법봉
+the princess sabre|공주 사브르
+the redblade gladius|적검 글라디우스
+the rippling thoughts legion sword|퍼져나가는 생각 군단 검
+the saviour legion sword|구원자 군단 검
+the scourge terror claw|재앙 공포의 클로
+the screaming eagle jade hatchet|울부짖는 독수리 비취 손도끼
+the searing touch lathi|이글거리는 손길 쇠테 곤봉
+the searing touch long staff|이글거리는 손길 긴 지팡이
+the stormheart royal staff|태풍의 눈 왕실 지팡이
+the stormwall royal staff|태풍의 장벽 왕실 지팡이
+the supreme truth crystal sceptre|지고의 진리 수정 셉터
+the surging thoughts legion sword|쇄도하는 생각 군단 검
+the tempest long bow|폭풍 장궁
+the tempestuous steel war sword|격렬한 강철 전쟁 검
+the wasp nest throat stabber|말벌의 독침 목구멍 송곳
+the whispering ice vile staff|속삭이는 얼음 끔찍한 지팡이
+the winds of fate foul staff|숙명의 바람 사악한 지팡이
+the yielding mortality imperial staff|누그러진 필멸성 제국 지팡이
+thunder of the dawn corroded blade|새벽의 천둥 부식된 칼날
+tidebreaker imperial maul|물결 분쇄기 제국 대형 망치
+tipua kaikohuru whalebone rapier|티푸아 카이코후루 고래뼈 레이피어
+touch of anguish imperial claw|비통의 손길 제국 클로
+tremor rod military staff|전율의 막대 군용 지팡이
+trypanon great mallet|트리파논 대형 나무 망치
+tulborn opal wand|툴의 탄생 오팔 마법봉
+tulborn spiraled wand|툴의 탄생 나선형 마법봉
+tulfall tornado wand|툴의 몰락 회오리 마법봉
+tulfall opal wand|툴의 몰락 오팔 마법봉
+twyzel sage wand|트위즐 현자 마법봉
+ungil's gauche boot knife|웅힐의 투박함 주머니 단도
+united in dream cutlass|꿈속의 연합 커틀라스
+uul-netol's embrace vaal axe|울네톨의 포옹 바알 도끼
+uul-netol's kiss vaal axe|울네톨의 입맞춤 바알 도끼
+uul-netol's kiss labrys|울네톨의 입맞춤 라브리스
+varunastra vaal blade|바루나스트라 바알 칼날
+vestige of divinity gnarled branch|신성의 자취 울퉁불퉁한 나뭇가지
+void battery prophecy wand|공허 충전기 예언 마법봉
+voidforge infernal sword|공허의 탄생 지옥불 검
+voidhome dread maul|공허한 고향 끔찍한 대형 망치
+voltaxic rift spine bow|전도성 균열 척추 활
+vulconus demon dagger|불커누스 악마 단검
+white wind imperial skean|눈바람 제국 양날 단검
+wideswing poleaxe|넓은 자루 도끼 자루 도끼
+widowhail crude bow|과부우박 조잡한 활
+widowmaker boot blade|위도우메이커 주머니칼
+wildslash awl|거친 베기 송곳
+windripper imperial bow|윈드리퍼 제국 활
+wings of entropy ezomyte axe|엔트로피의 날개 에조미어 도끼
+wings of entropy sundering axe|엔트로피의 날개 작렬하는 도끼
+witchhunter's judgment highborn staff|마녀 사냥꾼의 심판 상류층의 지팡이
+xirgil's crank coiled staff|저글의 손잡이 코일형 지팡이
+xoph's inception bone bow|조프의 시초 뼈 활
+xoph's inception citadel bow|조프의 시초 성채 활
+xoph's nurture citadel bow|조프의 보살핌 성채 활
+yaomac's accord vaal sceptre|야오맥의 합의 바알 셉터
+nailed fist|못박은 너클
+gouger|후비개
+tiger's paw|호랑이 발
+gut ripper|내장 거열기
+prehistoric claw|선사 시대 클로
+noble claw|귀족 클로
+eagle claw|독수리 클로
+great white claw|거대 하얀 클로
+throat stabber|목구멍 송곳
+hellion's paw|헬리온의 발
+eye gouger|눈 후비개
+sharktooth claw|상어이빨 클로
+vaal claw|바알 클로
+imperial claw|제국 클로
+terror claw|공포의 클로
+awl|송곳
+cat's paw|고양이 발
+blinder|실명기
+timeworn claw|오래된 클로
+sparkling claw|섬광 클로
+fright claw|섬뜩한 클로
+thresher claw|도리깨 클로
+shadow fangs|그림자 송곳니
+malign fangs|해악의 송곳니
+void fangs|공허의 송곳니
+double claw|이중 클로
+twin claw|쌍둥이 클로
+gemini claw|쌍생아 클로
+glass shank|유리 단도
+butcher knife|도살자 단도
+poignard|포이너드
+boot blade|주머니칼
+golden kris|황금 크리스
+royal skean|왕실 양날 단검
+fiend dagger|마귀 단검
+gutting knife|내장 제거용 단도
+slaughter knife|살육 단도
+ambusher|매복자
+ezomyte dagger|에조미어 단검
+skinning knife|무두질용 단도
+platinum kris|백금 크리스
+imperial skean|제국 양날 단검
+demon dagger|악마 단검
+carving knife|조각용 단도
+stiletto|스틸레토
+boot knife|주머니 단도
+copper kris|구리 크리스
+skean|양날 단검
+imp dagger|임프 단검
+flaying knife|박피 단도
+hollowpoint dagger|중공 단검
+pressurised dagger|가압 단검
+pneumatic dagger|공압 단검
+prong dagger|갈래 단검
+trisula|트리술라
+sai|사이
+flickerflame blade|일렁이는 화염 칼
+flashfire blade|번쩍이는 불꽃 칼
+infernal blade|지옥불 칼
+rusted hatchet|녹슨 손도끼
+tomahawk|토마호크
+wrist chopper|팔목 절단기
+war axe|전쟁용 도끼
+chest splitter|가르기용 스플리터
+ceremonial axe|의식용 도끼
+wraith axe|악령 도끼
+karui axe|카루이 도끼
+siege axe|공성용 도끼
+reaver axe|강탈자 도끼
+butcher axe|도살자 도끼
+jade hatchet|비취 손도끼
+vaal hatchet|바알 손도끼
+royal axe|왕실 도끼
+infernal axe|지옥불 도끼
+boarding axe|선상 도끼
+cleaver|가로날도끼
+broad axe|넓은날 도끼
+arming axe|전투용 도끼
+decorative axe|장식된 도끼
+spectral axe|영체 도끼
+jasper axe|벽옥 손도끼
+maltreatment axe|가학의 도끼
+disapprobation axe|책망의 도끼
+psychotic axe|광기의 도끼
+etched hatchet|조각된 손도끼
+engraved hatchet|아로새긴 손도끼
+runic hatchet|룬 손도끼
+driftwood club|표류목 곤봉
+barbed club|가시 돋친 곤봉
+rock breaker|바위 분쇄기
+battle hammer|전투용 망치
+flanged mace|테두리 철퇴
+ornate mace|화려한 철퇴
+phantom mace|혼령 철퇴
+ancestral club|선대의 곤봉
+tenderizer|고기 망치
+gavel|의사봉
+legion hammer|군단 망치
+tribal club|부족 곤봉
+pernach|페르나치
+auric mace|금빛 철퇴
+nightmare mace|악몽의 철퇴
+spiked club|가시 박힌 곤봉
+stone hammer|쇄석 망치
+war hammer|전쟁 망치
+bladed mace|톱날 철퇴
+ceremonial mace|의식용 철퇴
+dream mace|몽환의 철퇴
+petrified club|석화된 곤봉
+flare mace|조명탄 철퇴
+crack mace|균열 철퇴
+boom mace|우뢰 철퇴
+wyrm mace|아룡 철퇴
+dragon mace|용 철퇴
+behemoth mace|거대한 철퇴
+driftwood sceptre|표류목 셉터
+sekhem|세크헴
+crystal sceptre|수정 셉터
+lead sceptre|납 셉터
+blood sceptre|피의 셉터
+royal sceptre|왕실의 셉터
+abyssal sceptre|심연의 셉터
+karui sceptre|카루이 셉터
+tyrant's sekhem|폭군의 세크헴
+opal sceptre|오팔 셉터
+platinum sceptre|백금 셉터
+darkwood sceptre|흑단목 셉터
+vaal sceptre|바알 셉터
+carnal sceptre|육욕의 셉터
+void sceptre|공허의 셉터
+bronze sceptre|청동 셉터
+quartz sceptre|석영 셉터
+iron sceptre|철제 셉터
+ochre sceptre|오커 셉터
+ritual sceptre|의식용 셉터
+shadow sceptre|그림자 셉터
+grinning fetish|웃는 조각상 홀
+oscillating sceptre|진동 셉터
+stabilising sceptre|안정화의 셉터
+alternating sceptre|갈마드는 셉터
+horned sceptre|뿔 달린 셉터
+stag sceptre|수사슴 셉터
+sambar sceptre|삼바 셉터
+rusted sword|녹슨 검
+cutlass|커틀라스
+baselard|베이스라드
+battle sword|전투용 검
+elder sword|장로의 검
+graceful sword|우아한 검
+twilight blade|여명의 검
+gemstone sword|원석 검
+corsair sword|해적의 검
+gladius|글라디우스
+legion sword|군단 검
+copper sword|구리 검
+vaal blade|바알 칼날
+eternal sword|영원의 검
+midnight blade|심야의 칼날
+sabre|사브르
+broad sword|넓은날 검
+war sword|전쟁 검
+ancient sword|고대의 검
+elegant sword|고상한 검
+dusk blade|황혼의 검
+variscite blade|바리사이트 검
+charan's sword|차란의 검
+golden blade|황금 검
+fickle spiritblade|변화무쌍한 정령의 칼
+capricious spiritblade|변덕스러운 정령의 칼
+anarchic spiritblade|무질서한 정령의 칼
+hook sword|갈고리 검
+grappler|격투자
+tiger hook|호랑이 갈고리
+rusted spike|녹슨 스파이크
+burnished foil|윤이 나는 펜싱 검
+estoc|에스톡
+serrated foil|톱니 펜싱 검
+primeval rapier|원시 레이피어
+fancy foil|장식용 펜싱 검
+apex rapier|정점 레이피어
+dragonbone rapier|용뼈 레이피어
+tempered foil|단조한 펜싱 검
+pecoraro|페코라로
+spiraled foil|나선형 펜싱 검
+whalebone rapier|고래뼈 레이피어
+vaal rapier|바알 레이피어
+jewelled foil|보석이 박힌 펜싱 검
+harpy rapier|하피 레이피어
+battered foil|닳은 펜싱 검
+basket rapier|손보호구 레이피어
+jagged foil|삐죽삐죽한 펜싱 검
+antique rapier|앤티크 레이피어
+elegant foil|고상한 펜싱 검
+thorn rapier|가시 레이피어
+wyrmbone rapier|아룡뼈 레이피어
+smallsword|스몰 소드
+courtesan sword|코르티잔 검
+dragoon sword|용기병 검
+driftwood wand|표류목 마법봉
+coiled wand|똬리 마법봉
+omen wand|전조의 마법봉
+demon's horn|악마의 뿔
+imbued wand|부여된 마법봉
+opal wand|오팔 마법봉
+tornado wand|회오리 마법봉
+prophecy wand|예언 마법봉
+goat's horn|염소의 뿔
+carved wand|조각된 마법봉
+quartz wand|석영 마법봉
+spiraled wand|나선형 마법봉
+sage wand|현자 마법봉
+faun's horn|판의 뿔
+engraved wand|아로새긴 마법봉
+crystal wand|수정 마법봉
+convoking wand|소집의 마법봉
+assembler wand|조립 마법봉
+congregator wand|군집 마법봉
+accumulator wand|축적 마법봉
+pagan wand|이교도 마법봉
+heathen wand|이방인 마법봉
+profane wand|부정한 마법봉
+calling wand|부름의 마법봉
+convening wand|회합의 마법봉
+fishing rod|낚싯대
+crude bow|조잡한 활
+decurve bow|비곡궁
+compound bow|복합궁
+sniper bow|저격수 활
+ivory bow|상아색 활
+highborn bow|명문가의 활
+decimation bow|대량 학살의 활
+thicket bow|잡목림 활
+citadel bow|성채 활
+ranger bow|레인저 활
+assassin bow|암살자 활
+short bow|단궁
+spine bow|척추 활
+imperial bow|제국 활
+harbinger bow|선구자 활
+long bow|장궁
+composite bow|합성궁
+recurve bow|반곡궁
+bone bow|뼈 활
+royal bow|왕실 활
+death bow|죽음의 활
+grove bow|수목원 활
+hedron bow|다면체 활
+foundry bow|주물 활
+solarine bow|태양의 활
+reflex bow|반동궁
+steelwood bow|강철목 활
+maraketh bow|마라케스 활
+gnarled branch|울퉁불퉁한 나뭇가지
+military staff|군용 지팡이
+serpentine staff|사문석 지팡이
+highborn staff|상류층의 지팡이
+foul staff|사악한 지팡이
+primordial staff|태고의 지팡이
+lathi|쇠테 곤봉
+ezomyte staff|에조미어 지팡이
+maelström staff|마엘스트롬 지팡이
+imperial staff|제국 지팡이
+judgement staff|심판 지팡이
+primitive staff|원시의 지팡이
+long staff|긴 지팡이
+iron staff|철제 지팡이
+coiled staff|코일형 지팡이
+royal staff|왕실 지팡이
+vile staff|끔찍한 지팡이
+woodful staff|목재 지팡이
+quarterstaff|육척봉
+transformer staff|변신 지팡이
+reciprocation staff|보복 지팡이
+battery staff|충전 지팡이
+crescent staff|초승달의 지팡이
+moon staff|달의 지팡이
+eclipse staff|월식 지팡이
+capacity rod|가능성의 막대
+potentiality rod|잠재력의 막대
+eventuality rod|불예측의 막대
+stone axe|돌도끼
+headsman axe|참수자 도끼
+labrys|라브리스
+noble axe|귀족 도끼
+abyssal axe|심연의 도끼
+karui chopper|카루이 절단기
+sundering axe|작렬하는 도끼
+ezomyte axe|에조미어 도끼
+vaal axe|바알 도끼
+despot axe|절대군주 도끼
+void axe|공허의 도끼
+jade chopper|비취 절단기
+woodsplitter|벌목스플리터
+poleaxe|자루 도끼
+double axe|양날 도끼
+gilded axe|도금된 도끼
+shadow axe|그림자 도끼
+jasper chopper|벽옥 절단기
+timber axe|목재용 도끼
+prime cleaver|최종형 가로날도끼
+honed cleaver|연마한 가로날도끼
+apex cleaver|정점의 가로날도끼
+dagger axe|단검 도끼
+talon axe|발톱 도끼
+fleshripper|살점 거열기
+driftwood maul|표류목 대형 망치
+steelhead|강철머리 망치
+spiny maul|가시투성이 대형 망치
+plated maul|판금 대형 망치
+dread maul|끔찍한 대형 망치
+karui maul|카루이 대형 망치
+colossus mallet|초대형 나무 망치
+piledriver|말뚝 망치
+meatgrinder|고기 갈이개
+imperial maul|제국 대형 망치
+terror maul|공포의 대형 망치
+tribal maul|부족 대형 망치
+mallet|나무 망치
+sledgehammer|대형 양손 망치
+jagged maul|삐죽삐죽한 대형 망치
+brass maul|황동 대형 망치
+fright maul|섬뜩한 대형 망치
+totemic maul|토템 대형 망치
+great mallet|대형 나무 망치
+blunt force condenser|둔력 응축자
+crushing force magnifier|압착력 확대자
+impact force propagator|충격력 확산자
+morning star|모닝스타
+solar maul|태양의 대형 망치
+coronal maul|광환의 대형 망치
+corroded blade|부식된 칼날
+highland blade|고지대 검
+engraved greatsword|아로새긴 대검
+tiger sword|호랑이 검
+wraith sword|악령 검
+headman's sword|참수자의 검
+reaver sword|강탈자 검
+ezomyte blade|에조미어 검
+vaal greatsword|바알 대검
+lion sword|사자 검
+infernal sword|지옥불 검
+longsword|장검
+bastard sword|바스타드
+two-handed sword|양손검
+etched greatsword|조각된 대검
+ornate sword|화려한 검
+spectral sword|영체 검
+butcher sword|도살자 검
+footman sword|보병 검
+rebuking blade|질책의 칼
+blasting blade|폭발성 칼
+banishing blade|추방의 칼
+curved blade|곡도
+lithe blade|유연한 검
+exquisite blade|정교한 검
+ambush leaguestone|매복 리그스톤
+anarchy leaguestone|혼란 리그스톤
+beyond leaguestone|이계 리그스톤
+bloodlines leaguestone|혈맹 리그스톤
+breach leaguestone|균열 리그스톤
+domination leaguestone|지배 리그스톤
+essence leaguestone|에센스 리그스톤
+invasion leaguestone|침략 리그스톤
+nemesis leaguestone|천벌 리그스톤
+onslaught leaguestone|맹공 리그스톤
+prophecy leaguestone|예언 리그스톤
+rampage leaguestone|광란 리그스톤
+talisman leaguestone|부적 리그스톤
+tempest leaguestone|폭풍 리그스톤
+torment leaguestone|고통 리그스톤
+warbands leaguestone|군벌 리그스톤
+eelskin sole|장어가죽 밑창
+foxhide sole|여우가죽 밑창
+winged sole|날개 달린 밑창
+silkweave sole|비단 직물 밑창
+silver brooch|은 브로치
+golden brooch|황금 브로치
+enamel brooch|유약 도색 브로치
+foliate brooch|잎사귀 브로치
+leather bracers|가죽 팔보호구
+studded bracers|징 박힌 팔보호구
+runed bracers|룬 문자 팔보호구
+steel bracers|강철 팔보호구
+focal stone|초점석
+conduit line|관로
+aggregator charm|집합 부적
+burst band|격발 반지
+torn cloak|찢어진 망토
+tattered cloak|해진 망토
+hooded cloak|두건 망토
+whisper-woven cloak|속삭임 망토
+crude ward|조잡한 수호
+lustrous ward|빛나는 수호
+shining ward|반짝이는 수호
+thaumaturgical ward|마석학 수호
+basic disguise kit|기본 변장 도구
+theatre disguise kit|극장 변장 도구
+espionage disguise kit|첩보 변장 도구
+regicide disguise kit|왕 시해자 변장 도구
+voltaxic flashpowder|전도성 섬광가루
+trarthan flashpowder|트라탄 섬광가루
+azurite flashpowder|남동석 섬광가루
+thaumetic flashpowder|마석 섬광가루
+steel drill|강철 송곳
+flanged drill|테두리 송곳
+sulphur blowtorch|유황 발염기
+thaumetic blowtorch|마석 발염기
+simple lockpick|단순한 자물쇠 따개
+standard lockpick|표준 자물쇠 따개
+fine lockpick|정교한 자물쇠 따개
+master lockpick|고급 자물쇠 따개
+rough sharpening stone|거친 숫돌
+standard sharpening stone|표준 숫돌
+fine sharpening stone|정교한 숫돌
+obsidian sharpening stone|흑요석 숫돌
+crude sensing charm|조잡한 감지 부적
+fine sensing charm|정교한 감지 부적
+polished sensing charm|광택 나는 감지 부적
+thaumaturgical sensing charm|마석학 감지 부적
+flanged arrowhead|테두리 화살촉
+fragmenting arrowhead|분열 화살촉
+hollowpoint arrowhead|중공 화살촉
+precise arrowhead|정확한 화살촉
+essential keyring|필수 열쇠고리
+versatile keyring|다용도 열쇠고리
+skeleton keyring|해골 열쇠고리
+grandmaster keyring|명인 열쇠고리
+contract: breaking the unbreakable|계약: 파괴 불가능한 존재 파괴하기
+contract: death to darnaw|계약: 다나우에게 죽음을
+contract: heart of glory|계약: 영광의 심장
+contract: the slaver king|계약: 노예상의 왕
+contract: the twins|계약: 쌍둥이
+contract: breaking the unbreakable preventative contract|계약: 파괴 불가능한 존재 파괴하기 예방 차원의 계약
+contract: death to darnaw naval contract|계약: 다나우에게 죽음을 해군 계약
+contract: heart of glory familial contract|계약: 영광의 심장 가문의 계약
+contract: the slaver king vigilante contract|계약: 노예상의 왕 치안 계약
+contract: the twins vengeful contract|계약: 쌍둥이 복수의 계약
+blueprint: bunker|도면: 벙커
+blueprint: records office|도면: 기록 보관소
+blueprint: laboratory|도면: 실험실
+blueprint: prohibited library|도면: 금지된 도서관
+blueprint: mansion|도면: 대저택
+blueprint: smuggler's den|도면: 밀수범 소굴
+blueprint: repository|도면: 저장소
+blueprint: tunnels|도면: 터널
+blueprint: underbelly|도면: 취약 지점
+contract: bunker|계약: 벙커
+contract: records office|계약: 기록 보관소
+contract: laboratory|계약: 실험실
+contract: prohibited library|계약: 금지된 도서관
+contract: mansion|계약: 대저택
+contract: smuggler's den|계약: 밀수범 소굴
+contract: repository|계약: 저장소
+contract: tunnels|계약: 터널
+contract: underbelly|계약: 취약 지점
+familial contract|가문의 계약
+naval contract|해군 계약
+preventative contract|예방 차원의 계약
+vengeful contract|복수의 계약
+vigilante contract|치안 계약
+expedition logbook|탐험 일지
+the blood of innocence|이노센스의 피
+the broken censer|부서진 향로
+the chains of castigation|징계의 사슬
+the first crest|최초의 문양
+the gilded chalice|도금된 성배
+the hour of divinity|신성의 시간
+the night lamp|밤의 등화
+the original scripture|원형의 성서
+the power and the promise|힘과 약속
+the second sacrament|두 번째 성체
+the blood of innocence censer relic|이노센스의 피 향로 유물
+the broken censer tome relic|부서진 향로 책 유물
+the chains of castigation processional relic|징계의 사슬 행렬 유물
+the first crest coffer relic|최초의 문양 궤짝 유물
+the gilded chalice processional relic|도금된 성배 행렬 유물
+the hour of divinity censer relic|신성의 시간 향로 유물
+the night lamp urn relic|밤의 등화 단지 유물
+the original scripture papyrus relic|원형의 성서 파피루스 유물
+the power and the promise tome relic|힘과 약속 책 유물
+the second sacrament candlestick relic|두 번째 성체 촛대 유물
+censer relic|향로 유물
+processional relic|행렬 유물
+candlestick relic|촛대 유물
+urn relic|단지 유물
+coffer relic|궤짝 유물
+tome relic|책 유물
+papyrus relic|파피루스 유물
+sanctum archives research|성역 서고 연구
+sanctum vaults research|성역 금고 연구
+sanctum cathedral research|성역 대성당 연구
+sanctum necropolis research|성역 매장지 연구
+forbidden tome|금지된 책
+alva's memory|알바의 기억
+einhar's memory|아인하르의 기억
+kirac's memory|키락의 기억
+niko's memory|니코의 기억
+grasping nightshade|탐욕스러운 까마중
+mightblood ire|힘의 피 진노
+sap of the seasons|계절의 진액
+the battle within|내면의 싸움
+wildfire phloem|들불 체관
+grasping nightshade sporebloom tincture|탐욕스러운 까마중 포자꽃 팅크
+mightblood ire ironwood tincture|힘의 피 진노 철목 팅크
+sap of the seasons prismatic tincture|계절의 진액 분광 팅크
+the battle within oakbranch tincture|내면의 싸움 참나무가지 팅크
+wildfire phloem ashbark tincture|들불 체관  재껍질 팅크
+prismatic tincture|분광 팅크
+sporebloom tincture|포자꽃 팅크
+rosethorn tincture|장미가시 팅크
+ironwood tincture|철목 팅크
+ashbark tincture|재껍질 팅크
+borealwood tincture|북풍목 팅크
+fulgurite tincture|섬전암 팅크
+poisonberry tincture|독딸기 팅크
+blood sap tincture|피 진액 팅크
+oakbranch tincture|참나무가지 팅크
+perfect naval officer|완전한 해군 장교
+imperfect naval officer|불완전한 해군 장교
+naval officer|해군 장교
+perfect dancing sword|완전한 춤추는 검
+imperfect dancing sword|불완전한 춤추는 검
+dancing sword|춤추는 검
+perfect needle horror|완전한 바늘 호러
+imperfect needle horror|불완전한 바늘 호러
+needle horror|바늘 호러
+perfect serpent warrior|완전한 독사 전사
+imperfect serpent warrior|불완전한 독사 전사
+serpent warrior|독사 전사
+perfect pain artist|완전한 고통의 예술가
+imperfect pain artist|불완전한 고통의 예술가
+pain artist|고통의 예술가
+perfect sawblade horror|완전한 톱날 호러
+imperfect sawblade horror|불완전한 톱날 호러
+sawblade horror|톱날 호러
+perfect blood demon|완전한 피의 악마
+imperfect blood demon|불완전한 피의 악마
+blood demon|피의 악마
+perfect slashing horror|완전한 칼날 호러
+imperfect slashing horror|불완전한 칼날 호러
+slashing horror|칼날 호러
+perfect fiery cannibal|완전한 불타는 식인종
+imperfect fiery cannibal|불완전한 불타는 식인종
+fiery cannibal|불타는 식인종
+perfect druidic alchemist|완전한 드루이드 연금술사
+imperfect druidic alchemist|불완전한 드루이드 연금술사
+druidic alchemist|드루이드 연금술사
+perfect blasphemer|완전한 신성모독자
+imperfect blasphemer|불완전한 신성모독자
+blasphemer|신성모독자
+perfect judgemental spirit|완전한 심판의 정령
+imperfect judgemental spirit|불완전한 심판의 정령
+judgemental spirit|심판의 정령
+perfect frozen cannibal|완전한 얼어붙은 식인종
+imperfect frozen cannibal|불완전한 얼어붙은 식인종
+frozen cannibal|얼어붙은 식인종
+perfect primal thunderbird|완전한 원시 천둥새
+imperfect primal thunderbird|불완전한 원시 천둥새
+primal thunderbird|원시 천둥새
+perfect hydra|완전한 히드라
+imperfect hydra|불완전한 히드라
+hydra|히드라
+perfect spirit of fortune|완전한 행운의 정령
+imperfect spirit of fortune|불완전한 행운의 정령
+spirit of fortune|행운의 정령
+perfect primal demiurge|완전한 원시 창제자
+imperfect primal demiurge|불완전한 원시 창제자
+primal demiurge|원시 창제자
+perfect dark marionette|완전한 어둠의 꼭두각시
+imperfect dark marionette|불완전한 어둠의 꼭두각시
+dark marionette|어둠의 꼭두각시
+perfect runic skeleton|완전한 룬의 해골
+imperfect runic skeleton|불완전한 룬의 해골
+runic skeleton|룬의 해골
+perfect warlord|완전한 전쟁군주
+imperfect warlord|불완전한 전쟁군주
+warlord|전쟁군주
+perfect dark reaper|완전한 어둠의 수확자
+imperfect dark reaper|불완전한 어둠의 수확자
+dark reaper|어둠의 수확자
+perfect hulking miscreation|완전한 육중한 기형물
+imperfect hulking miscreation|불완전한 육중한 기형물
+hulking miscreation|육중한 기형물
+perfect sanguimancer demon|완전한 혈액술사 악마
+imperfect sanguimancer demon|불완전한 혈액술사 악마
+sanguimancer demon|혈액술사 악마
+perfect spider matriarch|완전한 거미 여군주
+imperfect spider matriarch|불완전한 거미 여군주
+spider matriarch|거미 여군주
+perfect half-remembered goliath|완전한 잊혀져 가는 골리앗
+imperfect half-remembered goliath|불완전한 잊혀져 가는 골리앗
+half-remembered goliath|잊혀져 가는 골리앗
+perfect meatsack|완전한 고깃자루
+imperfect meatsack|불완전한 고깃자루
+meatsack|고깃자루
+perfect eldritch eye|완전한 섬뜩한 눈
+imperfect eldritch eye|불완전한 섬뜩한 눈
+eldritch eye|섬뜩한 눈
+perfect forest tiger|완전한 숲 호랑이
+imperfect forest tiger|불완전한 숲 호랑이
+forest tiger|숲 호랑이
+perfect guardian turtle|완전한 수호자 거북이
+imperfect guardian turtle|불완전한 수호자 거북이
+guardian turtle|수호자 거북이
+perfect shadow construct|완전한 그림자 구조물
+imperfect shadow construct|불완전한 그림자 구조물
+shadow construct|그림자 구조물
+perfect forest warrior|완전한 숲 전사
+imperfect forest warrior|불완전한 숲 전사
+forest warrior|숲 전사
+crystallised power|힘의 결정체
+perceived greatness|위대함의 허상
+smash and grab|부수고 챙겨라
+twisted wish|뒤틀린 소망
+well supplied|넉넉한 물자
+crystallised power minor idol|힘의 결정체 Minor Idol
+perceived greatness minor idol|위대함의 허상 Minor Idol
+smash and grab minor idol|부수고 챙겨라 Minor Idol
+twisted wish minor idol|뒤틀린 소망 Minor Idol
+well supplied minor idol|넉넉한 물자 Minor Idol

@@ -1,0 +1,166 @@
+[ {
+  "id" : "Currency",
+  "label" : "Currency",
+  "entries" : {
+    "id" : [ "alt" ],
+    "text" : [ "Orb of Alteration" ],
+    "options" : [ null ]
+  }
+}, {
+  "id" : "Fragments",
+  "label" : "Fragments & Scarabs",
+  "entries" : {
+    "id" : [ "dusk" ],
+    "text" : [ "Sacrifice at Dusk" ],
+    "options" : [ null ]
+  }
+}, {
+  "id" : "Runes",
+  "label" : "Kalguuran Runes",
+  "entries" : {
+    "id" : [ "sun-rune" ],
+    "text" : [ "Sun Rune" ],
+    "options" : [ null ]
+  }
+}, {
+  "id" : "Ancestor",
+  "label" : "Tattoos & Omens",
+  "entries" : {
+    "id" : [ "tattoo-of-the-ngamahu-firewalker" ],
+    "text" : [ "Tattoo of the Ngamahu Firewalker" ],
+    "options" : [ null ]
+  }
+}, {
+  "id" : "Sanctum",
+  "label" : "Sanctum Tomes & Relics",
+  "entries" : {
+    "id" : [ "forbidden-tome-level-68" ],
+    "text" : [ "Forbidden Tome (Level 68)" ],
+    "options" : [ null ]
+  }
+}, {
+  "id" : "MemoryLine",
+  "label" : "Atlas Memories",
+  "entries" : {
+    "description" : [ "Areas contain additional Strongboxes\nStrongboxes are found in Sequences\nStrongboxes in a Sequence open when the previous Strongbox in the Sequence has unlocked" ],
+    "id" : [ "alvas-memory-of-cascading-fortunes" ],
+    "text" : [ "Alva's Memory of Cascading Fortunes" ],
+    "options" : [ null ]
+  }
+}, {
+  "id" : "ScoutingReport",
+  "label" : "Scouting Reports",
+  "entries" : {
+    "id" : [ "singular-scouting-report" ],
+    "text" : [ "Singular Scouting Report" ],
+    "options" : [ null ]
+  }
+}, {
+  "id" : "Heist",
+  "label" : "Heist Contracts & Blueprints",
+  "entries" : {
+    "id" : [ "sep" ],
+    "text" : [ "Low-Tier Contracts" ],
+    "options" : [ null ]
+  }
+}, {
+  "id" : "Expedition",
+  "label" : "Expedition Currency",
+  "entries" : {
+    "id" : [ "astragali" ],
+    "text" : [ "Astragali" ],
+    "options" : [ null ]
+  }
+}, {
+  "id" : "DeliriumOrbs",
+  "label" : "Delirium Orbs",
+  "entries" : {
+    "id" : [ "fine-delirium-orb" ],
+    "text" : [ "Fine Delirium Orb" ],
+    "options" : [ null ]
+  }
+}, {
+  "id" : "Catalysts",
+  "label" : "Catalysts",
+  "entries" : {
+    "id" : [ "turbulent-catalyst" ],
+    "text" : [ "Turbulent Catalyst" ],
+    "options" : [ null ]
+  }
+}, {
+  "id" : "Oils",
+  "label" : "Oils & Extractor",
+  "entries" : {
+    "id" : [ "clear-oil" ],
+    "text" : [ "Clear Oil" ],
+    "options" : [ null ]
+  }
+}, {
+  "id" : "Incubators",
+  "label" : "Incubators",
+  "entries" : {
+    "id" : [ "whispering-incubator" ],
+    "text" : [ "Whispering Incubator" ],
+    "options" : [ null ]
+  }
+}, {
+  "id" : "Essences",
+  "label" : "Essences",
+  "entries" : {
+    "id" : [ "whispering-essence-of-hatred" ],
+    "text" : [ "Whispering Essence of Hatred" ],
+    "options" : [ null ]
+  }
+}, {
+  "id" : "Beasts",
+  "label" : "Beasts",
+  "entries" : {
+    "id" : [ "beast" ],
+    "text" : [ "Yellow Beast" ],
+    "options" : [ null ]
+  }
+}, {
+  "id" : "Cards",
+  "label" : "Cards",
+  "entries" : {
+    "id" : [ "a-chilling-wind" ],
+    "text" : [ "A Chilling Wind" ],
+    "options" : [ null ]
+  }
+}, {
+  "id" : "Maps",
+  "label" : "Maps",
+  "entries" : {
+    "id" : [ "sep" ],
+    "text" : [ "Maps (Tier 1)" ],
+    "options" : [ null ]
+  }
+}, {
+  "id" : "MapsBlighted",
+  "label" : "Blighted Maps",
+  "entries" : {
+    "id" : [ "blighted-map-tier-1" ],
+    "text" : [ "Blighted Map (Tier 1)" ],
+    "options" : [ null ]
+  }
+}, {
+  "id" : "MapsUnique",
+  "label" : "Unique Maps",
+  "entries" : {
+    "id" : [ "actons-nightmare-tier-3" ],
+    "text" : [ "Acton's Nightmare (Tier 3)" ],
+    "options" : [ null ]
+  }
+}, {
+  "id" : "Legacy",
+  "label" : "Legacy Items",
+  "entries" : {
+    "id" : [ "imperial-delirium-orb" ],
+    "text" : [ "Imperial Delirium Orb" ],
+    "options" : [ null ]
+  }
+}, {
+  "id" : "Misc",
+  "label" : null,
+  "entries" : { }
+} ]

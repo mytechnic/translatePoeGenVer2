@@ -1,0 +1,206 @@
+{
+  "result" : [ {
+    "id" : "accessory",
+    "label" : "장신구",
+    "entries" : [ {
+      "type" : "파란 진주 목걸이"
+    }, {
+      "type" : "루비 반지",
+      "text" : "아켈리의 초원 루비 반지",
+      "name" : "아켈리의 초원",
+      "flags" : {
+        "unique" : true
+      }
+    } ]
+  }, {
+    "id" : "armour",
+    "label" : "방어구",
+    "entries" : [ {
+      "type" : "황금 외투"
+    }, {
+      "type" : "염소가죽 장화",
+      "text" : "아버라스의 발굽 염소가죽 장화",
+      "name" : "아버라스의 발굽",
+      "flags" : {
+        "unique" : true
+      }
+    } ]
+  }, {
+    "id" : "card",
+    "label" : "카드",
+    "entries" : [ {
+      "type" : "버려진 재산"
+    } ]
+  }, {
+    "id" : "currency",
+    "label" : "화폐",
+    "entries" : [ {
+      "type" : "십자군의 엑잘티드 오브"
+    }, {
+      "type" : "태고의 조각",
+      "text" : "흡수의 골동품 태고의 조각",
+      "name" : "흡수의 골동품",
+      "flags" : {
+        "unique" : true
+      }
+    } ]
+  }, {
+    "id" : "flask",
+    "label" : "플라스크",
+    "entries" : [ {
+      "type" : "소형 하이브리드 플라스크"
+    }, {
+      "type" : "자수정 플라스크",
+      "text" : "앗지리의 약속 자수정 플라스크",
+      "name" : "앗지리의 약속",
+      "flags" : {
+        "unique" : true
+      }
+    } ]
+  }, {
+    "id" : "gem",
+    "label" : "젬",
+    "entries" : [ {
+      "type" : "면죄"
+    }, {
+      "type" : "무기 기동",
+      "text" : "원거리 병기의 무기 기동",
+      "disc" : "alt_y"
+    } ]
+  }, {
+    "id" : "jewel",
+    "label" : "주얼",
+    "entries" : [ {
+      "type" : "최면 거는 눈 주얼"
+    }, {
+      "type" : "무시무시한 눈 주얼",
+      "text" : "아마나무의 응시 무시무시한 눈 주얼",
+      "name" : "아마나무의 응시",
+      "flags" : {
+        "unique" : true
+      }
+    } ]
+  }, {
+    "id" : "map",
+    "label" : "지도",
+    "entries" : [ {
+      "type" : "앗조아틀의 연대기"
+    }, {
+      "type" : "흉물 지도",
+      "disc" : "warfortheatlas"
+    }, {
+      "type" : "칼데라 지도",
+      "text" : "칼데라 지도 (아틀라스의 세계)",
+      "disc" : "atlasofworlds"
+    }, {
+      "type" : "무성한 성소 지도",
+      "text" : "액턴의 악몽 무성한 성소 지도",
+      "name" : "액턴의 악몽",
+      "disc" : "warfortheatlas",
+      "flags" : {
+        "unique" : true
+      }
+    } ]
+  }, {
+    "id" : "weapon",
+    "label" : "무기",
+    "entries" : [ {
+      "type" : "못박은 너클"
+    }, {
+      "type" : "염소의 뿔",
+      "text" : "아버라스의 뿔 염소의 뿔",
+      "name" : "아버라스의 뿔",
+      "flags" : {
+        "unique" : true
+      }
+    } ]
+  }, {
+    "id" : "leaguestone",
+    "label" : "리그스톤",
+    "entries" : [ {
+      "type" : "매복 리그스톤"
+    } ]
+  }, {
+    "id" : "monster",
+    "label" : "아이템화된 몬스터",
+    "entries" : [ {
+      "type" : "거대한 백색 야수"
+    } ]
+  }, {
+    "id" : "heistequipment",
+    "label" : "강탈 장비",
+    "entries" : [ {
+      "type" : "장어가죽 밑창"
+    } ]
+  }, {
+    "id" : "heistmission",
+    "label" : "강탈 임무",
+    "entries" : [ {
+      "type" : "도면: 벙커"
+    }, {
+      "type" : "예방 차원의 계약",
+      "text" : "계약: 파괴 불가능한 존재 파괴하기 예방 차원의 계약",
+      "name" : "계약: 파괴 불가능한 존재 파괴하기",
+      "flags" : {
+        "unique" : true
+      }
+    } ]
+  }, {
+    "id" : "logbook",
+    "label" : "탐험 일지",
+    "entries" : [ {
+      "type" : "탐험 일지"
+    } ]
+  }, {
+    "id" : "sanctum",
+    "label" : "성역 연구",
+    "entries" : [ {
+      "type" : "향로 유물"
+    }, {
+      "type" : "향로 유물",
+      "text" : "이노센스의 피 향로 유물",
+      "name" : "이노센스의 피",
+      "flags" : {
+        "unique" : true
+      }
+    } ]
+  }, {
+    "id" : "memoryline",
+    "label" : "아틀라스 기억",
+    "entries" : [ {
+      "type" : "알바의 기억"
+    } ]
+  }, {
+    "id" : "tincture",
+    "label" : "팅크",
+    "entries" : [ {
+      "type" : "분광 팅크"
+    }, {
+      "type" : "포자꽃 팅크",
+      "text" : "탐욕스러운 까마중 포자꽃 팅크",
+      "name" : "탐욕스러운 까마중",
+      "flags" : {
+        "unique" : true
+      }
+    } ]
+  }, {
+    "id" : "corpse",
+    "label" : "아이템화된 시신",
+    "entries" : [ {
+      "type" : "완전한 해군 장교"
+    } ]
+  }, {
+    "id" : "idol",
+    "label" : "우상",
+    "entries" : [ {
+      "type" : "Minor Idol"
+    }, {
+      "type" : "Minor Idol",
+      "text" : "Arbitrary Tenets Minor Idol",
+      "name" : "Arbitrary Tenets",
+      "flags" : {
+        "unique" : true
+      }
+    } ]
+  } ]
+}

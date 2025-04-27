@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <title>Mismatch 수동 매핑 도구</title>
+    <link rel="stylesheet" href="css/style.css">
+    <script src="js/mismatch-editor.js" defer></script>
+</head>
+<body>
+<h1>Mismatch 수동 매핑 도구</h1>
+
+<div style="margin-bottom: 20px;">
+    <div style="margin-bottom: 10px;">
+        <label>Mismatch 파일 선택: </label>
+        <select id="fileSelect" style="min-width: 300px;"></select>
+    </div>
+
+    <div style="margin-bottom: 10px;">
+        <label>Label 선택: </label>
+        <select id="labelSelect" style="min-width: 300px;"></select>
+    </div>
+
+    <div style="margin-bottom: 10px;">
+        <label>항목 선택: </label>
+        <select id="fieldSelect" style="min-width: 150px;">
+            <option value="name">name</option>
+            <option value="text">text</option>
+            <option value="type">type</option>
+        </select>
+    </div>
+
+    <div style="margin-bottom: 10px;">
+        <label>저장할 사전 파일명: </label>
+        <input type="text" id="dictionaryFileNameInput" style="min-width: 300px;" placeholder="예: dic_items.json">
+    </div>
+
+    <button id="saveButton">저장</button>
+</div>
+
+<hr>
+
+<!-- ✅ 영어/한글 리스트 출력 영역 -->
+<div id="listContainer" style="margin-top: 20px;"></div>
+
+</body>
+</html>

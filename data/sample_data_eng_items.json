@@ -1,0 +1,159 @@
+[ {
+  "id" : "accessory",
+  "label" : "Accessories",
+  "entries" : {
+    "name" : [ null, "Ahkeli's Meadow" ],
+    "text" : [ null, "Ahkeli's Meadow Ruby Ring" ],
+    "type" : [ "Blue Pearl Amulet" ],
+    "options" : [ null ]
+  }
+}, {
+  "id" : "armour",
+  "label" : "Armour",
+  "entries" : {
+    "name" : [ null, "Abberath's Hooves" ],
+    "text" : [ null, "Abberath's Hooves Goathide Boots" ],
+    "type" : [ "Golden Mantle" ],
+    "options" : [ null ]
+  }
+}, {
+  "id" : "card",
+  "label" : "Cards",
+  "entries" : {
+    "type" : [ "Abandoned Wealth" ],
+    "options" : [ null ]
+  }
+}, {
+  "id" : "currency",
+  "label" : "Currency",
+  "entries" : {
+    "name" : [ null, "Curio of Absorption" ],
+    "text" : [ null, "Curio of Absorption Primordial Fragment" ],
+    "type" : [ "Crusader's Exalted Orb" ],
+    "options" : [ null ]
+  }
+}, {
+  "id" : "flask",
+  "label" : "Flasks",
+  "entries" : {
+    "name" : [ null, "Atziri's Promise" ],
+    "text" : [ null, "Atziri's Promise Amethyst Flask" ],
+    "type" : [ "Small Hybrid Flask" ],
+    "options" : [ null ]
+  }
+}, {
+  "id" : "gem",
+  "label" : "Gems",
+  "entries" : {
+    "disc" : [ null, "alt_y" ],
+    "text" : [ null, "Animate Weapon of Ranged Arms" ],
+    "type" : [ "Absolution" ],
+    "options" : [ null ]
+  }
+}, {
+  "id" : "jewel",
+  "label" : "Jewels",
+  "entries" : {
+    "name" : [ null, "Amanamu's Gaze" ],
+    "text" : [ null, "Amanamu's Gaze Ghastly Eye Jewel" ],
+    "type" : [ "Hypnotic Eye Jewel" ],
+    "options" : [ null ]
+  }
+}, {
+  "id" : "map",
+  "label" : "Maps",
+  "entries" : {
+    "name" : [ null, "Acton's Nightmare" ],
+    "disc" : [ null, "warfortheatlas" ],
+    "text" : [ null, "Caldera Map (Atlas of Worlds)" ],
+    "type" : [ "Chronicle of Atzoatl" ],
+    "options" : [ null ]
+  }
+}, {
+  "id" : "weapon",
+  "label" : "Weapons",
+  "entries" : {
+    "name" : [ null, "Abberath's Horn" ],
+    "text" : [ null, "Abberath's Horn Goat's Horn" ],
+    "type" : [ "Nailed Fist" ],
+    "options" : [ null ]
+  }
+}, {
+  "id" : "leaguestone",
+  "label" : "Leaguestones",
+  "entries" : {
+    "type" : [ "Ambush Leaguestone" ],
+    "options" : [ null ]
+  }
+}, {
+  "id" : "monster",
+  "label" : "Itemised Monsters",
+  "entries" : {
+    "type" : [ "The Great White Beast" ],
+    "options" : [ null ]
+  }
+}, {
+  "id" : "heistequipment",
+  "label" : "Heist Equipment",
+  "entries" : {
+    "type" : [ "Eelskin Sole" ],
+    "options" : [ null ]
+  }
+}, {
+  "id" : "heistmission",
+  "label" : "Heist Mission",
+  "entries" : {
+    "name" : [ null, "Contract: Breaking the Unbreakable" ],
+    "text" : [ null, "Contract: Breaking the Unbreakable Preventative Contract" ],
+    "type" : [ "Blueprint: Bunker" ],
+    "options" : [ null ]
+  }
+}, {
+  "id" : "logbook",
+  "label" : "Expedition Logbooks",
+  "entries" : {
+    "type" : [ "Expedition Logbook" ],
+    "options" : [ null ]
+  }
+}, {
+  "id" : "sanctum",
+  "label" : "Sanctum Research",
+  "entries" : {
+    "name" : [ null, "The Blood of Innocence" ],
+    "text" : [ null, "The Blood of Innocence Censer Relic" ],
+    "type" : [ "Censer Relic" ],
+    "options" : [ null ]
+  }
+}, {
+  "id" : "memoryline",
+  "label" : "Atlas Memories",
+  "entries" : {
+    "type" : [ "Alva's Memory" ],
+    "options" : [ null ]
+  }
+}, {
+  "id" : "tincture",
+  "label" : "Tincture",
+  "entries" : {
+    "name" : [ null, "Grasping Nightshade" ],
+    "text" : [ null, "Grasping Nightshade Sporebloom Tincture" ],
+    "type" : [ "Prismatic Tincture" ],
+    "options" : [ null ]
+  }
+}, {
+  "id" : "corpse",
+  "label" : "Itemised Corpse",
+  "entries" : {
+    "type" : [ "Perfect Naval Officer" ],
+    "options" : [ null ]
+  }
+}, {
+  "id" : "idol",
+  "label" : "Idol",
+  "entries" : {
+    "name" : [ null, "Arbitrary Tenets" ],
+    "text" : [ null, "Arbitrary Tenets Minor Idol" ],
+    "type" : [ "Minor Idol" ],
+    "options" : [ null ]
+  }
+} ]
