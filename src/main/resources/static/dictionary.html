@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Custom Dictionary</title>
+    <style>
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+
+        th, td {
+            border: 1px solid #ddd;
+            padding: 8px;
+        }
+
+        th {
+            background-color: #f4f4f4;
+        }
+
+        form {
+            margin-bottom: 20px;
+        }
+
+        input {
+            margin-right: 10px;
+        }
+
+        .editable {
+            width: 100%;
+            border: none;
+            background: transparent;
+        }
+    </style>
+</head>
+<body>
+<h1>Custom Dictionary</h1>
+
+<!-- 입력 폼 -->
+<form id="dictionary-form">
+    <input type="text" id="eng" placeholder="영어 (Key)" required>
+    <input type="text" id="kor" placeholder="한국어 (Value)" required>
+    <button type="submit">추가</button>
+</form>
+
+<table>
+    <thead>
+    <tr>
+        <th>영어 (Key)</th>
+        <th>한국어 (Value)</th>
+        <th>작업</th> <!-- 삭제 버튼 열 -->
+    </tr>
+    </thead>
+    <tbody id="dictionary-table-body">
+    <!-- 데이터가 여기에 추가됩니다 -->
+    </tbody>
+</table>
+
+<button id="save-button">저장</button>
+
+<!-- 분리된 JavaScript 파일 포함 -->
+<script src="js/dictionary-editor.js"></script>
+</body>
+</html>

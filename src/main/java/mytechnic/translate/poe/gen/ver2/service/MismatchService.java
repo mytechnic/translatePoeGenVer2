@@ -24,28 +24,38 @@ import java.util.stream.Stream;
 
 @Service
 public class MismatchService {
+    private static final String DATA_DIRECTORY = "data"; // 미스매치 및 사전 파일 디렉토리
     private static final ObjectMapper objectMapper = new ObjectMapper()
             .configure(DeserializationFeature.FAIL_ON_UNKNOWN_PROPERTIES, false)
             .setSerializationInclusion(JsonInclude.Include.NON_NULL);
 
-    // 미스매치 파일 목록 읽기
-    public List<String> loadMismatchFileList() {
-        try (Stream<Path> paths = Files.list(Paths.get("data"))) {
+    // 데이터 디렉토리 내 파일 목록 읽기
+    public List<String> loadFileList(String prefix) {
+        try (Stream<Path> paths = Files.list(Paths.get(DATA_DIRECTORY))) {
             return paths
                     .filter(Files::isRegularFile)
-                    .filter(row -> !loadMismatchFile(row.getFileName().toString()).isEmpty())
                     .map(Path::getFileName)
                     .map(Path::toString)
-                    .filter(f -> f.startsWith("mismatch"))
+                    .filter(f -> f.startsWith(prefix))
                     .collect(Collectors.toList());
         } catch (IOException e) {
             throw new RuntimeException("파일 목록 읽기 실패", e);
         }
     }
 
+    // 미스매치 파일 목록 읽기
+    public List<String> loadMismatchFileList() {
+        return loadFileList("mismatch");
+    }
+
+    // 사전 파일 목록 읽기
+    public List<String> loadDictionaryFileList() {
+        return loadFileList("dictionary");
+    }
+
     // 미스매치 파일 읽기
     public List<MismatchStructureDto> loadMismatchFile(String mismatchFileName) {
-        File file = new File("data/" + mismatchFileName);
+        File file = new File(DATA_DIRECTORY + "/" + mismatchFileName);
 
         if (!file.exists()) {
             return Collections.emptyList();
@@ -59,7 +69,6 @@ public class MismatchService {
             return Collections.emptyList();
         }
 
-        // 중복 코드 리팩토링: 데이터 정리 함수 호출
         mismatchStructureList.forEach(this::cleanEntries);
 
         mismatchStructureList = mismatchStructureList.stream().filter(row -> row.getEntries() != null)
@@ -68,9 +77,22 @@ public class MismatchService {
         return mismatchStructureList;
     }
 
+    // 사전 파일 읽기
+    private Map<String, String> loadDictionaryFile(String dictionaryFileName) {
+        File dictFile = new File(DATA_DIRECTORY, dictionaryFileName);
+        if (!dictFile.exists()) {
+            return new HashMap<>();
+        }
+        try {
+            return objectMapper.readValue(dictFile, new TypeReference<Map<String, String>>() {
+            });
+        } catch (IOException e) {
+            throw new RuntimeException("사전 데이터 파일 읽기 실패", e);
+        }
+    }
+
     // 엔트리 데이터 정리
     private void cleanEntries(MismatchStructureDto mismatchStructureDto) {
-        // 영어와 한국어 엔트리 각각 정리
         mismatchStructureDto.getEntries().setEngEntry(cleanEntry(mismatchStructureDto.getEntries().getEngEntry()));
         mismatchStructureDto.getEntries().setKorEntry(cleanEntry(mismatchStructureDto.getEntries().getKorEntry()));
 
@@ -102,63 +124,38 @@ public class MismatchService {
         return entry;
     }
 
-    // 빈 값 제거
+    // 빈 값 필터링
     private List<String> filterEmptyValues(List<String> list) {
         return list.stream()
                 .filter(s -> !ObjectUtils.isEmpty(s))
                 .collect(Collectors.toList());
     }
 
-    // 사전 파일 읽기
-    public List<MismatchStructureDto> getMismatchFile(String mismatchFileName) throws IOException {
-        Path path = Paths.get("data", mismatchFileName);
-        return Files.exists(path) ? loadMismatchFile(mismatchFileName) : Collections.emptyList();
-    }
-
-    // 저장 처리
+    // 사전 데이터 저장
     public void saveDictionary(SaveDictionaryRequest request) {
         String mismatchFileName = request.getMismatchFileName();
         String dictionaryFileName = request.getDictionaryFileName();
-        String fieldToNull = request.getField(); // 클라이언트에서 null 처리할 필드 가져오기
+        String fieldToNull = request.getField();
 
-        File mismatchFile = new File("data", mismatchFileName);
+        File mismatchFile = new File(DATA_DIRECTORY, mismatchFileName);
         if (!mismatchFile.exists()) {
             throw new RuntimeException("미스매치 파일을 찾을 수 없습니다.");
         }
 
-        // 사전 데이터 파일이 존재하면 읽어들임
         Map<String, String> dictionaryMap = loadDictionaryFile(dictionaryFileName);
 
         try {
-            // 미스매치 데이터 처리
             MismatchStructureDto[] mismatchData = objectMapper.readValue(mismatchFile, MismatchStructureDto[].class);
 
-            // 미스매치 항목의 특정 필드를 null 처리
             processFieldNull(mismatchData, fieldToNull);
 
-            // 클라이언트에서 전달된 mappings 데이터를 기존 사전 데이터에 추가
             addMappingsToDictionary(dictionaryMap, request.getMappings());
 
-            // 파일 덮어쓰기
             writeDictionaryFile(dictionaryFileName, dictionaryMap);
             writeMismatchFile(mismatchFileName, mismatchData);
 
         } catch (IOException e) {
             throw new RuntimeException("파일 저장 실패", e);
-        }
-    }
-
-    // 사전 파일 읽기
-    private Map<String, String> loadDictionaryFile(String dictionaryFileName) {
-        File dictFile = new File(dictionaryFileName);
-        if (!dictFile.exists()) {
-            return new HashMap<>();
-        }
-        try {
-            return objectMapper.readValue(dictFile, new TypeReference<Map<String, String>>() {
-            });
-        } catch (IOException e) {
-            throw new RuntimeException("사전 데이터 파일 읽기 실패", e);
         }
     }
 
@@ -193,18 +190,18 @@ public class MismatchService {
         }
     }
 
-    // 사전 데이터 덧붙이기
+    // 사전 데이터 병합
     private void addMappingsToDictionary(Map<String, String> existingMap, Map<String, String> mappings) {
-        mappings.forEach((key, value) -> existingMap.put(key.toLowerCase(), value));  // 영어를 소문자로 변환하여 저장
+        mappings.forEach((key, value) -> existingMap.put(key.toLowerCase(), value));
     }
 
-    // 미스매치 파일 덮어쓰기
+    // 미스매치 파일 저장
     private void writeMismatchFile(String mismatchFileName, MismatchStructureDto[] mismatchData) throws IOException {
-        objectMapper.writeValue(new File("data", mismatchFileName), mismatchData);
+        objectMapper.writeValue(new File(DATA_DIRECTORY, mismatchFileName), mismatchData);
     }
 
-    // 사전 파일 덮어쓰기
+    // 사전 파일 저장
     private void writeDictionaryFile(String dictionaryFileName, Map<String, String> dictionaryMap) throws IOException {
-        objectMapper.writeValue(new File("data", dictionaryFileName), dictionaryMap);
+        objectMapper.writeValue(new File(DATA_DIRECTORY, dictionaryFileName), dictionaryMap);
     }
 }

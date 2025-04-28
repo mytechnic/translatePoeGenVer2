@@ -19,20 +19,20 @@ public class MismatchController {
         this.mismatchService = mismatchService;
     }
 
-    // 미스매치 파일 읽기 (load)
+    // 미스매치 파일 목록 읽기
     @GetMapping("/load")
     public ResponseEntity<List<String>> loadMismatchFile() {
         List<String> files = mismatchService.loadMismatchFileList();
         return ResponseEntity.ok(files);
     }
 
-    // 사전 파일 읽기 (get)
+    // 사전 파일 읽기
     @GetMapping("/get")
     public ResponseEntity<List<MismatchStructureDto>> getDictionaryFile(@RequestParam String fileName) throws IOException {
-        return ResponseEntity.ok(mismatchService.getMismatchFile(fileName));
+        return ResponseEntity.ok(mismatchService.loadMismatchFile(fileName));
     }
 
-    // 저장 처리 (save)
+    // 사전 데이터 저장
     @PostMapping("/save")
     public void saveMismatch(@RequestBody SaveDictionaryRequest request) {
         mismatchService.saveDictionary(request);
